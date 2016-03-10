@@ -1,9 +1,13 @@
 oss,component,url,copyright,license
-ActionBarSherlock,,http://github.com/JakeWharton/ActionBarSherlock/,2012 Jake Wharton,Apache License 2.0
-Android Open Source Project (AOSP),"- developers - samples - android
-- packages - apps - Camera
-- frameworks - volley
-- SDK Support Libraries
-- Support Library (v4)",https://android.googlesource.com,2007-2015 The Android Open Source Project,Apache License 2.0
-Apache HttpComponents,,http://hc.apache.org/,2005-2015 The Apache Software Foundation,Apache License 2.0
-JSON-java,,http://github.com/douglascrockford/JSON-java/,2015 Douglas Crockford,MIT License
+BigDataAnalytics,BigDataAnalytics,,,[template] Basic Proprietary Commercial License
+Bootstrap,Bootstrap,https://www.npmjs.org/package/bootstrap-sass,,MIT License
+dynatree,dynatree,http://github.com/spekkionu/dynatree/,,MIT License
+jquery,jquery,http://github.com/jquery/jquery/,,MIT License
+jQuery UI,jQuery UI,http://webjars.org,,MIT License
+jQuery UI - jquery-ui from code.google.com,jQuery UI - jquery-ui from code.google.com,http://code.google.com/p/jquery-ui/,,MIT License
+jQuery UI - org.webjars:jquery-ui,jQuery UI - org.webjars:jquery-ui,http://webjars.org,,MIT License
+jquery-cookie,jquery-cookie,http://github.com/carhartl/jquery-cookie/,,MIT License
+Oracle JDBC Drivers,Oracle JDBC Drivers,http://www.oracle.com/technology/software/tech/java/sqlj_jdbc/index.html,,Oracle Technology Network Development and Distribution 01-2009 License
+Original_General_Use,Original_General_Use,,,Unspecified
+Original_Not_Source_Code-Image,Original_Not_Source_Code-Image,,,Unspecified
+toastr,toastr,https://www.npmjs.org/package/toastr,,MIT License
