@@ -1,25 +1,25 @@
 oss,component,url,copyright,license
-Android Support Library (v4),,http://developer.android.com/sdk/compatibility-library.html,Copyright ? 2016 Google Inc.,Apache License 2.0
-Apache-Jakarta Codec,1.10,http://commons.apache.org/proper/commons-codec/,Copyright ? 2002-2014 The Apache Software Foundation,Apache License 2.0
-Gson,2.3.1,http://repo.maven.apache.org/maven2//com/google/code/gson/gson/,Copyright 2008 Google Inc.,Apache License 2.0
-AOP Alliance (Java/J2EE AOP standard),1.0,http://sourceforge.net/projects/aopalliance/,all the source code provided by AOP Alliance is Public Domain,Public Domain
-Apache Commons Collections,3.2,http://commons.apache.org/collections/,Copyright 2001-2015 The Apache Software Foundation,Apache License 2.0
-Apache Commons Configuration,1.10,http://commons.apache.org/configuration/,Copyright 2001-2015 The Apache Software Foundation,Apache License 2.0
-Apache Commons Lang,2.4,http://commons.apache.org/proper/commons-lang/,Copyright 2001-2015 The Apache Software Foundation,Apache License 2.0
-Apache Commons Lang,2.6,http://commons.apache.org/proper/commons-lang/,Copyright 2001-2015 The Apache Software Foundation,Apache License 2.0
-Apache Jackrabbit,1.3,http://jackrabbit.apache.org/,Copyright 2014 The Apache Software Foundation,Apache License 2.0
-Apache Jakarta Commons BeanUtils,1.7.0,http://jakarta.apache.org/commons/beanutils/index.html,Copyright 2014 The Apache Software Foundation,Apache License 2.0
-Apache Jakarta Commons Codec,1.2,http://jakarta.apache.org/commons/codec/,Copyright 2014 The Apache Software Foundation,Apache License 1.1
-Apache Jakarta Commons Digester,1.6,http://jakarta.apache.org/commons/digester/index.html,Copyright 2013 The Apache Software Foundation,Apache License 2.0
-Apache Jakarta Commons Validator,1.2.0,http://commons.apache.org/proper/commons-validator,Copyright 2001-2015 The Apache Software Foundation,Apache License 2.0
-Apache Jakarta HTTP Client,3.1,http://jakarta.apache.org/commons/httpclient/,Copyright 2001-2015 The Apache Software Foundation,Apache License 2.0
-Apache Jakarta Velocity,1.5,http://velocity.apache.org/,Copyright (C) 2000-2007 The Apache Software Foundation,Apache License 2.0
-Apache ORO,2.0.8,http://jakarta.apache.org/oro/index.html,Copyright ? 2009-2016 The Apache Software Foundation,Apache License 1.1
-Apache Tomcat,5.5.9,http://jakarta.apache.org/tomcat/index.html,"Copyright ? 1999-2016, The Apache Software Foundation ",Apache License 2.0
-Apache Torque,3.1.1,http://db.apache.org/torque/,Copyright ? 2000-2013 The Apache Software Foundation,Apache License 2.0
-Apache-Jakarta Pool,1.5.4,http://jakarta.apache.org/commons/pool/,Copyright 2001-2015 The Apache Software Foundation,Apache License 2.0
-ASM All,4.1,http://mirrors.ibiblio.org/maven2/org/ow2/asm/asm-all/,"Copyright (c) 2000-2011 INRIA, France Telecom","BSD 3-clause ""New"" or ""Revised"" License"
-AspectJ tools,1.8.7,http://repo.maven.apache.org/maven2//org/aspectj/aspectjtools/,Copyright ? 2015 The Eclipse Foundation,Eclipse Public License 1.0
+Android Support Library (v4),,http://developer.android.com/sdk/compatibility-library.html,2016 Google Inc.,Apache License 2.0
+Apache-Jakarta Codec,1.1,http://commons.apache.org/proper/commons-codec/,2002-2014 The Apache Software Foundation,Apache License 2.0
+Gson,2.3.1,http://repo.maven.apache.org/maven2//com/google/code/gson/gson/,2008 Google Inc.,Apache License 2.0
+AOP Alliance (Java/J2EE AOP standard),1,http://sourceforge.net/projects/aopalliance/,all the source code provided by AOP Alliance is Public Domain,Public Domain
+Apache Commons Collections,3.2,http://commons.apache.org/collections/,2001-2015 The Apache Software Foundation,Apache License 2.0
+Apache Commons Configuration,1.1,http://commons.apache.org/configuration/,2001-2015 The Apache Software Foundation,Apache License 2.0
+Apache Commons Lang,2.4,http://commons.apache.org/proper/commons-lang/,2001-2015 The Apache Software Foundation,Apache License 2.0
+Apache Commons Lang,2.6,http://commons.apache.org/proper/commons-lang/,2001-2015 The Apache Software Foundation,Apache License 2.0
+Apache Jackrabbit,1.3,http://jackrabbit.apache.org/,2014 The Apache Software Foundation,Apache License 2.0
+Apache Jakarta Commons BeanUtils,1.7.0,http://jakarta.apache.org/commons/beanutils/index.html,2014 The Apache Software Foundation,Apache License 2.0
+Apache Jakarta Commons Codec,1.2,http://jakarta.apache.org/commons/codec/,2014 The Apache Software Foundation,Apache License 1.1
+Apache Jakarta Commons Digester,1.6,http://jakarta.apache.org/commons/digester/index.html,2013 The Apache Software Foundation,Apache License 2.0
+Apache Jakarta Commons Validator,1.2.0,http://commons.apache.org/proper/commons-validator,2001-2015 The Apache Software Foundation,Apache License 2.0
+Apache Jakarta HTTP Client,3.1,http://jakarta.apache.org/commons/httpclient/,2001-2015 The Apache Software Foundation,Apache License 2.0
+Apache Jakarta Velocity,1.5,http://velocity.apache.org/,2000-2007 The Apache Software Foundation,Apache License 2.0
+Apache ORO,2.0.8,http://jakarta.apache.org/oro/index.html,2009-2016 The Apache Software Foundation,Apache License 1.1
+Apache Tomcat,5.5.9,http://jakarta.apache.org/tomcat/index.html,"1999-2016, The Apache Software Foundation ",Apache License 2.0
+Apache Torque,3.1.1,http://db.apache.org/torque/,2000-2013 The Apache Software Foundation,Apache License 2.0
+Apache-Jakarta Pool,1.5.4,http://jakarta.apache.org/commons/pool/,2001-2015 The Apache Software Foundation,Apache License 2.0
+ASM All,4.1,http://mirrors.ibiblio.org/maven2/org/ow2/asm/asm-all/,"2000-2011 INRIA, France Telecom","BSD 3-clause ""New"" or ""Revised"" License"
+AspectJ tools,1.8.7,http://repo.maven.apache.org/maven2//org/aspectj/aspectjtools/,2015 The Eclipse Foundation,Eclipse Public License 1.0
 backport-util-concurrent,3.1,http://backport-jsr166.sourceforge.net/index.php,"Distributed Computing Laboratory, Emory University
 Google, Inc.",Creative Commons Public Domain Dedication License
 beanvalidation-api,1.1.0.Final,http://github.com/beanvalidation/beanvalidation-api/,"# List of contributors
@@ -36,17 +36,17 @@ Sebastian Thomschke
 
 Generated by src/main/scripts/gencopyright.sh",Apache License 2.0
 classworlds,1.1-alpha-2,http://classworlds.codehaus.org/,Source for www.codehaus.org,Plexus Classworlds License
-Commons DBCP,1.4,http://commons.apache.org/dbcp/,Copyright 2001-2010 The Apache Software Foundation,Apache License 2.0
-Commons Logging - commons-logging:commons-logging,1.2,http://commons.apache.org/proper/commons-logging/,Copyright 2003-2014 The Apache Software Foundation,Apache License 2.0
-Default Plexus Container,1.0-alpha-9,http://codehaus-plexus.github.io/plexus-containers/plexus-container-default/,Copyright ? 2001?2015 Codehaus Plexus.,Apache License 2.0
-Doxia :: Core,1.1.2,http://repo1.maven.org/maven2/org/apache/maven/doxia/doxia-core/,Copyright ? 2005-2009 The Apache Software Foundation,Apache License 2.0
-Doxia :: FML Module,1.1.2,http://repo1.maven.org/maven2/org/apache/maven/doxia/doxia-module-fml/,Copyright 2005-2009 The Apache Software Foundation,Apache License 2.0
-Doxia :: Logging API,1.1,http://repo1.maven.org/maven2/org/apache/maven/doxia/doxia-logging-api/,Copyright 2005-2009 The Apache Software Foundation,Apache License 2.0
-Doxia :: Sink API,1.1,http://repo1.maven.org/maven2/org/apache/maven/doxia/doxia-sink-api/,Copyright 2005-2009 The Apache Software Foundation,Apache License 2.0
-Doxia :: XHTML Module,1.1.2,http://repo1.maven.org/maven2/org/apache/maven/doxia/doxia-module-xhtml/,Copyright 2005-2009 The Apache Software Foundation,Apache License 2.0
-Doxia Sitetools :: Decoration Model,1.1.2,http://repo1.maven.org/maven2/org/apache/maven/doxia/doxia-decoration-model/,Copyright 2005-2009 The Apache Software Foundation,Apache License 2.0
-Doxia Sitetools :: Site Renderer Component,1.1.2,http://repo1.maven.org/maven2/org/apache/maven/doxia/doxia-site-renderer/,Copyright 2005-2009 The Apache Software Foundation,Apache License 2.0
-google-gson,1.4,http://code.google.com/p/google-gson/,Copyright 2008 Google Inc.,Apache License 2.0
+Commons DBCP,1.4,http://commons.apache.org/dbcp/,2001-2010 The Apache Software Foundation,Apache License 2.0
+Commons Logging - commons-logging:commons-logging,1.2,http://commons.apache.org/proper/commons-logging/,2003-2014 The Apache Software Foundation,Apache License 2.0
+Default Plexus Container,1.0-alpha-9,http://codehaus-plexus.github.io/plexus-containers/plexus-container-default/,2001?2015 Codehaus Plexus.,Apache License 2.0
+Doxia :: Core,1.1.2,http://repo1.maven.org/maven2/org/apache/maven/doxia/doxia-core/,2005-2009 The Apache Software Foundation,Apache License 2.0
+Doxia :: FML Module,1.1.2,http://repo1.maven.org/maven2/org/apache/maven/doxia/doxia-module-fml/,2005-2009 The Apache Software Foundation,Apache License 2.0
+Doxia :: Logging API,1.1,http://repo1.maven.org/maven2/org/apache/maven/doxia/doxia-logging-api/,2005-2009 The Apache Software Foundation,Apache License 2.0
+Doxia :: Sink API,1.1,http://repo1.maven.org/maven2/org/apache/maven/doxia/doxia-sink-api/,2005-2009 The Apache Software Foundation,Apache License 2.0
+Doxia :: XHTML Module,1.1.2,http://repo1.maven.org/maven2/org/apache/maven/doxia/doxia-module-xhtml/,2005-2009 The Apache Software Foundation,Apache License 2.0
+Doxia Sitetools :: Decoration Model,1.1.2,http://repo1.maven.org/maven2/org/apache/maven/doxia/doxia-decoration-model/,2005-2009 The Apache Software Foundation,Apache License 2.0
+Doxia Sitetools :: Site Renderer Component,1.1.2,http://repo1.maven.org/maven2/org/apache/maven/doxia/doxia-site-renderer/,2005-2009 The Apache Software Foundation,Apache License 2.0
+google-gson,1.4,http://code.google.com/p/google-gson/,2008 Google Inc.,Apache License 2.0
 Hibernate Validator Engine,5.0.1.Final,http://validator.hibernate.org/hibernate-validator,"Adam Stawicki
 Alaa Nassef
 Andrey Rodionov
@@ -82,46 +82,46 @@ Steve Ebersole
 Strong Liu
 Victor Rezende dos Santos
 ",Apache License 2.0
-Jackson-annotations,2.6.0,http://repo.maven.apache.org/maven2//com/fasterxml/jackson/core/jackson-annotations/,Copyright 2005-2016 The Apache Software Foundation,Apache License 2.0
-Jackson-core,2.6.3,http://repo.maven.apache.org/maven2//com/fasterxml/jackson/core/jackson-core/,Copyright 2005-2016 The Apache Software Foundation,Apache License 2.0
-jackson-databind,2.6.3,http://repo.maven.apache.org/maven2//com/fasterxml/jackson/core/jackson-databind/,Copyright 2005-2016 The Apache Software Foundation,Apache License 2.0
-JaCoCo :: Agent,0.6.5.201403032054,http://eclemma.org/jacoco/trunk/,"Copyright ? 2009, 2016 Mountainminds GmbH & Co. KG and Contributors",Eclipse Public License 1.0
-JaCoCo :: Core,0.6.5.201403032054,http://eclemma.org/jacoco/trunk/,"Copyright ? 2009, 2016 Mountainminds GmbH & Co. KG and Contributors",Eclipse Public License 1.0
-JaCoCo :: Maven Plugin,0.6.5.201403032054,http://repo.maven.apache.org/maven2//org/jacoco/jacoco-maven-plugin/,"Copyright ? 2009, 2016 Mountainminds GmbH & Co. KG and Contributors",Eclipse Public License 1.0
-JaCoCo :: Report,0.6.5.201403032054,http://eclemma.org/jacoco/trunk/,"Copyright ? 2009, 2016 Mountainminds GmbH & Co. KG and Contributors",Eclipse Public License 1.0
-Java Native Access,3.3.0,http://repo1.maven.org/maven2/net/java/dev/jna/jna/,"Copyright (c) 2011 Timothy Wall, All Rights Reserved","LGPL 2.1 and Apache License 2.0. (starting with 3 JNA version 4.0.0) 
+Jackson-annotations,2.6.0,http://repo.maven.apache.org/maven2//com/fasterxml/jackson/core/jackson-annotations/,2005-2016 The Apache Software Foundation,Apache License 2.0
+Jackson-core,2.6.3,http://repo.maven.apache.org/maven2//com/fasterxml/jackson/core/jackson-core/,2005-2016 The Apache Software Foundation,Apache License 2.0
+jackson-databind,2.6.3,http://repo.maven.apache.org/maven2//com/fasterxml/jackson/core/jackson-databind/,2005-2016 The Apache Software Foundation,Apache License 2.0
+JaCoCo :: Agent,0.6.5.201403032054,http://eclemma.org/jacoco/trunk/,"2009, 2016 Mountainminds GmbH & Co. KG and Contributors",Eclipse Public License 1.0
+JaCoCo :: Core,0.6.5.201403032054,http://eclemma.org/jacoco/trunk/,"2009, 2016 Mountainminds GmbH & Co. KG and Contributors",Eclipse Public License 1.0
+JaCoCo :: Maven Plugin,0.6.5.201403032054,http://repo.maven.apache.org/maven2//org/jacoco/jacoco-maven-plugin/,"2009, 2016 Mountainminds GmbH & Co. KG and Contributors",Eclipse Public License 1.0
+JaCoCo :: Report,0.6.5.201403032054,http://eclemma.org/jacoco/trunk/,"2009, 2016 Mountainminds GmbH & Co. KG and Contributors",Eclipse Public License 1.0
+Java Native Access,3.3.0,http://repo1.maven.org/maven2/net/java/dev/jna/jna/,"2011 Timothy Wall, All Rights Reserved","LGPL 2.1 and Apache License 2.0. (starting with 3 JNA version 4.0.0) 
 "
-Java Servlet API,3.1.0,http://servlet-spec.java.net,"Copyright ? 2014, Oracle Corporation and/or its affiliates.",Common Development and Distribution License (CDDL-1.0)
+Java Servlet API,3.1.0,http://servlet-spec.java.net,"2014, Oracle Corporation and/or its affiliates.",Common Development and Distribution License (CDDL-1.0)
 java-classmate,0.8.0,http://github.com/cowtowncoder/java-classmate,Google group java-classmate-users@googlegroups.com is used for questions and discussion around usage and development of this library.,Apache License 2.0
-JAVE,1.0.2,http://sourceforge.net/projects/jave/,The JavE software is Copyright (C) 2000-2002 by Markus Gebhard.,GNU General Public License v3.0 or later
-JBoss Logging 3,3.1.1.GA,https://repository.jboss.org/nexus/content/groups/public-jboss/org/jboss/logging/jboss-logging/,"Copyright 2014, Red Hat Middleware LLC, and individual contributors as indicated by the @author tags.",GNU Lesser General Public License v2.1 or later
-Logback Classic Module,1.1.3,http://repo.maven.apache.org/maven2//ch/qos/logback/logback-classic/,"Copyright (C) 1999-2012, QOS.ch. All rights reserved.",EPL v1.0 and the LGPL 2.1
-Logback Core Module,1.1.3,http://repo.maven.apache.org/maven2//ch/qos/logback/logback-core/,"Copyright (C) 1999-2012, QOS.ch. All rights reserved.",EPL v1.0 and the LGPL 2.1
-mariadb-java-client,1.2.3,http://repo.maven.apache.org/maven2//org/mariadb/jdbc/mariadb-java-client/,Copyright ? MariaDB Foundation 2016,GNU Lesser General Public License v2.1 or later
-Maven Artifact,Unspecified,http://maven.apache.org/ref/3.0.4//maven-artifact,Copyright ? 2001-2012 The Apache Software Foundation.,Apache License 2.0
-Maven Artifact,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/maven-artifact/,Copyright ? 2001-2012 The Apache Software Foundation.,Apache License 2.0
-Maven Artifact Manager,Unspecified,http://repo1.maven.org/maven2/org/apache/maven/maven-artifact-manager/,Copyright ? 2001-2012 The Apache Software Foundation.,Apache License 2.0
-Maven File Management API,1.2.1,http://repo1.maven.org/maven2/org/apache/maven/shared/file-management/,Copyright ? 2002?2015 The Apache Software Foundation,Apache License 2.0
-Maven Local Settings Model,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/maven-settings/,Copyright ? 2002?2015 The Apache Software Foundation,Apache License 2.0
-Maven Model,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/maven-model/,Copyright ? 2002?2015 The Apache Software Foundation,Apache License 2.0
-Maven Plugin API,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/maven-plugin-api/,Copyright ? 2001-2015 The Apache Software Foundation,Apache License 2.0
-Maven Plugin Registry Model,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/maven-plugin-registry/,Copyright ? 2001-2009 The Apache Software Foundation,Apache License 2.0
-Maven Profile Model,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/maven-profile/,Copyright ? 2001-2010 The Apache Software Foundation,Apache License 2.0
-Maven Project Builder,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/maven-project/,Copyright ? 2001-2009 The Apache Software Foundation,Apache License 2.0
-Maven Reporting API,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/,Copyright ? 2002-2010 The Apache Software Foundation,Apache License 2.0
-Maven Reporting Implementation,2.1,http://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-impl/,Copyright ? 2002-2015 The Apache Software Foundation,Apache License 2.0
-Maven Repository Metadata Model,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/maven-repository-metadata/,Copyright ? 2001-2015 The Apache Software Foundation,Apache License 2.0
-Maven Shared I/O API,1.1,http://repo1.maven.org/maven2/org/apache/maven/shared/maven-shared-io/,Copyright ? 2002-2015 The Apache Software Foundation,Apache License 2.0
-Maven Wagon Provider Test,1.0-beta-6,http://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-provider-test/,Copyright ? 2003-2015 The Apache Software Foundation,Apache License 2.0
-mybatis,3.3.0,http://repo.maven.apache.org/maven2//org/mybatis/mybatis/,Copyright 2010-2013 The MyBatis Team (http://www.mybatis.org/).,Apache License 2.0
-mybatis-spring,1.2.3,http://repo.maven.apache.org/maven2//org/mybatis/mybatis-spring/,Copyright 2010-2013 The MyBatis Team (http://www.mybatis.org/).,Apache License 2.0
-MySQL Connector/J,5.1.20,http://www.mysql.com/products/connector/j/,"Copyright ? 1998, 2016, Oracle and/or its affiliates",GNU General Public License v2.0 or later
-Plexus I18N Component,1.0-beta-7,https://github.com/sonatype/plexus-components/tree/master/plexus-i18n/src/main/java/org/codehaus/plexus/i18n,Copyright 2001-2007 Codehaus Foundation,Apache License 2.0
-Plexus Interpolation API,1.11,http://plexus.codehaus.org/plexus-components/plexus-interpolation,Copyright ? 2001?2015 Codehaus Plexus.,Apache License 2.0
-Plexus Project - Plexus Utils,1.5.6,http://plexus.codehaus.org/plexus-utils/,Copyright ? 2001?2015 Codehaus Plexus.,Apache License 2.0
-Plexus Velocity Component,1.1.7,http://plexus.codehaus.org/plexus-components/plexus-velocity,Copyright ? 2001?2016 Codehaus Plexus.,Apache License 2.0
-plexus-interpolation,Unspecified,http://github.com/sonatype/plexus-interpolation/,Copyright ? 2001?2015 Codehaus Plexus.,Apache License 2.0
-SLF4J API Module,1.7.7,http://www.slf4j.org,Copyright (c) 2004-2013 QOS.ch,MIT License
-SLF4J API Module,1.7.13,http://repo.maven.apache.org/maven2//org/slf4j/slf4j-api/,Copyright (c) 2004-2013 QOS.ch,MIT License
-spring-framework,4.1.6.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/,"Copyright ? 2016 Pivotal Software, Inc.",Apache License 2.0
-spring-security-acl,3.2.9.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/security/spring-security-acl/,"Copyright ? 2016 Pivotal Software, Inc.",Apache License 2.0
+JAVE,1.0.2,http://sourceforge.net/projects/jave/,The JavE software is (C) 2000-2002 by Markus Gebhard.,GNU General Public License v3.0 or later
+JBoss Logging 3,3.1.1.GA,https://repository.jboss.org/nexus/content/groups/public-jboss/org/jboss/logging/jboss-logging/,"2014, Red Hat Middleware LLC, and individual contributors as indicated by the @author tags.",GNU Lesser General Public License v2.1 or later
+Logback Classic Module,1.1.3,http://repo.maven.apache.org/maven2//ch/qos/logback/logback-classic/,"1999-2012, QOS.ch. All rights reserved.",EPL v1.0 and the LGPL 2.1
+Logback Core Module,1.1.3,http://repo.maven.apache.org/maven2//ch/qos/logback/logback-core/,"1999-2012, QOS.ch. All rights reserved.",EPL v1.0 and the LGPL 2.1
+mariadb-java-client,1.2.3,http://repo.maven.apache.org/maven2//org/mariadb/jdbc/mariadb-java-client/,MariaDB Foundation 2016,GNU Lesser General Public License v2.1 or later
+Maven Artifact,Unspecified,http://maven.apache.org/ref/3.0.4//maven-artifact,2001-2012 The Apache Software Foundation.,Apache License 2.0
+Maven Artifact,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/maven-artifact/,2001-2012 The Apache Software Foundation.,Apache License 2.0
+Maven Artifact Manager,Unspecified,http://repo1.maven.org/maven2/org/apache/maven/maven-artifact-manager/,2001-2012 The Apache Software Foundation.,Apache License 2.0
+Maven File Management API,1.2.1,http://repo1.maven.org/maven2/org/apache/maven/shared/file-management/,2002?2015 The Apache Software Foundation,Apache License 2.0
+Maven Local Settings Model,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/maven-settings/,2002?2015 The Apache Software Foundation,Apache License 2.0
+Maven Model,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/maven-model/,2002?2015 The Apache Software Foundation,Apache License 2.0
+Maven Plugin API,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/maven-plugin-api/,2001-2015 The Apache Software Foundation,Apache License 2.0
+Maven Plugin Registry Model,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/maven-plugin-registry/,2001-2009 The Apache Software Foundation,Apache License 2.0
+Maven Profile Model,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/maven-profile/,2001-2010 The Apache Software Foundation,Apache License 2.0
+Maven Project Builder,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/maven-project/,2001-2009 The Apache Software Foundation,Apache License 2.0
+Maven Reporting API,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/,2002-2010 The Apache Software Foundation,Apache License 2.0
+Maven Reporting Implementation,2.1,http://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-impl/,2002-2015 The Apache Software Foundation,Apache License 2.0
+Maven Repository Metadata Model,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/maven-repository-metadata/,2001-2015 The Apache Software Foundation,Apache License 2.0
+Maven Shared I/O API,1.1,http://repo1.maven.org/maven2/org/apache/maven/shared/maven-shared-io/,2002-2015 The Apache Software Foundation,Apache License 2.0
+Maven Wagon Provider Test,1.0-beta-6,http://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-provider-test/,2003-2015 The Apache Software Foundation,Apache License 2.0
+mybatis,3.3.0,http://repo.maven.apache.org/maven2//org/mybatis/mybatis/,2010-2013 The MyBatis Team (http://www.mybatis.org/).,Apache License 2.0
+mybatis-spring,1.2.3,http://repo.maven.apache.org/maven2//org/mybatis/mybatis-spring/,2010-2013 The MyBatis Team (http://www.mybatis.org/).,Apache License 2.0
+MySQL Connector/J,5.1.20,http://www.mysql.com/products/connector/j/,"1998, 2016, Oracle and/or its affiliates",GNU General Public License v2.0 or later
+Plexus I18N Component,1.0-beta-7,https://github.com/sonatype/plexus-components/tree/master/plexus-i18n/src/main/java/org/codehaus/plexus/i18n,2001-2007 Codehaus Foundation,Apache License 2.0
+Plexus Interpolation API,1.11,http://plexus.codehaus.org/plexus-components/plexus-interpolation,2001?2015 Codehaus Plexus.,Apache License 2.0
+Plexus Project - Plexus Utils,1.5.6,http://plexus.codehaus.org/plexus-utils/,2001?2015 Codehaus Plexus.,Apache License 2.0
+Plexus Velocity Component,1.1.7,http://plexus.codehaus.org/plexus-components/plexus-velocity,2001?2016 Codehaus Plexus.,Apache License 2.0
+plexus-interpolation,Unspecified,http://github.com/sonatype/plexus-interpolation/,2001?2015 Codehaus Plexus.,Apache License 2.0
+SLF4J API Module,1.7.7,http://www.slf4j.org,2004-2013 QOS.ch,MIT License
+SLF4J API Module,1.7.13,http://repo.maven.apache.org/maven2//org/slf4j/slf4j-api/,2004-2013 QOS.ch,MIT License
+spring-framework,4.1.6.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/,"2016 Pivotal Software, Inc.",Apache License 2.0
+spring-security-acl,3.2.9.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/security/spring-security-acl/,"2016 Pivotal Software, Inc.",Apache License 2.0
