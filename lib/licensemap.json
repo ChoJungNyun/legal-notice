@@ -310,5 +310,6 @@
     "zlib/libpng License with Acknowledgement": "zlib-acknowledgement",
     "Zope Public License 1.1": "ZPL-1.1",
     "Zope Public License 2.0": "ZPL-2.0",
-    "Zope Public License 2.1": "ZPL-2.1"
+    "Zope Public License 2.1": "ZPL-2.1",
+    "com.oreilly.servlet License": "com.oreilly.servlet License"
 }
