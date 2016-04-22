@@ -312,5 +312,6 @@
     "Zope Public License 2.0": "ZPL-2.0",
     "Zope Public License 2.1": "ZPL-2.1",
     "com.oreilly.servlet License": "com.oreilly.servlet License",
-    "dom4j License (BSD 2.0 +)": "dom4j"
+    "dom4j License (BSD 2.0 +)": "dom4j",
+    "Hypersonic SQL License": "HSQL"
 }
