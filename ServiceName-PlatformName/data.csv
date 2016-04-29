@@ -1,259 +1,64 @@
 oss,component,url,copyright,license
-ActiveIO :: Core,3.1.2,http://repo1.maven.org/maven2/org/apache/activemq/activeio-core/,2005-2009 The Apache Software Foundation,Apache License 2.0
-ActiveMQ :: Camel,5.4.2,http://repo1.maven.org/maven2/org/apache/activemq/activemq-camel/,2005-2010 The Apache Software Foundation,Apache License 2.0
-ActiveMQ :: KahaDB,5.4.2,http://repo1.maven.org/maven2/org/apache/activemq/kahadb/,2005-2010 The Apache Software Foundation,Apache License 2.0
-ActiveMQ :: Pool,5.4.2,http://repo1.maven.org/maven2/org/apache/activemq/activemq-pool/,2005-2010 The Apache Software Foundation,Apache License 2.0
-ActiveMQ Protocol Buffers Implementation and Compiler,1.1,http://repo1.maven.org/maven2/org/apache/activemq/protobuf/activemq-protobuf/,Copyright 2005-2008 The Apache Software Foundation,Apache License 2.0
-Adobe Flex Builder Linux,a3_033108,http://labs.adobe.com/technologies/flex/flexbuilder_linux/,2016 Adobe Systems Incorporated,Adobe Flex Builder 3 Pre-Release License
-Adobe Media Gallery,1.0,http://sourceforge.net/projects/amg/,2005-2006 Adobe Systems Incorporated,MIT License
-Annotation 1.0,1.1.1,http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-annotation_1.0_spec/,2003-2008 The Apache Software Foundation,Apache License 2.0
-Antlr 3 Runtime,3.3,http://www.antlr.org,2010 Terence Parr Maven Plugin - 2009 Jim Idle All rights reserved.,"BSD 3-clause ""New"" or ""Revised"" License"
-ANTLR Grammar Tool,3.3,http://antlr.org,2010 Terence Parr Maven Plugin - 2009 Jim Idle All rights reserved.,"BSD 3-clause ""New"" or ""Revised"" License"
-AOP Alliance (Java/J2EE AOP standard),1.0,http://sourceforge.net/projects/aopalliance/,all the source code provided by AOP Alliance is Public Domain,Public Domain
-Apache ActiveMQ,5.4.2,http://activemq.apache.org/,2004-2011 The Apache Software Foundation,Apache License 2.0
-Apache Commons Collections - commons-collections:commons-collections,3.2.2,http://repo.maven.apache.org/maven2//commons-collections/commons-collections/,2001-2015 The Apache Software Foundation,Apache License 2.0
-Apache Commons FileUpload,1.2,http://commons.apache.org/proper/commons-fileupload/,2002-2014 The Apache Software Foundation. ,Apache License 2.0
-Apache Commons Lang,3.3.2,http://commons.apache.org/proper/commons-lang/,2001-2015 The Apache Software Foundation,Apache License 2.0
-Apache Commons Lang,2.1,http://commons.apache.org/proper/commons-lang/,2001-2015 The Apache Software Foundation,Apache License 2.0
-Apache CXF Bundle Jar,2.7.12,http://cxf.apache.org,2006-2015 The Apache Software Foundation,Apache License 2.0
-Apache CXF Manifest Jar,2.7.12,http://cxf.apache.org,2006-2015 The Apache Software Foundation,Apache License 2.0
-Apache CXF STS Core,2.7.12,http://cxf.apache.org,2006-2015 The Apache Software Foundation,Apache License 2.0
-Apache CXF WSN API,2.7.12,http://cxf.apache.org,2006-2015 The Apache Software Foundation,Apache License 2.0
-Apache CXF WSN Core,2.7.12,http://cxf.apache.org,2006-2015 The Apache Software Foundation,Apache License 2.0
-Apache CXF XJC Boolean Getter Plugin,2.6.2,http://cxf.apache.org,2006-2015 The Apache Software Foundation,Apache License 2.0
-Apache CXF XJC Default Value Plugin,2.6.2,http://cxf.apache.org,2006-2015 The Apache Software Foundation,Apache License 2.0
-Apache CXF XJC Plugin To Workaround JAXB Bug 671,2.6.2,http://cxf.apache.org,2006-2015 The Apache Software Foundation,Apache License 2.0
-Apache CXF XJC Runtime,2.6.2,http://cxf.apache.org,2006-2015 The Apache Software Foundation,Apache License 2.0
-Apache CXF XJC toString Plugin,2.6.2,http://cxf.apache.org,2006-2015 The Apache Software Foundation,Apache License 2.0
-Apache Geronimo Activation,1.1,http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-activation_1.0.2_spec/,The Apache Software Foundation,Apache License 2.0
-Apache Geronimo Servlet 3.0 Spec,1.0,http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-servlet_3.0_spec/,2003-2010 The Apache Software Foundation,Apache License 2.0
-Apache Jakarta Commons CLI,1.0,http://jakarta.apache.org/commons/cli/,2001-2007 The Apache Software Foundation,Apache License 1.1
-Apache Jakarta Commons Digester,1.5,http://jakarta.apache.org/commons/digester/index.html,2013 The Apache Software Foundation,Apache License 1.1
-Apache Jakarta Commons JEXL,1.1,http://jakarta.apache.org/commons/jexl/,2001-2015 The Apache Software Foundation. ,Apache License 2.0
-Apache Jakarta Commons Logging,1.1,http://jakarta.apache.org/commons/logging/,2001-2014 The Apache Software Foundation,Apache License 2.0
-Apache Jakarta HTTP Client,3.1,http://jakarta.apache.org/commons/httpclient/,2001-2015 The Apache Software Foundation,Apache License 2.0
-Apache Log4j,1.2.16,http://logging.apache.org/log4j/1.2/,1999-2012 Apache Software Foundation,Apache License 2.0
-Apache MINA Core,2.0.4,http://repo1.maven.org/maven2/org/apache/mina/mina-core/,2004-2011 Apache MINA Project,Apache License 2.0
-Apache Neethi,3.0.1,http://ws.apache.org/commons/neethi/index.html,2004-2014 The Apache Software Foundation,Apache License 2.0
-Apache POI,3.7,http://repo1.maven.org/maven2/org/apache/poi/poi/,2009 The Apache Software Foundation,Apache License 2.0
-Apache POI,Unspecified,http://github.com/orione/POI/,2009 The Apache Software Foundation,Apache License 2.0
-Apache POI - org.apache.poi:poi-examples,3.7,http://repo1.maven.org/maven2/org/apache/poi/poi-examples/,2009 The Apache Software Foundation,Apache License 2.0
-Apache POI - org.apache.poi:poi-ooxml,3.7,http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml/,2009 The Apache Software Foundation,Apache License 2.0
-Apache POI - org.apache.poi:poi-ooxml-schemas,3.7,http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml-schemas/,2009 The Apache Software Foundation,Apache License 2.0
-Apache POI - org.apache.poi:poi-scratchpad,Unspecified,http://repo1.maven.org/maven2/poi/poi-scratchpad/,2009 The Apache Software Foundation,Apache License 2.0
-Apache ServiceMix :: Bundles :: shiro,1.1.0_3,https://repository.apache.org/content/repositories/releases/org/apache/servicemix/bundles/org.apache.servicemix.bundles.shiro/,2005-2012 The Apache Software Foundation,Apache License 2.0
-Apache Tomcat,4.0,http://jakarta.apache.org/tomcat/index.html,"1999-2016, The Apache Software Foundation ",Apache License 1.1
-Apache Tomcat,7.0.47,http://jakarta.apache.org/tomcat/index.html,"1999-2016, The Apache Software Foundation ",Apache License 2.0
-Apache Tomcat,Unspecified,http://jakarta.apache.org/tomcat/index.html,"1999-2016, The Apache Software Foundation ",Apache License 2.0
-Apache WSS4J,1.6.16,http://ws.apache.org/wss4j/,2004?2015 The Apache Software Foundation,Apache License 2.0
-Apache XBean :: Naming,3.6,http://repo1.maven.org/maven2/org/apache/xbean/xbean-naming/,2005-2009 The Apache Software Foundation,Apache License 2.0
-Apache XBean :: Reflect,3.7,http://repo1.maven.org/maven2/org/apache/xbean/xbean-reflect/,2005-2010 The Apache Software Foundation,Apache License 2.0
-Apache Xerces Java XML Parser,2.9.0,http://xml.apache.org/xerces2-j/index.html,1999-2010 The Apache Software Foundation,Apache License 2.0
-Apache XML Security for Java - org.apache.santuario:xmlsec,1.5.7,http://repository.jboss.org/nexus/content/groups/public-jboss//org/apache/santuario/xmlsec/,2000-2014 The Apache Software Foundation,Apache License 2.0
-Apache XML-Commons Resolver,1.2,http://xml.apache.org/commons/components/resolver/resolver-article.html,"
-2003, 2006 The Apache Software Foundation.
-2001, 2002 Sun Microsystems, Inc.
-2000 Arbortext, Inc.",Apache License 2.0
-Apache-Jakarta BeanUtils,1.8.3,http://jakarta.apache.org/commons/beanutils/index.html,2000-2014 The Apache Software Foundation,Apache License 2.0
-Apache-Jakarta Codec,1.5,http://jakarta.apache.org/commons/codec/,2002-2014 The Apache Software Foundation,Apache License 2.0
-Apache-Jakarta Collections,3.2.1,http://jakarta.apache.org/commons/collections/,2001-2015 The Apache Software Foundation,Apache License 2.0
-Apache-Jakarta JXPath,1.3,http://jakarta.apache.org/commons/jxpath/,2001-2015 The Apache Software Foundation,Apache License 2.0
-Apache-Jakarta Pool,1.5.4,http://jakarta.apache.org/commons/pool/,2001-2015 The Apache Software Foundation,Apache License 2.0
-Apache-XML Xalan Java,2.7.1,http://xml.apache.org/xalan-j/index.html,"1999-2002, Lotus Development Corporation.
-2001-2002, Sun Microsystems.
-2003, IBM Corporation.
-1999-2003 The Apache Software Foundation.",Apache License 2.0
-ASM,3.3,http://forge.objectweb.org/projects/asm/,"1999-2008, OW2 Consortium","BSD 3-clause ""New"" or ""Revised"" License"
-ASM Commons,3.1,http://repo1.maven.org/maven2/asm/asm-commons/,"1999-2008, OW2 Consortium","BSD 3-clause ""New"" or ""Revised"" License"
-AspectJ runtime,1.5.4,http://repo1.maven.org/maven2/org/aspectj/aspectjrt/,"1999-2001 Xerox Corporation, 
-2002 Palo Alto Research Center, Incorporated (PARC), 
-2003-2005 Contributors.",Eclipse Public License 1.0
-AspectJ weaver,1.6.11,http://repo1.maven.org/maven2/org/aspectj/aspectjweaver/,Andy Clement,Eclipse Public License 1.0
-AspectJ weaver,Unspecified,http://repo1.maven.org/maven2/org/aspectj/aspectjweaver/,Andy Clement,Eclipse Public License 1.0
-Base64Coder - an open-source Base64 encoder decoder in Java,Unspecified,http://www.source-code.biz/base64coder/java/,"Christian d'Heureuse, chdh@inventec.ch","Base64Coder is multi-licensed, EPL+LGPL+GPL+AL+BSD+MIT. Please contact the author if you need another license"
-caesar9121,trunk-20121011-svn,http://code.google.com/p/caesar9121/,,Eclipse Public License 1.0
-Camel :: Core,2.14.3,http://repo.maven.apache.org/maven2//org/apache/camel/camel-core/,2007-2015 The Apache Software Foundation,Apache License 2.0
-Camel :: Core OSGi,2.14.3,http://repo.maven.apache.org/maven2//org/apache/camel/camel-core-osgi/,2007-2015 The Apache Software Foundation,Apache License 2.0
-Camel :: CXF,Unspecified,http://camel.apache.org/cxf.html,2004-2015 The Apache Software Foundation,Apache License 2.0
-Camel :: CXF,2.14.3,http://repo.maven.apache.org/maven2//org/apache/camel/camel-cxf/,2004-2015 The Apache Software Foundation,Apache License 2.0
-Camel :: CXF :: Transport,2.14.3,http://repo.maven.apache.org/maven2//org/apache/camel/camel-cxf-transport/,2004-2015 The Apache Software Foundation,Apache License 2.0
-Camel :: HTTP,2.14.3,http://repo.maven.apache.org/maven2//org/apache/camel/camel-http/,2004-2015 The Apache Software Foundation,Apache License 2.0
-Camel :: iBatis,2.14.3,http://repo.maven.apache.org/maven2//org/apache/camel/camel-ibatis/,2004-2015 The Apache Software Foundation,Apache License 2.0
-Camel :: JAXB,2.14.3,http://repo.maven.apache.org/maven2//org/apache/camel/camel-jaxb/,2004-2015 The Apache Software Foundation,Apache License 2.0
-Camel :: Jetty,2.14.3,http://repo.maven.apache.org/maven2//org/apache/camel/camel-jetty/,2004-2015 The Apache Software Foundation,Apache License 2.0
-Camel :: JMS,2.14.3,http://repo.maven.apache.org/maven2//org/apache/camel/camel-jms/,2004-2015 The Apache Software Foundation,Apache License 2.0
-Camel :: JXPath,2.14.3,http://repo.maven.apache.org/maven2//org/apache/camel/camel-jxpath/,2004-2015 The Apache Software Foundation,Apache License 2.0
-Camel :: MINA-2,2.14.3,http://repo.maven.apache.org/maven2//org/apache/camel/camel-mina2/,2004-2015 The Apache Software Foundation,Apache License 2.0
-Camel :: Redis - org.apache.camel:camel-spring-redis,2.14.3,http://repo.maven.apache.org/maven2//org/apache/camel/camel-spring-redis/,2004-2015 The Apache Software Foundation,Apache License 2.0
-Camel :: SAXON,2.14.3,http://repo.maven.apache.org/maven2//org/apache/camel/camel-saxon/,2004-2015 The Apache Software Foundation,Apache License 2.0
-Camel :: Spring,Unspecified,http://mirrors.ibiblio.org/maven2/org/apache/camel/camel-spring/,2004-2015 The Apache Software Foundation,Apache License 2.0
-Camel :: Spring - org.apache.camel:camel-spring,2.14.3,http://repo.maven.apache.org/maven2//org/apache/camel/camel-spring/,2004-2015 The Apache Software Foundation,Apache License 2.0
-Camel :: Spring Batch,2.14.3,http://repo.maven.apache.org/maven2//org/apache/camel/camel-spring-batch/,2004-2015 The Apache Software Foundation,Apache License 2.0
-Camel :: Spring JavaConfig,2.14.3,http://repo.maven.apache.org/maven2//org/apache/camel/camel-spring-javaconfig/,2004-2015 The Apache Software Foundation,Apache License 2.0
-Camel :: Spring LDAP,2.14.3,http://repo.maven.apache.org/maven2//org/apache/camel/camel-spring-ldap/,2004-2015 The Apache Software Foundation,Apache License 2.0
-Camel :: Spring Security,2.14.3,http://repo.maven.apache.org/maven2//org/apache/camel/camel-spring-security/,2004-2015 The Apache Software Foundation,Apache License 2.0
-Camel :: Test,2.14.3,http://repo.maven.apache.org/maven2//org/apache/camel/camel-test/,2004-2015 The Apache Software Foundation,Apache License 2.0
-Camel :: Test :: Spring,2.14.3,http://repo.maven.apache.org/maven2//org/apache/camel/camel-test-spring/,2004-2015 The Apache Software Foundation,Apache License 2.0
-Carol : IIOP Delegate,3.0.6,http://maven.etl.luc.edu/artifactory/repo/org/ow2/carol/carol-iiop-delegate/,2005-2007 - ObjectWeb (http://www.ow2.org),GNU Lesser General Public License v2.1 or later
-CAROL: Common Architecture for RMI OW2 Layer,3.0.6,http://carol.ow2.org/,2005-2007 - ObjectWeb (http://www.ow2.org),GNU Lesser General Public License v2.1 or later
-CAROL: Interceptors,1.0.1,http://maven.etl.luc.edu/artifactory/repo/org/ow2/carol/carol-interceptors/1.0.1/,"2002-2007 - INRIA (www.inria.fr) CAROL: Common Architecture for RMI ObjectWeb Layer This library is developed inside the OW2 Consortium, http://www.ow2.org",GNU Lesser General Public License v2.1 or later
-Code Generation Library,2.1_3,https://github.com/cglib/cglib/,The Apache Software Foundation (http://www.apache.org/).,Apache License 2.0
-com.oreilly.servlet,26Dec2008,http://servlets.com/cos/,"2001-2009 by Jason Hunter, jhunter@servlets.com",com.oreilly.servlet License
-Commons IO,1.3.2,http://commons.apache.org/proper/commons-io/,2002-2014 The Apache Software Foundation,Apache License 2.0
-Commons Management,1.0,http://repo1.maven.org/maven2/org/fusesource/commonman/commons-management/,"2001-2009, Progress Software Corporation and/or its subsidiaries or affiliates.",Apache License 2.0
-Commons Net,2.0,http://repo1.maven.org/maven2/commons-net/commons-net/,2001-2008 The Apache Software Foundation,Apache License 2.0
-CORS Filter,2.1.2,http://repo.maven.apache.org/maven2//com/thetransactioncompany/cors-filter/,The Apache Software Foundation,Apache License 2.0
-custom-context-menu,0.6.3,http://code.google.com/p/custom-context-menu/,"2007-2009 Paulius Uza (http://www.uza.lt), Dan Florio (http://polygeek.com) & Arif Ali Saiyed (http://arif-ali-saiyed.blogspot.com/)",MIT License
-DOM4J - Flexible XML Framework for Java,1.6.1,http://dom4j.sourceforge.net,"2001-2005 (C) MetaStuff, Ltd. All Rights Reserved.",dom4j License (BSD 2.0 +)
-DOM4J - Flexible XML Framework for Java,1.6,http://dom4j.sourceforge.net,"2001-2005 (C) MetaStuff, Ltd. All Rights Reserved.",dom4j License (BSD 2.0 +)
-Drools :: Compiler,5.4.0.Final,http://www.jboss.org/drools/drools-multiproject/drools-compiler,"2006-2016, Red Hat, Inc. or third-party contributors",Apache License 2.0
-Drools :: Core,5.4.0.Final,http://www.jboss.org/drools/drools-multiproject/drools-core,"2006-2016, Red Hat, Inc. or third-party contributors",Apache License 2.0
-earth-api-samples,trunk-20110317-svn,http://code.google.com/p/earth-api-samples/,Google Inc.,Apache License 2.0
-earth-api-utility-library,Unspecified,http://code.google.com/p/earth-api-utility-library/,Google Inc.,Apache License 2.0
-Eclipse JDT Core Batch Compiler,Unspecified,http://www.eclipse.org/jdt/core/,"IBM Corporation and others 2000, 2012",Eclipse Public License 1.0
-Eclipse JDT Core Batch Compiler,3.5.1,http://www.eclipse.org/jdt/core/,"IBM Corporation and others 2000, 2012",Eclipse Public License 1.0
-Eclipse Technology Aspect J,Unspecified,http://www.eclipse.org/aspectj/,2016 The Eclipse Foundation・,Eclipse Public License 1.0
-Eclipse Technology Aspect J,1.7.2,http://www.eclipse.org/aspectj/,2016 The Eclipse Foundation・,Eclipse Public License 1.0
-Eclipse Technology Aspect J,1.5.4,http://www.eclipse.org/aspectj/,2016 The Eclipse Foundation・,Eclipse Public License 1.0
-EJB 3.0,1.0.1,http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-ejb_3.0_spec/,2003-2008 The Apache Software Foundation,Apache License 2.0
-EZMorph,1.0.6,http://sourceforge.net/projects/ezmorph/,The Apache Software Foundation・,Apache License 2.0
-ezmorph,1.0.6,http://repo1.maven.org/maven2/net/sf/ezmorph/ezmorph/,2006-2007 the original author or authors・,Apache License 2.0
-Flex SDK,Unspecified,http://flex.apache.org/,2012-2016 The Apache Software Foundation (Flex SDK 4.15),Apache License 2.0
-Geronimo :: Activation,1.1,http://repo1.maven.org/maven2/geronimo/geronimo-activation/,2004 The Apache Software Foundation,Apache License 2.0
-"Geronimo Framework, Modules :: CLI",2.2.1,http://www.apache.org/dyn/closer.cgi/geronimo/2.2.1/geronimo-framework-2.2.1-bin.zip,2003-2010 The Apache Software Foundation,Apache License 2.0
-"Geronimo Framework, Modules :: Common",2.2.1,http://geronimo.apache.org/genesis-default-flava/genesis-java5-flava/geronimo/framework/modules/geronimo-common,2003-2010 The Apache Software Foundation,Apache License 2.0
-"Geronimo Framework, Modules :: Config Groovy Transformer",2.2.1,http://geronimo.apache.org/genesis-default-flava/genesis-java5-flava/geronimo/framework/modules/geronimo-config-groovy-transformer,2003-2010 The Apache Software Foundation,Apache License 2.0
-"Geronimo Framework, Modules :: Crypto",2.2.1,http://geronimo.apache.org/genesis-default-flava/genesis-java5-flava/geronimo/framework/modules/geronimo-crypto,2003-2010 The Apache Software Foundation,Apache License 2.0
-"Geronimo Framework, Modules :: J2EE",2.2.1,http://repo1.maven.org/maven2/org/apache/geronimo/modules/geronimo-j2ee/,2003-2010 The Apache Software Foundation,Apache License 2.0
-"Geronimo Framework, Modules :: Kernel",2.2.1,http://repo1.maven.org/maven2/org/apache/geronimo/framework/geronimo-kernel/,2003-2010 The Apache Software Foundation,Apache License 2.0
-"Geronimo Framework, Modules :: Management API",2.2.1,http://repo1.maven.org/maven2/org/apache/geronimo/framework/geronimo-management/,2003-2010 The Apache Software Foundation,Apache License 2.0
-"Geronimo Framework, Modules :: Naming",2.2.1,http://repo1.maven.org/maven2/org/apache/geronimo/framework/geronimo-naming/,2003-2010 The Apache Software Foundation,Apache License 2.0
-"Geronimo Framework, Modules :: Security",2.2.1,http://repo1.maven.org/maven2/org/apache/geronimo/framework/geronimo-security/,2003-2010 The Apache Software Foundation,Apache License 2.0
-"Geronimo Framework, Modules :: System",2.2.1,http://repo1.maven.org/maven2/org/apache/geronimo/framework/geronimo-system/,2003-2010 The Apache Software Foundation,Apache License 2.0
-"Geronimo Framework, Modules :: Transformer",2.2.1,http://repo1.maven.org/maven2/org/apache/geronimo/framework/geronimo-transformer/,2003-2010 The Apache Software Foundation,Apache License 2.0
-Geronimo JASPI implementation,1.0,http://repo1.maven.org/maven2/org/apache/geronimo/components/geronimo-jaspi/,2003-2009 The Apache Software Foundation,Apache License 2.0
-"Geronimo Plugins, JAXWS",Unspecified,http://geronimo.apache.org/apache-geronimo-v221-release.html,2003-2009 The Apache Software Foundation,Apache License 2.0
-"Geronimo Plugins, JAXWS",2.1,http://repo1.maven.org/maven2/org/apache/geronimo/plugins/jaxws/,2003-2009 The Apache Software Foundation,Apache License 2.0
-"Geronimo Plugins, JAXWS :: Core",2.2.1,http://repo1.maven.org/maven2/org/apache/geronimo/modules/geronimo-jaxws/,2003-2009 The Apache Software Foundation,Apache License 2.0
-Geronimo Schema :: JEE 5,1.1,http://repo1.maven.org/maven2/org/apache/geronimo/schema/geronimo-schema-jee_5/,2003-2009 The Apache Software Foundation,Apache License 2.0
-Groovy-QName,1.5.6,http://groovy.codehaus.org/,2003-2016 the Groovy project ,Apache License 2.0
-H2 Database Engine,1.2.137,http://repo1.maven.org/maven2/com/h2database/h2/,2004-2010 H2 Group,"This software contains unmodified binary redistributions for H2 database engine (http://www.h2database.com/), which is dual licensed and available under the MPL 2.0(Mozilla Public License) or under the EPL 1.0 (Eclipse Public License). An original copy of the license agreement can be found at: http://www.h2database.com/html/license.html"
-InfoBox,1.0,https://code.google.com/p/google-maps-utility-library-v3/source/browse/trunk/infobox/src/infobox.js?r=49,2010 Gary Little [gary at luxcentral.com]・,Apache License 2.0
-International Components for Unicode - ICU4J,4.0.1,http://site.icu-project.org/,1995-2016 International Business Machines Corporation and others,ICU License
-J2EE Connector 1.5,2.0.0,http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-j2ee-connector_1.5_spec/,2003-2008 The Apache Software Foundation,Apache License 2.0
-J2EE JACC 1.1,1.0.2,http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-jacc_1.1_spec/,2003-2009 The Apache Software Foundation,Apache License 2.0
-J2EE Management 1.1,1.0.1,http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-j2ee-management_1.1_spec/,2003-2008 The Apache Software Foundation,Apache License 2.0
-Jakarta Commons-Logging,1.1.1,http://jakarta.apache.org/commons/logging/,2001-2014 The Apache Software Foundation,Apache License 2.0
-JASYPT: Java Simplified Encryption,1.6,http://repo1.maven.org/maven2/org/jasypt/jasypt/,"2007-2008, The JASYPT team (http://www.jasypt.org)",Apache License 2.0
-Java API for XML Web Services (JAX-WS),2.0 FCS,http://jax-ws.java.net/,"2016, Oracle Corporation and/or its affiliates・",Common Development and Distribution License 1.0
-Java Authentication SPI for Containers,1.0,http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-jaspic_1.0_spec/,2003-2009 The Apache Software Foundation,Apache License 2.0
-Java EE: JCA API v1.5,1.0-M1,http://repo1.maven.org/maven2/org/ow2/spec/ee/ow2-connector-1.5-spec/,2007 Bull S.A.S. * Contact: easybeans@objectweb.org,GNU Lesser General Public License v2.1 or later
-Java EE: JTA API v1.1,1.0-M1,http://repo1.maven.org/maven2/org/ow2/spec/ee/ow2-jta-1.1-spec/,2007 Bull S.A.S. * Contact: easybeans@objectweb.org,GNU Lesser General Public License v2.1 or later
-Java Modbus Library,1.2,http://sourceforge.net/projects/jamod/,"Dieter Wimberger, wimpi at users.sourceforge.net
-John Charlton, dcharlton at users.sourceforge.net","BSD 3-clause ""New"" or ""Revised"" License"
-Java Property Utility,1.9.1,http://mvnrepository.com/artifact/com.thetransactioncompany/java-property-utils,"Vladimir Dzhuvinov,  vladimir@dzhuvinov.com ",Apache License 2.0
-Java StringTemplate,3.2.1,http://www.stringtemplate.org/,2003-2008 Terence Parr,"BSD 3-clause ""New"" or ""Revised"" License"
-Java-WebSocket,Unspecified,http://github.com/TooTallNate/Java-WebSocket/,2010-2012 Nathan Rajlich,MIT License
-javaapiforkml,20100101,https://github.com/micromata/javaapiforkml/blob/master/LICENSE.txt,"2009, Micromata GmbH","BSD 3-clause ""New"" or ""Revised"" License"
-JavaBeans Activation Framework (JAF),1.1,http://repo1.maven.org/maven2/javax/activation/activation/,"1997-2005 Sun Microsystems, Inc.",Common Development and Distribution License 1.0
-JavaBeans(TM) Activation Framework - JSR-925,1.1.1,http://www.oracle.com/technetwork/articles/java/index-135046.html,"ORACLE AMERICA, INC","Oracle Binary Code License Agreement for Java SE and JavaFX Technologies, 
-http://www.oracle.com/technetwork/java/javase/downloads/java-se-archive-license-1382604.html"
-JavaMail 1.4,1.7.1,http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-javamail_1.4_spec/,2003-2010 The Apache Software Foundation,Apache License 2.0
-JavaMail API,1.4.3,http://repo1.maven.org/maven2/javax/mail/mail/,"1997-2007 Sun Microsystems, Inc.",Common Development and Distribution License 1.0
-JCL 1.1.1 implemented over SLF4J,1.6.1,http://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/,2001-2004 The Apache Software Foundation,Apache License 2.0
-JDOM,1.0,http://www.jdom.org,2000-2012 Jason Hunter & Brett McLaughlin,"Jdom License
-This product includes software developed by the JDOM Project (http://www.jdom.org/) 
-"
-Jettison,1.2,https://github.com/codehaus/jettison,2006 Envoi Solutions LLC,Apache License 2.0
-Jetty :: Asynchronous HTTP Client,7.2.2.v20101205,http://archive.eclipse.org/jetty/7.2.2.v20101205/dist/,"Jetty Project.
-1995-2016 Mort Bay Consulting Pty. Ltd...",Jetty eclipse is open source and is dual licensed using the apache 2.0 and eclipse public license 1.0.   You may choose either license when distributing jetty. 
-Jetty :: Continuation,7.2.2.v20101205,http://www.eclipse.org/jetty/jetty-continuation,"Jetty Project.
-1995-2016 Mort Bay Consulting Pty. Ltd...",Jetty eclipse is open source and is dual licensed using the apache 2.0 and eclipse public license 1.0.   You may choose either license when distributing jetty. 
-Jetty :: Http Utility,7.2.2.v20101205,http://www.eclipse.org/jetty/jetty-http,"Jetty Project.
-1995-2016 Mort Bay Consulting Pty. Ltd...",Jetty eclipse is open source and is dual licensed using the apache 2.0 and eclipse public license 1.0.   You may choose either license when distributing jetty. 
-Jetty :: IO Utility,7.2.2.v20101205,http://www.eclipse.org/jetty/jetty-io,"Jetty Project.
-1995-2016 Mort Bay Consulting Pty. Ltd...",Jetty eclipse is open source and is dual licensed using the apache 2.0 and eclipse public license 1.0.   You may choose either license when distributing jetty. 
-Jetty :: JMX Management,7.2.2.v20101205,http://www.eclipse.org/jetty/jetty-jmx,"Jetty Project.
-1995-2016 Mort Bay Consulting Pty. Ltd...",Jetty eclipse is open source and is dual licensed using the apache 2.0 and eclipse public license 1.0.   You may choose either license when distributing jetty. 
-Jetty :: Security,7.2.2.v20101205,http://www.eclipse.org/jetty/jetty-security,"Jetty Project.
-1995-2016 Mort Bay Consulting Pty. Ltd...",Jetty eclipse is open source and is dual licensed using the apache 2.0 and eclipse public license 1.0.   You may choose either license when distributing jetty. 
-Jetty :: Server Core,7.2.2.v20101205,http://www.eclipse.org/jetty,"Jetty Project.
-1995-2016 Mort Bay Consulting Pty. Ltd...",Jetty eclipse is open source and is dual licensed using the apache 2.0 and eclipse public license 1.0.   You may choose either license when distributing jetty. 
-Jetty :: Servlet Handling,7.2.2.v20101205,http://www.eclipse.org/jetty/jetty-servlet,"Jetty Project.
-1995-2016 Mort Bay Consulting Pty. Ltd...",Jetty eclipse is open source and is dual licensed using the apache 2.0 and eclipse public license 1.0.   You may choose either license when distributing jetty. 
-Jetty :: Utilities,7.2.2.v20101205,http://www.eclipse.org/jetty/jetty-util,"Jetty Project.
-1995-2016 Mort Bay Consulting Pty. Ltd...",Jetty eclipse is open source and is dual licensed using the apache 2.0 and eclipse public license 1.0.   You may choose either license when distributing jetty. 
-Jetty :: Utility Servlets and Filters,7.2.2.v20101205,http://www.eclipse.org/jetty/jetty-servlets,"Jetty Project.
-1995-2016 Mort Bay Consulting Pty. Ltd...",Jetty eclipse is open source and is dual licensed using the apache 2.0 and eclipse public license 1.0.   You may choose either license when distributing jetty. 
-Jetty :: Webapp Application Support,7.2.2.v20101205,http://www.eclipse.org/jetty/jetty-webapp,"Jetty Project.
-1995-2016 Mort Bay Consulting Pty. Ltd...",Jetty eclipse is open source and is dual licensed using the apache 2.0 and eclipse public license 1.0.   You may choose either license when distributing jetty. 
-Jetty :: XML utilities,7.2.2.v20101205,http://www.eclipse.org/jetty/jetty-xml,"Jetty Project.
-1995-2016 Mort Bay Consulting Pty. Ltd...",Jetty eclipse is open source and is dual licensed using the apache 2.0 and eclipse public license 1.0.   You may choose either license when distributing jetty. 
-JLine,0.9.94,http://repo1.maven.org/maven2/jline/jline/,"2002-2007, Marc Prud'hommeaux.","BSD 3-clause ""New"" or ""Revised"" License"
-JMS 1.1,1.1.1,http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-jms_1.1_spec/,"Copyright 2003-2008 The Apache Software Foundation
-",Apache License 2.0
-JOTM :: Core,Unspecified,http://repo1.maven.org/maven2/org/ow2/jotm/jotm-core/,1999 BULL SA ,GNU Lesser General Public License v2.1 or later
-JOTM :: DataSource,Unspecified,http://repo1.maven.org/maven2/org/ow2/jotm/jotm-datasource/,1999 BULL SA ,GNU Lesser General Public License v2.1 or later
-jQuery.BlockUI,2.57,http://www.nuget.org/packages/jQuery.BlockUI,2007-2013 M. Alsup,MIT License
-JSON in Java,Unspecified,http://www.json.org/java/index.html,2002 JSON.org,"JSON License
-http://www.json.org/license.html"
-json-lib,2.4,http://repo1.maven.org/maven2/net/sf/json-lib/json-lib/,2002-2009 the original author or authors・,Apache License 2.0
-JSR-311 - JAX-RS - The Java API for RESTful Web Services (Jersey),1.1.1-API,http://java.net/projects/jersey,"2000-2005 INRIA, France Telecom",Common Development and Distribution License 1.0
-JTA 1.0.1B,1.0.1,http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.0.1B_spec/,The Apache Software Foundation (http://www.apache.org/).,Apache License 2.0
-JTA 1.1,1.1.1,http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/,The Apache Software Foundation (http://www.apache.org/).,Apache License 2.0
-JUL to SLF4J bridge,1.5.5,http://repo1.maven.org/maven2/org/slf4j/jul-to-slf4j/,2004-2008 QOS.ch,"All rights reserved.
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ""Software""), to  deal in  the Software without striction, including without limitation  the rights to  use, copy, modify,  merge, publish, distribute, and/or sell copies of  the Software, and to permit persons to whom  the Software is  rnished  to do so, provided  that the above copyright notice(s) and this permission notice appear in all copies of the  Software and  that both  the above  copyright notice(s)  and this permission notice appear in supporting documentation.
-THE  SOFTWARE IS  PROVIDED  ""AS  IS"", WITHOUT  WARRANTY  OF ANY  KIND, EXPRESS OR  IMPLIED, INCLUDING  BUT NOT LIMITED  TO THE  WARRANTIES OF MERCHANTABILITY, FITNESS FOR  A PARTICULAR PURPOSE AND NONINFRINGEMENT OF  THIRD PARTY  RIGHTS. IN  NO EVENT  SHALL THE  COPYRIGHT  HOLDER OR HOLDERS  INCLUDED IN  THIS  NOTICE BE  LIABLE  FOR ANY  CLAIM, OR  ANY SPECIAL INDIRECT  OR CONSEQUENTIAL DAMAGES, OR  ANY DAMAGES WHATSOEVER RESULTING FROM LOSS  OF USE, DATA OR PROFITS, WHETHER  IN AN ACTION OF CONTRACT, NEGLIGENCE  OR OTHER TORTIOUS  ACTION, ARISING OUT OF  OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE. 
-Except as  contained in  this notice, the  name of a  copyright holder shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization of the copyright holder."
-JUnit,4.11,http://mirrors.ibiblio.org/maven2/junit/junit/,Java Hamcrest (http://hamcrest.org/JavaHamcrest/)・,Common Public License 1.0
-Knowledge API,5.4.0.Final,http://www.jboss.org/drools/droolsjbpm-knowledge/knowledge-api,"2006-2016, Red Hat, Inc. or third-party contributors・",Apache License 2.0
-Knowledge Internal API,5.4.0.Final,http://www.jboss.org/drools/droolsjbpm-knowledge/knowledge-internal-api,"2006-2016, Red Hat, Inc. or third-party contributors・",Apache License 2.0
-mathjs,0.15.0,http://github.com/josdejong/mathjs/,2013-2016 Jos de Jong <wjosdejong@gmail.com>,Apache License 2.0
-MiGBase64,Unspecified,http://sourceforge.net/projects/migbase64/,"2004, Mikael Grev, MiG InfoCom AB. (base64 @ miginfocom . com)","BSD 3-clause ""New"" or ""Revised"" License"
-MS SQL Server JDBC Driver,4.0.2206.100,http://www.microsoft.com/downloads/details.aspx?familyid=E22BC83B-32FF-4474-A44A-22B6AE2C4E17&displaylang=en,Microsoft ,Microsoft JDBC Driver 4.0 for SQL Server CTP Pre-Release License
-MSV XML Schema Datatype Library,2010.1,http://repo1.maven.org/maven2/com/sun/msv/datatype/xsd/xsdlib/,"2001 Sun Microsystems, Inc.","BSD 3-clause ""New"" or ""Revised"" License"
-mvel,2.1.0.drools16,http://mvel.codehaus.org/,"2007  MVFLEX/Valhalla Project and the Codehaus, Mike Brock, Dhanji Prasanna, John Graham, Mark Proctor ",Apache License 2.0
-My Date Time Picker,2.2.4,http://www.rainforestnet.com,"2010-2016, Teng-Yong Ng . All rights reserved.","Free BSD License
-http://rainforestnet.com/datetimepicker/datetimepicker-terms.htm"
-mybatis,3.3.0,http://repo.maven.apache.org/maven2//org/mybatis/mybatis/,2010-2013 The MyBatis Team (http://www.mybatis.org/).,Apache License 2.0
+AOP Alliance (Java/J2EE AOP standard),1,http://sourceforge.net/projects/aopalliance/,all the source code provided by AOP Alliance is Public Domain,Public Domain
+Apache Commons Pool,2.3,http://repo.maven.apache.org/maven2//org/apache/commons/commons-pool2/,2001-2014 The Apache Software Foundation,Apache License 2.0
+Apache Log4j,1.2.15,http://logging.apache.org/log4j/1.2/,1999-2012 Apache Software Foundation,Apache License 2.0
+Apache Tomcat,8.0.20,http://repo.maven.apache.org/maven2//org/apache/tomcat/tomcat-annotations-api/,"1999-2016, The Apache Software Foundation ",Apache License 2.0
+Bootstrap,Unspecified,http://getbootstrap.com,2015 Twitter,MIT License
+bootstrap-datepicker,Unspecified,http://github.com/eternicode/bootstrap-datepicker/,2012 Stefan Petre,Apache License 2.0
+bxslider-4,4.2.5,http://github.com/stevenwanderski/bxslider-4/,2014 Steven Wanderski,MIT License
+bxslider-4,4.1.2,http://github.com/stevenwanderski/bxslider-4/,2014 Steven Wanderski,MIT License
+com.ibm.jbatch-tck-spi,1,https://github.com/WASdev/standards.jsr352.tck/tree/master/com.ibm.jbatch.tck.spi/src/main/java/com/ibm/jbatch/tck/spi,2013 International Business Machines Corp.,Apache License 2.0
+d3,3.3.6,http://github.com/mbostock/d3/,"2010-2016, Michael Bostock","BSD 3-clause ""New"" or ""Revised"" License"
+d3_rails,3.5.5,http://rubygems.org/gems/d3_rails,"Michael Bostock, Han Kang, Cynthia Kiser, Byron Anderson, Johnathan Pulos",MIT License
+DataTables,1.10.7,https://www.npmjs.org/package/datatables,"2008-2016, SpryMedia Ltd.",MIT License
+esprima,Unspecified,http://github.com/ariya/esprima/,"jQuery Foundation, Inc. and Contributors, All Rights Reserved.","BSD 2-clause ""Simplified"" License"
+HTML5 Shiv - org.webjars:html5shiv,3.7.0,http://repo.maven.apache.org/maven2//org/webjars/html5shiv/,"afarkas,jdalton,jon_neal,rem ",MIT License
+HyperSQL Database Engine (HSQLDB) - hsqldb,2.3.2,http://sourceforge.net/projects/hsqldb/,"2001-2016, The HSQL Development Group All rights reserved.",Hypersonic SQL License
+iCheck,1.0.2,http://github.com/fronteed/iCheck/,"2013 Damir Sultanov, http://fronteed.com",MIT License
+Jackson,1.9.6,http://wiki.fasterxml.com/JacksonLicensing,"2009 FasterXML, LLC",GNU Lesser General Public License v2.1 or later
+javax.batch-api,1,http://java.net/projects/jbatch/javax.batch-api,,Apache License 2.0
+javax.inject,1,http://repo1.maven.org/maven2/javax/inject/javax.inject/,,Apache License 2.0
+jcl-over-slf4j,1.6.6,http://www.slf4j.org/legacy.html#jcl-over-slf4j,,Apache License 2.0
+Jedis,2.7.2,http://repo.maven.apache.org/maven2//redis/clients/jedis/,,MIT License
+jquery,2.1.3,http://www.nuget.org/packages/jQuery,"jQuery Foundation and other contributors, https://jquery.org/",MIT License
+jquery,1.11.3,http://github.com/jquery/jquery/,"jQuery Foundation and other contributors, https://jquery.org/",MIT License
+jquery.filestyle,Unspecified,http://github.com/pegler/jquery.filestyle/,2007-2009 Mika Tuupola,MIT License
+jquery.nicescroll,3.6.0,http://github.com/inuyaksa/jquery.nicescroll/,2011-16 InuYaksa,MIT License
+jqueryui,1.11.3,http://github.com/components/jqueryui/,"jQuery Foundation and other contributors, https://jquery.org/",MIT License
+jqueryui,1.10.4,http://github.com/components/jqueryui/,"jQuery Foundation and other contributors, https://jquery.org/",MIT License
+jsPlumb,1.7.5,http://github.com/sporritt/jsPlumb/,"2010 - 2014 jsPlumb, http://jsplumbtoolkit.com/",All 1.x.x and 2.x.x versions of jsPlumb Community edition are dual-licensed under both MIT and GPLv2.
+JSTL - JavaServer Pages Standard Tag Library,1.2,http://java.sun.com/products/jsp/jstl/,,Common Development and Distribution License 1.0
+JUL to SLF4J bridge,1.7.7,http://www.slf4j.org,2004-2008 QOS.ch,MIT License
+Log4j Implemented Over SLF4J,1.7.7,http://www.slf4j.org,,Apache License 2.0
+Logback Classic Module,1.1.2,http://logback.qos.ch,"1999-2012, QOS.ch. All rights reserved.",GNU Lesser General Public License v2.1 or later
+Logback Core Module,1.1.2,http://logback.qos.ch,"1999-2012, QOS.ch. All rights reserved.",GNU Lesser General Public License v2.1 or later
+mybatis,Unspecified,http://code.google.com/p/mybatis/,2010-2013 The MyBatis Team (http://www.mybatis.org/).,Apache License 2.0
 mybatis-spring,1.2.3,http://repo.maven.apache.org/maven2//org/mybatis/mybatis-spring/,2010-2013 The MyBatis Team (http://www.mybatis.org/).,Apache License 2.0
-Oracle JDBC Drivers,11.2.0.1.0,http://www.oracle.com/technology/software/tech/java/sqlj_jdbc/index.html,Oracle,Oracle Technology Network Development and Distribution 01-2009 License
-org.apache.geronimo.jee.v21.jaxbmodel,Unspecified,http://repo1.maven.org/maven2/org/apache/geronimo/devtools/org.apache.geronimo.jee.v21.jaxbmodel/,2003-2010 The Apache Software Foundation,Apache License 2.0
-org.eroq:eroq-pathmatcher,Unspecified,http://repo.maven.apache.org/maven2//org/eroq/eroq-pathmatcher/,2003-2010 The Apache Software Foundation・,Apache License 2.0
-org.osgi.core,4.1.0,http://repo1.maven.org/maven2/org/osgi/org.osgi.core/,"2000, 2005 OSGi Alliance, Bishop Ranch 6 2400 Camino Ramon, Suite 375 San Ramon, CA 94583 USA ",Apache License 2.0
-PDF Renderer,0.9.1,http://java.net/projects/pdf-renderer,"2004 Sun Microsystems, Inc.",GNU Lesser General Public License v2.1 or later
-quartz-jboss,1.8.6,https://www.quartz-scheduler.org/downloads,"2001-2009 Terracotta, Inc",Apache License 2.0
-Saxon,Unspecified,http://repo1.maven.org/maven2/net/sf/saxon/saxon/,2016 Saxonica・,Mozilla Public License 1.0
-Saxon - net.sf.saxon:saxon,9.1.0.8,https://repo.fusesource.com/nexus/content/groups/public//net/sf/saxon/saxon/,2016 Saxonica・,Mozilla Public License 1.0
-Saxon XSLT and XQuery Processor - Saxon-B,9.1.0.8,http://www.saxonica.com/,2016 Saxonica・,Mozilla Public License 1.0
+MySQL java connector,5.1.35,http://repo.maven.apache.org/maven2//mysql/mysql-connector-java/,,GNU General Public License v2.0 or later
+Nestable,Unspecified,http://github.com/dbushell/Nestable/,,MIT License
+org.tinygroup.mCustomScrollbar,Unspecified,http://repo.maven.apache.org/maven2//org/tinygroup/org.tinygroup.mCustomScrollbar/,,MIT License
+Original_General_Use,Unspecified,,,Unspecified
+OwlCarousel,Unspecified,http://github.com/lazarofl/OwlCarousel/,,MIT License
+Respond,1.4.2,http://github.com/scottjehl/Respond/,,MIT License
+rickshaw,1.5.1,http://github.com/shutterstock/rickshaw/,,MIT License
+rickshaw,Unspecified,http://github.com/shutterstock/rickshaw/,,MIT License
+RRD4J,Unspecified,http://repo1.maven.org/maven2/org/fusesource/rrd4j/rrd4j/,,Apache License 2.0
+RRD4J,2.2,http://code.google.com/p/rrd4j/,,Apache License 2.0
 SLF4J API Module,1.6.6,http://www.slf4j.org,2004-2013 QOS.ch,MIT License
-SLF4J LOG4J-12 Binding,1.6.1,http://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/,2004-2013 QOS.ch,MIT License
-SNMP4J,1.11.5,http://www.snmp4j.org/,"2003-2015, SNMP4J.org. ",Apache License 2.0
-SOAP with Attachments API for Java (SAAJ),1.3.2,http://java.net/projects/saaj/,1997-2010 Oracle and/or its affiliates.,Common Development and Distribution License 1.0
-SOAP with Attachments API Package,1.3,http://java.sun.com/webservices/saaj/index.jsp,1997-2010 Oracle and/or its affiliates.,Common Development and Distribution License 1.0
-socket.io-java-client,master-20120430,http://github.com/Gottox/socket.io-java-client/,2012 Enno Boland <eb@s01.de>,MIT License
+SLF4J LOG4J-12 Binding,1.6.6,http://www.slf4j.org,2004-2013 QOS.ch,MIT License
+Spring Data Core,1.7.1.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/data/spring-data-commons/,,Apache License 2.0
+Spring Data Redis,1.5.0,http://repo.spring.io/release//org/springframework/data/spring-data-redis/,,Apache License 2.0
+spring-batch,3.0.1.RELEASE,http://github.com/spring-projects/spring-batch/,,Apache License 2.0
+spring-boot,Unspecified,http://github.com/SpringSource/spring-boot/,,Apache License 2.0
 spring-framework,Unspecified,http://github.com/SpringSource/spring-framework/,"2016 Pivotal Software, Inc.",Apache License 2.0
-spring-framework,v3.0.7.RELEASE,http://github.com/SpringSource/spring-framework/,"2016 Pivotal Software, Inc.",Apache License 2.0
-StAX2,3.0.2,https://github.com/FasterXML/stax2-api,"2005- Tatu Saloranta, tatu.saloranta@iki.fi","BSD 3-clause ""New"" or ""Revised"" License"
-Streaming API for XML (StAX) - JSR-173,1.0-2bin,https://jcp.org/aboutJava/communityprocess/final/jsr173/index.html,"BEA SYSTEMS, INC・","Apache License 2.0
-http://download.oracle.com/otndocs/jcp/streaming_xml-1.0-fr-spec-oth-JSpec/"
-Streaming API for XML (StAX) - JSR-173,1.0.1,http://stax.codehaus.org/Home,"BEA SYSTEMS, INC・","Apache License 2.0
-http://download.oracle.com/otndocs/jcp/streaming_xml-1.0-fr-spec-oth-JSpec/"
-Sun Java Platform Standard Edition (JRE) (J2RE),Unspecified,http://www.oracle.com/technetwork/java/javase/downloads/index.html?jre,Oracle ,Oracle Binary Code JRE and JDK 7 License
-Sun Java Platform Standard Edition SDK (J2SDK) (JDK),Unspecified,http://www.oracle.com/technetwork/java/javase/downloads/index.html?jdk,Oracle ,Oracle Binary Code JRE and JDK 7 License
-swfobject,1.5,http://code.google.com/p/swfobject/,"2007-2009 Geoff Stearns, Michael Williams, and Bobby van der Sluis",MIT License
-SXC JAXB,0.7.2,http://repo1.maven.org/maven2/com/envoisolutions/sxc/sxc-jaxb/,Apache Software Foundation (ASF) under one or more contributor license agreements. ,Apache License 2.0
-SXC Runtime,0.7.2,http://repo1.maven.org/maven2/com/envoisolutions/sxc/sxc-runtime/,Apache Software Foundation (ASF) under one or more contributor license agreements. ,Common Development and Distribution License 1.0
-vmfs,trunk-20110817-svn,http://code.google.com/p/vmfs/,fluid Operations,GNU General Public License v3.0 or later
-Webtoolkit Javascript base64,Unspecified,http://www.webtoolkit.info/javascript-base64.html,-,Creative Commons Attribution 2.0 UK License
-Woodstox,Unspecified,http://woodstox.codehaus.org/,org.codehaus.woodstox・,Apache License 2.0
-Woodstox,4.0.8,http://woodstox.codehaus.org/,org.codehaus.woodstox・,Apache License 2.0
-WSDL4J - wsdl4j:wsdl4j,1.6.3,http://sf.net/projects/wsdl4j,-,Common Public License 1.0
-Xerces2 Java Parser,2.9.1,http://repo1.maven.org/maven2/xerces/xercesImpl/,1999-2007 The Apache Software Foundation,Apache License 2.0
-XmlBeans,2.6.0,http://xmlbeans.apache.org,2009-2016 The Apache Software Foundation,Apache License 2.0
-XmlSchema Core,2.1.0,http://mvnrepository.com/artifact/org.apache.ws.xmlschema/xmlschema-core,2004-2014 The Apache Software Foundation,Apache License 2.0
-XMLTooling-J,1.4.1,http://mvnrepository.com/artifact/org.opensaml/xmltooling, free Atlassian Confluence Open Source Project License granted to Shibboleth・,Apache License 2.0
-XPP - XML Pull Parser,3-1.1.4c,http://www.extreme.indiana.edu/xgws/xsoap/xpp/,2002 The Trustees of Indiana University,"Indiana University Extreme! Lab Software License
-http://www.extreme.indiana.edu/xgws/xsoap/xpp/download/PullParser2/LICENSE.txt"
-XStream Library,1.3.1,http://xstream.codehaus.org/,"Copyright (c) 2003-2006 Joe Walnes
-Copyright (c) 2006-2015 XStream Committers","BSD 3-clause ""New"" or ""Revised"" License"
+spring-retry,1.1.0.RELEASE,http://github.com/spring-projects/spring-retry/,,Apache License 2.0
+TableTools,2.2.3,http://github.com/DataTables/TableTools/,,MIT License
+toastr,Unspecified,http://github.com/CodeSeven/toastr/,,MIT License
+toastr,2.1.2,https://www.npmjs.org/package/toastr,,MIT License
+toastr,2.0.1,http://github.com/CodeSeven/toastr/,,MIT License
+Xml Compatibility extensions for Jackson,1.9.6,http://wiki.fasterxml.com/JacksonHome,,GNU Lesser General Public License v2.1 or later
+XML Pull Parsing API,1.1.3.1,http://repo1.maven.org/maven2/xmlpull/xmlpull/,,Public Domain
+XPP - XML Pull Parser,3-1.1.4c,http://www.extreme.indiana.edu/xgws/xsoap/xpp/,2002 The Trustees of Indiana University,Indiana University Extreme! Lab Software License
+XStream Library,Unspecified,http://xstream.codehaus.org/,"2003-2006 Joe Walnes
+2006-2015 XStream Committers","BSD 3-clause ""New"" or ""Revised"" License"
+zeroclipboard,Unspecified,http://code.google.com/p/zeroclipboard/,,MIT License
