@@ -1,64 +1,67 @@
 oss,component,url,copyright,license
-AOP Alliance (Java/J2EE AOP standard),1,http://sourceforge.net/projects/aopalliance/,all the source code provided by AOP Alliance is Public Domain,Public Domain
-Apache Commons Pool,2.3,http://repo.maven.apache.org/maven2//org/apache/commons/commons-pool2/,2001-2014 The Apache Software Foundation,Apache License 2.0
-Apache Log4j,1.2.15,http://logging.apache.org/log4j/1.2/,1999-2012 Apache Software Foundation,Apache License 2.0
-Apache Tomcat,8.0.20,http://repo.maven.apache.org/maven2//org/apache/tomcat/tomcat-annotations-api/,"1999-2016, The Apache Software Foundation ",Apache License 2.0
-Bootstrap,Unspecified,http://getbootstrap.com,2015 Twitter,MIT License
-bootstrap-datepicker,Unspecified,http://github.com/eternicode/bootstrap-datepicker/,2012 Stefan Petre,Apache License 2.0
-bxslider-4,4.2.5,http://github.com/stevenwanderski/bxslider-4/,2014 Steven Wanderski,MIT License
-bxslider-4,4.1.2,http://github.com/stevenwanderski/bxslider-4/,2014 Steven Wanderski,MIT License
-com.ibm.jbatch-tck-spi,1,https://github.com/WASdev/standards.jsr352.tck/tree/master/com.ibm.jbatch.tck.spi/src/main/java/com/ibm/jbatch/tck/spi,2013 International Business Machines Corp.,Apache License 2.0
-d3,3.3.6,http://github.com/mbostock/d3/,"2010-2016, Michael Bostock","BSD 3-clause ""New"" or ""Revised"" License"
-d3_rails,3.5.5,http://rubygems.org/gems/d3_rails,"Michael Bostock, Han Kang, Cynthia Kiser, Byron Anderson, Johnathan Pulos",MIT License
-DataTables,1.10.7,https://www.npmjs.org/package/datatables,"2008-2016, SpryMedia Ltd.",MIT License
-esprima,Unspecified,http://github.com/ariya/esprima/,"jQuery Foundation, Inc. and Contributors, All Rights Reserved.","BSD 2-clause ""Simplified"" License"
-HTML5 Shiv - org.webjars:html5shiv,3.7.0,http://repo.maven.apache.org/maven2//org/webjars/html5shiv/,"afarkas,jdalton,jon_neal,rem ",MIT License
-HyperSQL Database Engine (HSQLDB) - hsqldb,2.3.2,http://sourceforge.net/projects/hsqldb/,"2001-2016, The HSQL Development Group All rights reserved.",Hypersonic SQL License
-iCheck,1.0.2,http://github.com/fronteed/iCheck/,"2013 Damir Sultanov, http://fronteed.com",MIT License
-Jackson,1.9.6,http://wiki.fasterxml.com/JacksonLicensing,"2009 FasterXML, LLC",GNU Lesser General Public License v2.1 or later
-javax.batch-api,1,http://java.net/projects/jbatch/javax.batch-api,,Apache License 2.0
-javax.inject,1,http://repo1.maven.org/maven2/javax/inject/javax.inject/,,Apache License 2.0
-jcl-over-slf4j,1.6.6,http://www.slf4j.org/legacy.html#jcl-over-slf4j,,Apache License 2.0
-Jedis,2.7.2,http://repo.maven.apache.org/maven2//redis/clients/jedis/,,MIT License
-jquery,2.1.3,http://www.nuget.org/packages/jQuery,"jQuery Foundation and other contributors, https://jquery.org/",MIT License
-jquery,1.11.3,http://github.com/jquery/jquery/,"jQuery Foundation and other contributors, https://jquery.org/",MIT License
-jquery.filestyle,Unspecified,http://github.com/pegler/jquery.filestyle/,2007-2009 Mika Tuupola,MIT License
-jquery.nicescroll,3.6.0,http://github.com/inuyaksa/jquery.nicescroll/,2011-16 InuYaksa,MIT License
-jqueryui,1.11.3,http://github.com/components/jqueryui/,"jQuery Foundation and other contributors, https://jquery.org/",MIT License
-jqueryui,1.10.4,http://github.com/components/jqueryui/,"jQuery Foundation and other contributors, https://jquery.org/",MIT License
-jsPlumb,1.7.5,http://github.com/sporritt/jsPlumb/,"2010 - 2014 jsPlumb, http://jsplumbtoolkit.com/",All 1.x.x and 2.x.x versions of jsPlumb Community edition are dual-licensed under both MIT and GPLv2.
-JSTL - JavaServer Pages Standard Tag Library,1.2,http://java.sun.com/products/jsp/jstl/,,Common Development and Distribution License 1.0
-JUL to SLF4J bridge,1.7.7,http://www.slf4j.org,2004-2008 QOS.ch,MIT License
-Log4j Implemented Over SLF4J,1.7.7,http://www.slf4j.org,,Apache License 2.0
-Logback Classic Module,1.1.2,http://logback.qos.ch,"1999-2012, QOS.ch. All rights reserved.",GNU Lesser General Public License v2.1 or later
-Logback Core Module,1.1.2,http://logback.qos.ch,"1999-2012, QOS.ch. All rights reserved.",GNU Lesser General Public License v2.1 or later
-mybatis,Unspecified,http://code.google.com/p/mybatis/,2010-2013 The MyBatis Team (http://www.mybatis.org/).,Apache License 2.0
-mybatis-spring,1.2.3,http://repo.maven.apache.org/maven2//org/mybatis/mybatis-spring/,2010-2013 The MyBatis Team (http://www.mybatis.org/).,Apache License 2.0
-MySQL java connector,5.1.35,http://repo.maven.apache.org/maven2//mysql/mysql-connector-java/,,GNU General Public License v2.0 or later
-Nestable,Unspecified,http://github.com/dbushell/Nestable/,,MIT License
-org.tinygroup.mCustomScrollbar,Unspecified,http://repo.maven.apache.org/maven2//org/tinygroup/org.tinygroup.mCustomScrollbar/,,MIT License
-Original_General_Use,Unspecified,,,Unspecified
-OwlCarousel,Unspecified,http://github.com/lazarofl/OwlCarousel/,,MIT License
-Respond,1.4.2,http://github.com/scottjehl/Respond/,,MIT License
-rickshaw,1.5.1,http://github.com/shutterstock/rickshaw/,,MIT License
-rickshaw,Unspecified,http://github.com/shutterstock/rickshaw/,,MIT License
-RRD4J,Unspecified,http://repo1.maven.org/maven2/org/fusesource/rrd4j/rrd4j/,,Apache License 2.0
-RRD4J,2.2,http://code.google.com/p/rrd4j/,,Apache License 2.0
-SLF4J API Module,1.6.6,http://www.slf4j.org,2004-2013 QOS.ch,MIT License
-SLF4J LOG4J-12 Binding,1.6.6,http://www.slf4j.org,2004-2013 QOS.ch,MIT License
-Spring Data Core,1.7.1.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/data/spring-data-commons/,,Apache License 2.0
-Spring Data Redis,1.5.0,http://repo.spring.io/release//org/springframework/data/spring-data-redis/,,Apache License 2.0
-spring-batch,3.0.1.RELEASE,http://github.com/spring-projects/spring-batch/,,Apache License 2.0
-spring-boot,Unspecified,http://github.com/SpringSource/spring-boot/,,Apache License 2.0
-spring-framework,Unspecified,http://github.com/SpringSource/spring-framework/,"2016 Pivotal Software, Inc.",Apache License 2.0
-spring-retry,1.1.0.RELEASE,http://github.com/spring-projects/spring-retry/,,Apache License 2.0
-TableTools,2.2.3,http://github.com/DataTables/TableTools/,,MIT License
-toastr,Unspecified,http://github.com/CodeSeven/toastr/,,MIT License
-toastr,2.1.2,https://www.npmjs.org/package/toastr,,MIT License
-toastr,2.0.1,http://github.com/CodeSeven/toastr/,,MIT License
-Xml Compatibility extensions for Jackson,1.9.6,http://wiki.fasterxml.com/JacksonHome,,GNU Lesser General Public License v2.1 or later
-XML Pull Parsing API,1.1.3.1,http://repo1.maven.org/maven2/xmlpull/xmlpull/,,Public Domain
-XPP - XML Pull Parser,3-1.1.4c,http://www.extreme.indiana.edu/xgws/xsoap/xpp/,2002 The Trustees of Indiana University,Indiana University Extreme! Lab Software License
-XStream Library,Unspecified,http://xstream.codehaus.org/,"2003-2006 Joe Walnes
-2006-2015 XStream Committers","BSD 3-clause ""New"" or ""Revised"" License"
-zeroclipboard,Unspecified,http://code.google.com/p/zeroclipboard/,,MIT License
+AlgDesign,,https://github.com/jvbraun/AlgDesign,Robert E. Wheeler,GNU General Public License v2.0 or later
+arules,,https://github.com/mhahsler/arules/issues,"Christian Borgelt, Michael Hahsler, Christian Buchta, Bettina Gruen and Kurt Hornik",GNU General Public License v3.0 or later
+arulesSequences,,https://cran.r-project.org/web/packages/arulesSequences/index.html,"The R and the package C code is Copyright (C) 2007 Christian Buchta and Michael Hahsler
+The cSPADE and TPOSE C++ code is Copyright (C) 2001 Mohammed Javeed Zaki
+The mmap C code for Windows is Copyright (C) 2012 Daniel Diaz",GNU General Public License v2.0 or later
+broom,,http://github.com/dgrtwo/broom,2015 David Robinson,MIT License
+car,,https://cran.r-project.org/web/packages/car/index.html,"John Fox [aut, cre], Sanford Weisberg [aut], Daniel Adler [ctb], Douglas Bates [ctb], Gabriel Baud-Bovy [ctb], Steve Ellison [ctb], David Firth [ctb], Michael Friendly [ctb], 2016 Gregor Gorjanc [ctb], Spencer Graves [ctb], Richard Heiberger [ctb], Rafael Laboissiere [ctb], Georges Monette [ctb], Duncan Murdoch [ctb], Henric Nilsson [ctb], Derek Ogle [ctb], Brian Ripley [ctb], William Venables [ctb], David Winsemius [ctb], Achim Zeileis [ctb], R-Core [ctb]",GNU General Public License v2.0 or later
+caret,,https://github.com/topepo/caret/issues,"2016 Max Kuhn. Contributions from Jed Wing, Steve Weston, Andre Williams, Chris Keefer, Allan Engelhardt, Tony Cooper, Zachary Mayer, Brenton Kenkel, the R Core Team, Michael Benesty, Reynald Lescarbeau, Andrew Ziem, Luca Scrucca, Yuan Tang, and Can Candan.",GNU General Public License v2.0 or later
+corrgram,,https://github.com/kwstat/corrgram,2015 Kevin Wright kw.stat@gmail.com,GNU General Public License v2.0 or later
+digest,,http://dirk.eddelbuettel.com/code/digest.html,"2016 Dirk Eddelbuettel <edd@debian.org> with contributions by Antoine Lucas, Jarek Tuszynski, Henrik Bengtsson, Simon Urbanek, Mario Frasca, Bryan Lewis, Murray Stokely, Hannes Muehleisen, Duncan Murdoch and Jim Hester.",GNU General Public License v2.0 or later
+dplyr,,http://github.com/hadley/dplyr/,2013-2015 RStudio,MIT License
+DT,,https://github.com/rstudio/DT,2016 Yihui Xie <xie@yihui.name> and other contributors,GNU General Public License v3.0 or later
+dynatree,,https://github.com/mar10/dynatree,2006-2015  Martin Wendt (http://wwWendt.de) ,MIT License
+e1071,,https://cran.r-project.org/web/packages/e1071/index.html,2015 David Meyer <David.Meyer at R-project.org> and other contributors,GNU General Public License v2.0 or later
+fBasics,,https://cran.r-project.org/web/packages/fBasics/index.html,2014 Tobias Setz <tobias.setz at rmetrics.org>and other contributors,GNU General Public License v2.0 or later
+fmsb,,https://cran.r-project.org/web/packages/fmsb/index.html,2015 Minato Nakazawa <minato-nakazawa at umin.net>,GNU General Public License v2.0 or later
+foreign,,https://cran.r-project.org/web/packages/foreign/index.html,2015 R Core Team <R-core at R-project.org> and other contributors,GNU General Public License v2.0 or later
+ggally,,http://github.com/ggobi/ggally/,2016 Barret Schloerke <schloerke at gmail.com>and other contributors,GNU General Public License v2.0 or later
+ggdendro,,http://github.com/andrie/ggdendro/,2016 Andrie de Vries <apdevries at gmail.com> and other contributors,GNU General Public License v2.0 or later
+ggplot2,,http://github.com/hadley/ggplot2/,2016 Hadley Wickham <hadley at rstudio.com> and other contributors,GNU General Public License v2.0 or later
+gmodels,,https://cran.r-project.org/web/packages/gmodels/index.html,2015 Gregory R. Warnes <greg at warnes.net> and other contributors,GNU General Public License v2.0 or later
+GPArotation,,https://cran.r-project.org/web/packages/GPArotation/index.html,2014 Coen Bernaards and Paul Gilbert <pgilbert.ttv9z at ncf.ca> ,GNU General Public License v2.0 or later
+grid,,https://github.com/cran/grid/blob/master/DESCRIPTION,2002 Paul Murrell <paul@stat.auckland.ac.nz>,GNU General Public License v2.0 or later
+gridExtra,,https://github.com/baptiste/gridextra,Baptiste Auguie <baptiste.auguie@gmail.com>and other contributors,GNU General Public License v2.0 or later
+Hmisc,,https://github.com/harrelfe/Hmisc,"2016 Frank E Harrell Jr, with contributions from Charles Dupont and many others",GNU General Public License v2.0 or later
+htmlwidgets,,https://github.com/ramnathv/htmlwidgets,"2016 Ramnath Vaidyanathan, Joe Cheng, JJ Allaire, Yihui Xie, and Kenton Russell",MIT License
+jquery,1.10.2,http://github.com/jquery/jquery/,"jQuery Foundation and other contributors, https://jquery.org/",MIT License
+jQuery UI,1.10.3,http://webjars.org,"jQuery Foundation and other contributors, https://jquery.org/",MIT License
+jQuery UI - org.webjars:jquery-ui,1.9.2,http://webjars.org,"jQuery Foundation and other contributors, https://jquery.org/",MIT License
+jquery-cookie,,http://github.com/carhartl/jquery-cookie/,2014 Klaus Hartl,MIT License
+knitr,,https://github.com/yihui/knitr,2016 Yihui Xie <xie@yihui.name>,GNU General Public License v2.0 or later
+log4r,,https://github.com/johnmyleswhite/log4r,"2014 John Myles White, Kenton White, Kirill M?ller krlmlr+r@mailbox.org",Artistic License 2.0
+lubridate,,http://github.com/hadley/lubridate/,Vitalie Spinu <spinuvit@gmail.com> and other contributors,GNU General Public License v2.0 or later
+magrittr,,https://cran.r-project.org/web/packages/magrittr/index.html,2014 Stefan Milton Bache <stefan at stefanbache.dk> and Hadley Wickham,MIT License
+mailR,,https://github.com/rpremraj/mailR,2016 Rahul Premraj <r.premraj+mailR@gmail.com>,GNU General Public License v3.0 or later
+MASS,,http://www.stats.ox.ac.uk/pub/MASS4/,1999-2002 W. N. Venables and B. D. Ripley,GNU General Public License v2.0 or later
+Oracle JDBC Drivers,,http://www.oracle.com/technology/software/tech/java/sqlj_jdbc/index.html,Oracle,Oracle Technology Network Development and Distribution 01-2009 License
+Original_General_Use,,,,Unspecified
+PKI,,http://www.rforge.net/PKI,Simon Urbanek ,GNU General Public License v2.0 or later
+plotrix,,https://cran.r-project.org/web/packages/plotrix/index.html,2015 Jim Lemon <drjimlemon at gmail.com> and other contributors,GNU General Public License v2.0 or later
+plyr,,http://github.com/hadley/plyr/,2014 Hadley Wickham,MIT License
+pryr,,https://github.com/hadley/pryr,Hadley Wickham hadley@rstudio.com,GNU General Public License v2.0 or later
+psych,,http://personality-project.org/r/psych/,2014 William Revelle and the Personality Project. All rights reserved,GNU General Public License v2.0 or later
+R Project for Statistical Computing,,http://www.r-project.org/,The R Foundation. ,GNU General Public License v2.0 or later
+reshape2,,https://github.com/hadley/reshape,2008-2014 Hadley Wickham,MIT License
+rhandsontable,,https://github.com/jrowen/rhandsontable,"2016 Marcin Warpechowski, Handsoncode sp. z o.o., Gregor Aisch, Tim Wood, Iskren Chernev, Moment.js contributors, David Bushell, jQuery Foundation, Splunk Inc, Jon Rohan, James M. Greeneand and Jonathan Owen",MIT License
+rJava - A Simple R-to-Java Interface,,http://www.rforge.net/rJava/,Simon Urbanek <simon.urbanek@r-project.org>,GNU General Public License v2.0 or later
+RJDBC,,http://www.rforge.net/RJDBC/,Simon Urbanek <Simon.Urbanek@r-project.org>,GNU General Public License v2.0 or later
+RMySQL,,http://github.com/jeffreyhorner/RMySQL/,Jeroen Ooms <jeroen.ooms@stat.ucla.edu> and other contributors,GNU General Public License v2.0 or later
+rpart,,https://cran.r-project.org/web/packages/rpart/index.html,2015 Brian Ripley <ripley at stats.ox.ac.uk> and other contributors,GNU General Public License v2.0 or later
+rpart.plot,,http://www.milbo.org/rpart-plot,2015 Stephen Milborrow <milbo at sonic.net>,GNU General Public License v3.0 or later
+rpivotTable,,https://github.com/smartinsightsfromdata/,2015 Enzo Martoglio,MIT License
+sampling,,https://cran.r-project.org/web/packages/sampling/index.html,"2015 Yves Till?, Alina Matei <alina.matei at unine.ch>",GNU General Public License v2.0 or later
+sas7bdat,,http://github.com/BioStatMatt/sas7bdat/,2014 Matt Shotwell <matt.shotwell@vanderbilt.edu> and other contributors,GNU General Public License v2.0 or later
+shiny,,https://github.com/rstudio/shiny,"2016 RStudio, Inc. ",GNU General Public License v3.0 or later
+shinyAce,,https://github.com/trestletech/shinyAce,"2016 Jeff Allen, Ajax.org B.V. (Ace)",MIT License
+shinyBS,,https://github.com/ebailey78/shinyBS,2015 Eric Bailey <ebailey@idem.in.gov>,GNU General Public License v3.0 or later
+shinydashboard,,http://rstudio.github.io/shinydashboard/,Winston Chang <winston@rstudio.com> and other contributors,GNU General Public License v2.0 or later
+shinythemes,,http://github.com/rstudio/shinythemes/,Winston Chang <winston@rstudio.com> and other contributors,GNU General Public License v3.0 or later
+sqldf,,https://cran.r-project.org/web/packages/sqldf/index.html,2014 G. Grothendieck <ggrothendieck at gmail.com>,GNU General Public License v2.0 or later
+tidyr,,http://github.com/hadley/tidyr/,2014 Hadley Wickham and Rstudio,MIT License
+toastr,2.1.2,https://www.npmjs.org/package/toastr,"2012-2015 John Papa, Tim Ferrell, Hans Fj?llemark",MIT License
+vcd,,https://cran.r-project.org/web/packages/vcd/index.html,2015 David Meyer <David.Meyer at R-project.org>,GNU General Public License v2.0 or later
+xlsx,,https://github.com/SheetJS/js-xlsx,2012-2015  SheetJS ,Apache License 2.0
+wordcloud,,http://blog.fellstat.com/?cat=11,2013 Ian Fellows <ian@fellstat.com>,GNU Lesser General Public License v2.1 or later
+XML,,http://www.omegahat.net/RSXML,Duncan Temple Lang <duncan@wald.ucdavis.edu>,"BSD 2-clause ""Simplified"" License"
