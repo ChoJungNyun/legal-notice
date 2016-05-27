@@ -1,38 +1,936 @@
 oss,component,url,copyright,license
+JUnit,3.8.2,http://www.junit.org/,Java Hamcrest (http://hamcrest.org/JavaHamcrest/)・,Common Public License 1.0
+JUnit,3.8.1,http://www.junit.org/,Java Hamcrest (http://hamcrest.org/JavaHamcrest/)・,Common Public License 1.0
+JUnit,4.7,http://sourceforge.net/projects/junit/,Java Hamcrest (http://hamcrest.org/JavaHamcrest/)・,Common Public License 1.0
+Aether :: Utilities,1.7,http://repo1.maven.org/maven2/org/sonatype/aether/aether-util/,,Apache License 2.0
+JUnit,4.10,http://sourceforge.net/projects/junit/,Java Hamcrest (http://hamcrest.org/JavaHamcrest/)・,Common Public License 1.0
+WSDL4J,Unspecified,http://repo1.maven.org/maven2/wsdl4j/wsdl4j/,,Common Public License 1.0
+Aether,0.9.0.M2,http://www.eclipse.org/aether/,,Eclipse Public License 1.0
+Aether,0.9.1.v20140329,http://www.eclipse.org/aether/,,Eclipse Public License 1.0
+Aether API,1.0.2.v20150114,http://repo.maven.apache.org/maven2//org/eclipse/aether/aether-api/,,Eclipse Public License 1.0
+Aether API,0.9.1.v20140329,http://www.eclipse.org/aether/aether-api/,,Eclipse Public License 1.0
+Aether Implementation,1.0.2.v20150114,http://repo.maven.apache.org/maven2//org/eclipse/aether/aether-impl/,,Eclipse Public License 1.0
+Aether SPI,0.9.1.v20140329,http://www.eclipse.org/aether/aether-spi/,,Eclipse Public License 1.0
+An open source Java toolkit for Amazon S3,0.9.0,http://www.jets3t.org,,Apache License 2.0
+Angular UI Router,0.2.13,http://repo.maven.apache.org/maven2//org/webjars/angular-ui-router/,,MIT License
+Angular ui-calendar,Unspecified,http://webjars.org,,MIT License
+angular-bootstrap-nav-tree,Unspecified,http://github.com/nickperkinslondon/angular-bootstrap-nav-tree/,,MIT License
+angular-breadcrumb,Unspecified,http://github.com/ncuillery/angular-breadcrumb/,,MIT License
+angular-breadcrumb,0.3.2,http://github.com/ncuillery/angular-breadcrumb/,,MIT License
+angular-daterangepicker,Unspecified,http://github.com/fragaria/angular-daterangepicker/,,MIT License
+angular-minicolors,Unspecified,http://github.com/kaihenzler/angular-minicolors/,,MIT License
+angular-slider,Unspecified,http://github.com/Design-Royale/angular-slider/,,MIT License
+angular-slider,Unspecified,http://github.com/erictsai6/angular-slider/,,MIT License
+angular.js,Unspecified,http://github.com/angular/angular.js/,,MIT License
+angular.js,1.3.13,https://www.npmjs.org/package/angular-sanitize,,MIT License
+AngularJS UI Utils,0.2.1,http://www.nuget.org/packages/Angular.UI.Utils,,MIT License
+AngularJS-Toaster,Unspecified,http://github.com/jirikavi/AngularJS-Toaster/,,MIT License
+AngularUI Bootstrap,Unspecified,http://webjars.org,,MIT License
+Annotation 1.0,1.1.1,http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-annotation_1.0_spec/,2003-2008 The Apache Software Foundation,Apache License 2.0
+Antlr 3.4 Runtime,3.4,http://www.antlr.org,,"BSD 3-clause ""New"" or ""Revised"" License"
+ANTLR Master build control POM 3.4,3.4,http://repo1.maven.org/maven2/org/antlr/antlr-master/,,Unspecified
+AntLR Parser Generator - antlr:antlr,2.7.7,http://repo1.maven.org/maven2/antlr/antlr/,,"BSD 3-clause ""New"" or ""Revised"" License"
+ANTLR ST4 4.0.4,4.0.4,http://www.stringtemplate.org,,"BSD 3-clause ""New"" or ""Revised"" License"
+"ANTLR, ANother Tool for Language Recognition",2.7.7,http://www.antlr.org/,,ANTLR Software Rights Notice
 AOP Alliance (Java/J2EE AOP standard),1.0,http://sourceforge.net/projects/aopalliance/,all the source code provided by AOP Alliance is Public Domain,Public Domain
-Apache Ant,1.6.5,http://ant.apache.org/,1999-2016 The Apache Software Foundation,Apache License 2.0
-Apache Commons Collections - commons-collections:commons-collections,3.2.2,http://repo.maven.apache.org/maven2//commons-collections/commons-collections/,2001-2015 The Apache Software Foundation,Apache License 2.0
-Apache Commons FileUpload,1.2.1,http://jakarta.apache.org/commons/fileupload/,2002-2014 The Apache Software Foundation. ,Apache License 2.0
+Apache Ambari,Unspecified,http://incubator.apache.org/ambari/,,Apache License 2.0
+Apache Ant,Unspecified,http://ant.apache.org/,1999-2016 The Apache Software Foundation,Apache License 2.0
+Apache Ant,1.9.1,http://ant.apache.org/,1999-2016 The Apache Software Foundation,Apache License 2.0
+Apache Avro - org.apache.camel:camel-avro,1.7.5,http://avro.apache.org,,Apache License 2.0
+Apache Avro Java,1.7.4,http://avro.apache.org,,Apache License 2.0
+Apache Avro Java,1.7.5,http://avro.apache.org,,Apache License 2.0
+Apache Avro Toplevel,1.7.4,http://avro.apache.org,,Apache License 2.0
+Apache Avro Toplevel,1.7.5,http://avro.apache.org,,Apache License 2.0
+Apache Commons BeanUtils,1.9.2,http://commons.apache.org/proper/commons-beanutils/,,Apache License 2.0
+Apache Commons Compress,1.9,http://repo.maven.apache.org/maven2//org/apache/commons/commons-compress/,,Apache License 2.0
+Apache Commons Compress,1.5,http://commons.apache.org/compress/,,Apache License 2.0
+Apache Commons Daemon,1.0.13,http://commons.apache.org/daemon/,,Apache License 2.0
+Apache Commons DbUtils,Unspecified,http://commons.apache.org/proper/commons-dbutils/,,Apache License 2.0
+Apache Commons Digester,2.1,http://jakarta.apache.org/commons/digester/index.html,,Apache License 2.0
+Apache Commons Digester,2.0,http://jakarta.apache.org/commons/digester/index.html,,Apache License 2.0
+Apache Commons FileUpload,1.2.2,http://jakarta.apache.org/commons/fileupload/,2002-2014 The Apache Software Foundation. ,Apache License 2.0
+Apache Commons Lang,3.1,http://commons.apache.org/proper/commons-lang/,2001-2015 The Apache Software Foundation,Apache License 2.0
+Apache Commons Lang,3.3.2,http://commons.apache.org/proper/commons-lang/,2001-2015 The Apache Software Foundation,Apache License 2.0
+Apache Commons Lang,2.5,http://commons.apache.org/proper/commons-lang/,2001-2015 The Apache Software Foundation,Apache License 2.0
+Apache Commons Lang,2.4,http://commons.apache.org/proper/commons-lang/,2001-2015 The Apache Software Foundation,Apache License 2.0
 Apache Commons Lang,2.1,http://commons.apache.org/proper/commons-lang/,2001-2015 The Apache Software Foundation,Apache License 2.0
+Apache Commons Parent,35,http://repo.maven.apache.org/maven2//org/apache/commons/commons-parent/,,Apache License 2.0
+Apache Commons Parent,34,http://commons.apache.org/,,Apache License 2.0
+Apache Commons Pool,2.2,http://commons.apache.org/proper/commons-pool/,2001-2014 The Apache Software Foundation,Apache License 2.0
+Apache Commons Pool,2.3,http://repo.maven.apache.org/maven2//org/apache/commons/commons-pool2/,2001-2014 The Apache Software Foundation,Apache License 2.0
+Apache Curator,2.6.0,http://curator.apache.org,,Apache License 2.0
+Apache Curator,2.7.1,http://repo.maven.apache.org/maven2//org/apache/curator/apache-curator/,,Apache License 2.0
+Apache Derby Project,10.10.1.1,http://db.apache.org/derby/,,Apache License 2.0
+Apache Derby Project,10.10.2.0,http://db.apache.org/derby/,,Apache License 2.0
+Apache Directory API ASN.1 API,1.0.0-M20,http://directory.apache.org/api-parent/api-asn1-parent/api-asn1-api/,,Apache License 2.0
+Apache Directory API ASN.1 Parent,1.0.0-M20,http://directory.apache.org/api-parent/api-asn1-parent/,,Apache License 2.0
+Apache Directory LDAP API,1.0.0-M20,http://directory.apache.org/api-parent/,,Apache License 2.0
+Apache Directory LDAP API Utilities,1.0.0-M20,http://directory.apache.org/api-parent/api-util/,,Apache License 2.0
+Apache Directory Project - org.apache.directory.project:project,31,http://directory.apache.org/,,Apache License 2.0
+Apache Extras for Apache log4j,1.2.17,http://logging.apache.org/log4j/extras,,Apache License 2.0
+Apache Hadoop Annotations,2.7.1,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-annotations/,,Apache License 2.0
+Apache Hadoop Annotations,2.6.0,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-annotations/,,Apache License 2.0
+Apache Hadoop Auth,2.7.1,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-auth/,,Apache License 2.0
+Apache Hadoop Common - org.apache.hadoop:hadoop-common,2.7.1,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-common/,,Apache License 2.0
+Apache Hadoop HDFS,2.7.1,http://repository.jboss.org/nexus/content/groups/public-jboss//org/apache/hadoop/hadoop-hdfs/,,Apache License 2.0
+Apache Hadoop Main,2.6.0,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-main/,,Apache License 2.0
+Apache Hadoop Main,2.7.1,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-main/,,Apache License 2.0
+Apache Hadoop Project Dist POM,2.7.1,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-project-dist/,,Apache License 2.0
+Apache Hadoop Project POM,2.7.1,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-project/,,Apache License 2.0
+Apache Hadoop Project POM,2.6.0,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-project/,,Apache License 2.0
+Apache HttpClient,4.4,http://repo.maven.apache.org/maven2//org/apache/httpcomponents/httpclient/,,Apache License 2.0
+Apache HttpClient,4.3.6,http://hc.apache.org/httpcomponents-client-ga/,,Apache License 2.0
+Apache HttpClient,4.5,https://hc.apache.org/,,Apache License 2.0
+Apache HttpComponents Client,4.4,http://repo.maven.apache.org/maven2//org/apache/httpcomponents/httpcomponents-client/,,Apache License 2.0
+Apache HttpComponents Core,4.4.1,http://repo.maven.apache.org/maven2//org/apache/httpcomponents/httpcomponents-core/,,Apache License 2.0
+Apache HttpComponents Core,4.4,http://repo.maven.apache.org/maven2//org/apache/httpcomponents/httpcomponents-core/,,Apache License 2.0
+Apache HttpCore,4.3.3,http://repo.maven.apache.org/maven2//org/apache/httpcomponents/httpcore/,,Apache License 2.0
+Apache HttpCore,4.2.5,http://hc.apache.org/httpcomponents-core-ga,,Apache License 2.0
 Apache Jakarta Commons BeanUtils,1.7.0,http://jakarta.apache.org/commons/beanutils/index.html,2014 The Apache Software Foundation,Apache License 2.0
-Apache Jakarta Commons Codec,1.3,http://jakarta.apache.org/commons/codec/,2014 The Apache Software Foundation,Apache License 2.0
+Apache Jakarta Commons CLI,1.0,http://jakarta.apache.org/commons/cli/,2001-2007 The Apache Software Foundation,Apache License 2.0
+Apache Jakarta Commons Codec,1.2,http://jakarta.apache.org/commons/codec/,2014 The Apache Software Foundation,Apache License 1.1
+Apache Jakarta Commons Collections,3.1,http://jakarta.apache.org/commons/collections/,,Apache License 2.0
+Apache Jakarta Commons Compress,1.4.1,http://jakarta.apache.org/commons/sandbox/compress/index.html,,Apache License 2.0
+Apache Jakarta Commons Configuration,1.6,http://jakarta.apache.org/commons/configuration/,,Apache License 2.0
+Apache Jakarta Commons Digester,1.8,http://jakarta.apache.org/commons/digester/index.html,2013 The Apache Software Foundation,Apache License 2.0
+Apache Jakarta Commons Discovery,0.2,http://jakarta.apache.org/commons/discovery/,,Apache License 1.1
+Apache Jakarta Commons EL,1.0,http://commons.apache.org/proper/commons-el/,,Apache License 1.1
+Apache Jakarta Commons HttpClient,3.0.1,http://jakarta.apache.org/commons/httpclient/,,Apache License 2.0
+Apache Jakarta Commons HttpClient,Unspecified,http://jakarta.apache.org/commons/httpclient/,,Apache License 2.0
 Apache Jakarta Commons Logging,1.0.4,http://jakarta.apache.org/commons/logging/,2001-2014 The Apache Software Foundation,Apache License 2.0
-Apache Jakarta Pool,1.4,http://jakarta.apache.org/commons/pool/,2001-2015 The Apache Software Foundation,Apache License 2.0
-Apache License 2.0,2.0,http://www.apache.org,-,Apache License 2.0
+Apache Jakarta Commons Logging,1.1,http://jakarta.apache.org/commons/logging/,2001-2014 The Apache Software Foundation,Apache License 2.0
+Apache Jakarta Commons Logging,Unspecified,http://jakarta.apache.org/commons/logging/,2001-2014 The Apache Software Foundation,Apache License 2.0
+Apache Jakarta HTTP Client,3.1,http://jakarta.apache.org/commons/httpclient/,2001-2015 The Apache Software Foundation,Apache License 2.0
+Apache Jakarta Taglibs,current,http://jakarta.apache.org/taglibs/index.html,,Apache License 2.0
+Apache Jakarta Velocity,1.5,http://velocity.apache.org/,2000-2007 The Apache Software Foundation,Apache License 2.0
+Apache Log4j,1.2.12,http://logging.apache.org/log4j/1.2/,1999-2012 Apache Software Foundation,Apache License 2.0
+Apache Log4j,1.2.15,http://logging.apache.org/log4j/1.2/,1999-2012 Apache Software Foundation,Apache License 2.0
 Apache Log4j,1.2.14,http://logging.apache.org/log4j/1.2/,1999-2012 Apache Software Foundation,Apache License 2.0
-Apache POI,3.7,http://repo1.maven.org/maven2/org/apache/poi/poi/,2009 The Apache Software Foundation,Apache License 2.0
+Apache Log4j,1.2.17,http://logging.apache.org/log4j/1.2/,1999-2012 Apache Software Foundation,Apache License 2.0
+Apache Log4j,1.2.16,http://logging.apache.org/log4j/1.2/,1999-2012 Apache Software Foundation,Apache License 2.0
+Apache Maven,Unspecified,http://maven.apache.org/,,Apache License 2.0
+Apache Maven,2.2.1,http://maven.apache.org/,,Apache License 2.0
+Apache Maven - org.apache.maven:maven,3.1.1,http://maven.apache.org/ref/3.1.1,,Apache License 2.0
+Apache Maven - org.apache.maven:maven,3.2.1,http://maven.apache.org/ref/3.2.1,,Apache License 2.0
+Apache Maven Archiver,2.6,http://repo.maven.apache.org/maven2//org/apache/maven/maven-archiver/,,Apache License 2.0
+Apache Maven Deploy Plugin,2.8.2,http://repo.maven.apache.org/maven2//org/apache/maven/plugins/maven-deploy-plugin/,,Apache License 2.0
+Apache Maven Install Plugin - org.apache.maven.plugins:maven-install-plugin,2.5.2,http://repo.maven.apache.org/maven2//org/apache/maven/plugins/maven-install-plugin/,,Apache License 2.0
+Apache Maven JAR Plugin,2.5,http://maven.apache.org/plugins/maven-jar-plugin/,,Apache License 2.0
+Apache Maven Parent POM,19,http://repo1.maven.org/maven2/org/apache/maven/maven-parent/,,Apache License 2.0
+Apache Maven Parent POM,25,http://repo.maven.apache.org/maven2//org/apache/maven/maven-parent/,,Apache License 2.0
+Apache Maven Parent POM,22,http://mirrors.ibiblio.org/maven2/org/apache/maven/maven-parent/,,Apache License 2.0
+Apache Maven Parent POM,24,http://maven.apache.org/,,Apache License 2.0
+Apache Maven Parent POM,7,http://repo1.maven.org/maven2/org/apache/maven/maven-parent/,,Apache License 2.0
+Apache Maven Parent POM,9,http://repo1.maven.org/maven2/org/apache/maven/maven-parent/,,Apache License 2.0
+Apache Maven Parent POM,13,http://repo1.maven.org/maven2/org/apache/maven/maven-parent/,,Apache License 2.0
+Apache Maven Plugins - org.apache.maven.plugins:maven-plugins,25,http://maven.apache.org/plugins/,,Apache License 2.0
+Apache Maven Shade Plugin,2.3,http://maven.apache.org/plugins/maven-shade-plugin/,,Apache License 2.0
+Apache Maven Shade Plugin,2.2,http://maven.apache.org/plugins/maven-shade-plugin/,,Apache License 2.0
+Apache Maven Shared Components,20,http://maven.apache.org/shared/,,Apache License 2.0
+Apache Maven Shared Utils,0.7,http://repo.maven.apache.org/maven2//org/apache/maven/shared/maven-shared-utils/,,Apache License 2.0
+Apache Maven Site Plugin,3.4,http://maven.apache.org/plugins/maven-site-plugin/,,Apache License 2.0
+Apache Maven Surefire,2.18,http://repo.maven.apache.org/maven2//org/apache/maven/surefire/surefire/,,Apache License 2.0
+Apache Maven Surefire,2.17,http://maven.apache.org/surefire,,Apache License 2.0
+Apache Maven War Plugin,2.2,http://maven.apache.org/plugins/maven-war-plugin/,,Apache License 2.0
+Apache MINA,2.0.7,http://mirrors.ibiblio.org/maven2/org/apache/mina/mina-parent/,,Apache License 2.0
+Apache MINA Core,2.0.7,http://mirrors.ibiblio.org/maven2/org/apache/mina/mina-core/,2004-2011 Apache MINA Project,Apache License 2.0
+Apache Mina SSHD,0.11.0,http://www.apache.org/sshd/,,Apache License 2.0
+Apache Mina SSHD :: Core,0.11.0,http://www.apache.org/sshd/sshd-core/,,Apache License 2.0
+Apache Mina SSHD :: PAM,0.11.0,http://www.apache.org/sshd/sshd-pam/,,Apache License 2.0
+Apache ORO,2.0.8,http://jakarta.apache.org/oro/index.html,2009-2016 The Apache Software Foundation,Apache License 1.1
+Apache Parquet Hadoop Bundle (Incubating),1.6.0,http://repo.maven.apache.org/maven2//com/twitter/parquet-hadoop-bundle/,,Apache License 2.0
+Apache POI,3.12,https://poi.apache.org/,2009 The Apache Software Foundation,Apache License 2.0
+Apache POI - org.apache.poi:poi-excelant,3.12,http://repo.maven.apache.org/maven2//org/apache/poi/poi-excelant/,,Apache License 2.0
+Apache POI - org.apache.poi:poi-ooxml,3.12,http://repo.maven.apache.org/maven2//org/apache/poi/poi-ooxml/,2009 The Apache Software Foundation,Apache License 2.0
+Apache POI - org.apache.poi:poi-ooxml-schemas,3.12,http://repo.maven.apache.org/maven2//org/apache/poi/poi-ooxml-schemas/,2009 The Apache Software Foundation,Apache License 2.0
+Apache POI - org.apache.poi:poi-scratchpad,3.12,http://repo.maven.apache.org/maven2//org/apache/poi/poi-scratchpad/,2009 The Apache Software Foundation,Apache License 2.0
+Apache ServiceMix :: Bundles :: jsr305,2.0.1_1,http://mirrors.ibiblio.org/maven2/org/apache/servicemix/bundles/org.apache.servicemix.bundles.jsr305/,,Apache License 2.0
+Apache ServiceMix :: Bundles :: jsr305,1.3.9_1,http://repo1.maven.org/maven2/org/apache/servicemix/bundles/org.apache.servicemix.bundles.jsr305/,,Apache License 2.0
+Apache Thrift,0.9.2,http://repo.maven.apache.org/maven2//org/apache/thrift/libthrift/,,Apache License 2.0
+Apache Tiles (Master POM),3,http://repo1.maven.org/maven2/org/apache/tiles/tiles-master/,,Apache License 2.0
+Apache Tomcat,8.0.0-RC10,https://tomcat.apache.org/,"1999-2016, The Apache Software Foundation ",Apache License 2.0
+Apache Tomcat,8.0.24,http://repo.maven.apache.org/maven2//org/apache/tomcat/tomcat-annotations-api/,"1999-2016, The Apache Software Foundation ",Apache License 2.0
+Apache Tomcat,8.0.23,http://repo.maven.apache.org/maven2//org/apache/tomcat/tomcat-annotations-api/,"1999-2016, The Apache Software Foundation ",Apache License 2.0
+Apache Torque,3.1.1,http://db.apache.org/torque/,2000-2013 The Apache Software Foundation,Apache License 2.0
+Apache Velocity,1.5,http://velocity.apache.org,,Apache License 2.0
+Apache Velocity,1.7,http://velocity.apache.org,,Apache License 2.0
+Apache Web Services Axis,1.4,http://ws.apache.org/axis/,,Apache License 2.0
+Apache XBean,3.4,http://repo1.maven.org/maven2/org/apache/xbean/xbean/,,Apache License 2.0
+Apache XBean :: Reflect,3.4,http://repo1.maven.org/maven2/org/apache/xbean/xbean-reflect/,2005-2010 The Apache Software Foundation,Apache License 2.0
 Apache Xerces Java XML Parser,2.9.0,http://xml.apache.org/xerces2-j/index.html,1999-2010 The Apache Software Foundation,Apache License 2.0
-"BSD 4-clause ""Original"" or ""Old"" License",1.0,http://www.opensource.org/,-,"BSD 4-clause ""Original"" or ""Old"" License"
+Apache Xerces Java XML Parser,2.9.1,http://xml.apache.org/xerces2-j/index.html,1999-2010 The Apache Software Foundation,Apache License 2.0
+Apache-Ant,1.8.2,http://ant.apache.org/,,Apache License 2.0
+Apache-Jakarta BeanUtils,1.8.0,http://jakarta.apache.org/commons/beanutils/index.html,2000-2014 The Apache Software Foundation,Apache License 2.0
+Apache-Jakarta Codec,1.6,http://jakarta.apache.org/commons/codec/,2002-2014 The Apache Software Foundation,Apache License 2.0
+Apache-Jakarta Codec,1.4,http://jakarta.apache.org/commons/codec/,2002-2014 The Apache Software Foundation,Apache License 2.0
+Apache-Jakarta Codec,1.10,http://commons.apache.org/proper/commons-codec/,2002-2014 The Apache Software Foundation,Apache License 2.0
+Apache-Jakarta Collections,3.2.1,http://jakarta.apache.org/commons/collections/,2001-2015 The Apache Software Foundation,Apache License 2.0
+Apache-Jakarta DBCP,2.0,http://jakarta.apache.org/commons/dbcp/,,Apache License 2.0
+Apache-Jakarta HTTP Client,4.1.2,http://jakarta.apache.org/commons/httpclient/,,Apache License 2.0
+Apache-Jakarta HTTP Client,4.1.3,http://jakarta.apache.org/commons/httpclient/,,Apache License 2.0
+Apache-Jakarta Lang,2.6,http://jakarta.apache.org/commons/lang/index.html,,Apache License 2.0
+Apache-Jakarta Pool,1.5.4,http://jakarta.apache.org/commons/pool/,2001-2015 The Apache Software Foundation,Apache License 2.0
+Apache-Jakarta Pool,1.6,http://jakarta.apache.org/commons/pool/,2001-2015 The Apache Software Foundation,Apache License 2.0
+ApacheDS - org.apache.directory.server:apacheds-parent,2.0.0-M15,http://directory.apache.org/apacheds/1.5,,Apache License 2.0
+ApacheDS I18n,2.0.0-M15,http://directory.apache.org/apacheds/1.5/apacheds-i18n,,Apache License 2.0
+ApacheDS Protocol Kerberos Codec,2.0.0-M15,http://directory.apache.org/apacheds/1.5/apacheds-kerberos-codec,,Apache License 2.0
+Archetype - geronimo-assembly-archetype,1.2,http://repo1.maven.org/maven2/org/apache/geronimo/genesis/genesis/,,Apache License 2.0
+Archetype - geronimo-assembly-archetype,2.0,http://repo1.maven.org/maven2/org/apache/geronimo/genesis/genesis/,,Apache License 2.0
+Arquillian BOM,1.0.2.Final,http://mirrors.ibiblio.org/maven2/org/jboss/arquillian/arquillian-bom/,,Apache License 2.0
+ASM,3.2,http://forge.objectweb.org/projects/asm/,"1999-2008, OW2 Consortium","BSD 3-clause ""New"" or ""Revised"" License"
+ASM,3.3.1,http://forge.objectweb.org/projects/asm/,"1999-2008, OW2 Consortium","BSD 3-clause ""New"" or ""Revised"" License"
+ASM,3.1,http://forge.objectweb.org/projects/asm/,"1999-2008, OW2 Consortium","BSD 3-clause ""New"" or ""Revised"" License"
+ASM,3.2,http://repo1.maven.org/maven2/asm/asm-parent/,"1999-2008, OW2 Consortium","BSD 3-clause ""New"" or ""Revised"" License"
+ASM,3.1,http://repo1.maven.org/maven2/org/ow2/util/asm/asm-parent/,"1999-2008, OW2 Consortium","BSD 3-clause ""New"" or ""Revised"" License"
+ASM Analysis,3.2,http://repo1.maven.org/maven2/asm/asm-analysis/,,"BSD 3-clause ""New"" or ""Revised"" License"
+ASM Analysis,5.0.2,http://asm.objectweb.org/asm-analysis/,,"BSD 3-clause ""New"" or ""Revised"" License"
+ASM Commons,3.1,http://repo1.maven.org/maven2/asm/asm-commons/,"1999-2008, OW2 Consortium","BSD 3-clause ""New"" or ""Revised"" License"
+ASM Commons,3.3.1,http://repo1.maven.org/maven2/asm/asm-commons/,"1999-2008, OW2 Consortium","BSD 3-clause ""New"" or ""Revised"" License"
+ASM Commons,3.2,http://repo1.maven.org/maven2/asm/asm-commons/,"1999-2008, OW2 Consortium","BSD 3-clause ""New"" or ""Revised"" License"
+ASM Commons,5.0.2,http://asm.objectweb.org/asm-commons/,"1999-2008, OW2 Consortium","BSD 3-clause ""New"" or ""Revised"" License"
+ASM Core,5.0.2,http://asm.objectweb.org/asm/,,"BSD 3-clause ""New"" or ""Revised"" License"
+ASM Tree,3.3.1,http://repo1.maven.org/maven2/asm/asm-tree/,,"BSD 3-clause ""New"" or ""Revised"" License"
+ASM Tree,3.2,http://repo1.maven.org/maven2/asm/asm-tree/,,"BSD 3-clause ""New"" or ""Revised"" License"
+ASM Tree,5.0.2,http://asm.objectweb.org/asm-tree/,,"BSD 3-clause ""New"" or ""Revised"" License"
+ASM Tree,3.1,http://repo1.maven.org/maven2/asm/asm-tree/,,"BSD 3-clause ""New"" or ""Revised"" License"
+ASM Util,3.2,http://repo1.maven.org/maven2/asm/asm-util/,,"BSD 3-clause ""New"" or ""Revised"" License"
+ASM Util,5.0.2,http://asm.objectweb.org/asm-util/,,"BSD 3-clause ""New"" or ""Revised"" License"
+Aether SPI,1.0.2.v20150114,http://repo.maven.apache.org/maven2//org/eclipse/aether/aether-spi/,,Eclipse Public License 1.0
+Aether Utilities,0.9.1.v20140329,http://www.eclipse.org/aether/aether-util/,,Eclipse Public License 1.0
+Aether Utilities,1.0.2.v20150114,http://repo.maven.apache.org/maven2//org/eclipse/aether/aether-util/,,Eclipse Public License 1.0
+Aether Utilities,0.9.0.M2,http://www.eclipse.org/aether/aether-util/,,Eclipse Public License 1.0
+AspectJ runtime,1.8.6,http://repo.maven.apache.org/maven2//org/aspectj/aspectjrt/,"1999-2001 Xerox Corporation, 
+2002 Palo Alto Research Center, Incorporated (PARC), 
+2003-2005 Contributors.",Eclipse Public License 1.0
+Atomikos All POM,3.8.0,http://mirrors.ibiblio.org/maven2/com/atomikos/atomikos-parent/,,Apache License 2.0
+Atomikos Util,3.8.0,http://www.atomikos.com/ate/atomikos-util/,,Apache License 2.0
+Atomikos Util,Unspecified,http://repo1.maven.org/maven2/com/atomikos/atomikos-util/,,Apache License 2.0
+autosize,1.18.6,http://github.com/jackmoore/autosize/,,MIT License
+avalon-framework,4.1.3,http://repo1.maven.org/maven2/avalon-framework/avalon-framework/,,Apache License 1.1
+Backport of JSR 166,3.1,http://repo1.maven.org/maven2/backport-util-concurrent/backport-util-concurrent/,,Public Domain
+backport-util-concurrent,3.1,http://backport-jsr166.sourceforge.net/index.php,"Distributed Computing Laboratory, Emory University
+Google, Inc.",Creative Commons Public Domain Dedication License
+beanvalidation-api,1.1.0.Final,http://github.com/beanvalidation/beanvalidation-api/,"# List of contributors
+Red Hat Inc.
+Dhanji R. Prasanna
+Emmanuel Bernard
+Gavin King
+Gerhard Petracek
+Gunnar Morling
+Hardy Ferentschik
+Kevin Pollet
+Sebastian Thomschke",Apache License 2.0
+BeautyTips,Unspecified,http://github.com/simov/BeautyTips/,,Unspecified
+BoneCP,0.8.0.RELEASE,http://jolbox.com,,Apache License 2.0
+BoneCP :: Core Library,0.8.0.RELEASE,http://jolbox.com/bonecp,,Apache License 2.0
+bootbox,Unspecified,http://github.com/makeusabrew/bootbox/,,MIT License
+bootbox,4.2.0,http://github.com/makeusabrew/bootbox/,,MIT License
+Bootstrap,Unspecified,http://getbootstrap.com,2015 Twitter,MIT License
+bootstrap-datepicker,Unspecified,http://github.com/eternicode/bootstrap-datepicker/,2012 Stefan Petre,Apache License 2.0
+bootstrap-daterangepicker-dmz,Unspecified,https://www.npmjs.org/package/bootstrap-daterangepicker-dmz,,MIT License
+bootstrap-multiselect,Unspecified,http://github.com/davidstutz/bootstrap-multiselect/,,Apache License 2.0
+bootstrap-switch,Unspecified,http://github.com/nostalgiaz/bootstrap-switch/,,Apache License 2.0
+bootstrap-tagsinput,0.3.9,http://github.com/TimSchlechter/bootstrap-tagsinput/,,MIT License
+bootstrap-timepicker,Unspecified,http://github.com/jdewit/bootstrap-timepicker/,,Unspecified
+bootstrap-wysiwyg,master-20130712,http://github.com/mindmup/bootstrap-wysiwyg/,,MIT License
+bootstrapvalidator,0.5.3,http://github.com/nghuuphuoc/bootstrapvalidator/,,MIT License
+"Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs",1.51,http://repo.maven.apache.org/maven2//org/bouncycastle/bcpkix-jdk15on/,,MIT License
+Bouncy Castle Provider,1.51,http://repo.maven.apache.org/maven2//org/bouncycastle/bcprov-jdk15on/,,MIT License
+bpopup,Unspecified,http://github.com/dinbror/bpopup/,,Unspecified
+bxslider-4,4.2.5,http://github.com/stevenwanderski/bxslider-4/,2014 Steven Wanderski,MIT License
+AspectJ runtime,1.6.10,http://repo1.maven.org/maven2/org/aspectj/aspectjrt/,"1999-2001 Xerox Corporation, 
+2002 Palo Alto Research Center, Incorporated (PARC), 
+2003-2005 Contributors.",Eclipse Public License 1.0
+AspectJ weaver,1.8.6,http://repo.maven.apache.org/maven2//org/aspectj/aspectjweaver/,Andy Clement,Eclipse Public License 1.0
+Calcite,1.2.0-incubating,http://repo.maven.apache.org/maven2//org/apache/calcite/calcite/,,Apache License 2.0
+Calcite Avatica,1.2.0-incubating,http://repo.maven.apache.org/maven2//org/apache/calcite/calcite-avatica/,,Apache License 2.0
+Calcite Core,1.2.0-incubating,http://repo.maven.apache.org/maven2//org/apache/calcite/calcite-core/,,Apache License 2.0
+Calcite Linq4j,1.2.0-incubating,http://repo.maven.apache.org/maven2//org/apache/calcite/calcite-linq4j/,,Apache License 2.0
+Camel :: Avro - org.apache.camel:camel-avro,1.7.4,http://avro.apache.org,,Apache License 2.0
+Castor CORE - Core code/functioanlity,1.3.1,http://castor.org,,Apache License 2.0
+Castor Project,1.3.1,http://www.castor.org/,,Apache License 2.0
+Castor XML - core,1.3.1,http://castor.org/castor-xml,,Apache License 2.0
+CDI APIs,1.0,http://repo1.maven.org/maven2/javax/enterprise/cdi-api/,,Apache License 2.0
+Chart.js,Unspecified,http://github.com/nnnick/Chart.js/,,MIT License
+Chart.js,0.2.0,http://github.com/fahad19/Chart.js/,,MIT License
+classworlds,1.1,http://classworlds.codehaus.org/,Source for www.codehaus.org,Plexus Classworlds License
+classworlds,1.1-alpha-2,http://classworlds.codehaus.org/,Source for www.codehaus.org,Plexus Classworlds License
+Code Generation Library - cglib:cglib,2.2.2,http://cglib.sourceforge.net/,,Apache License 2.0
+Codehaus Mojo Parent,28,http://repo1.maven.org/maven2/org/codehaus/mojo/mojo-parent/,,Unspecified
+Codehaus Mojo Parent,27,http://repo1.maven.org/maven2/org/codehaus/mojo/mojo-parent/,,Unspecified
+Codehaus Parent,3,http://repo1.maven.org/maven2/org/codehaus/codehaus-parent/,,Unspecified
+Codehaus Parent,1,http://repo1.maven.org/maven2/org/codehaus/codehaus-parent/,,Unspecified
+CodeMirror,Unspecified,http://www.nuget.org/packages/CodeMirror,,MIT License
+com.ibm.jbatch-tck-spi,1.0,http://java.net/projects/jbatch/com.ibm.jbatch-tck-spi,2013 International Business Machines Corp.,Apache License 2.0
+Common Annotations - JSR-250,1.0,http://jsr250.dev.java.net/,,Common Development and Distribution License 1.0
+Commons BeanUtils Core,1.8.0,http://repo1.maven.org/maven2/commons-beanutils/commons-beanutils-core/,,Apache License 2.0
+Commons CLI,1.2,http://repo1.maven.org/maven2/commons-cli/commons-cli/,,Apache License 2.0
+Commons Compiler,2.6.1,http://mirrors.ibiblio.org/maven2/org/codehaus/janino/commons-compiler/,,"BSD 3-clause ""New"" or ""Revised"" License"
+Commons Compiler - org.codehaus.janino:commons-compiler,2.7.6,http://repo.maven.apache.org/maven2//org/codehaus/janino/commons-compiler/,,"BSD 3-clause ""New"" or ""Revised"" License"
 Commons DBCP,1.4,http://commons.apache.org/dbcp/,2001-2010 The Apache Software Foundation,Apache License 2.0
-Commons IO,1.4,http://commons.apache.org/proper/commons-io/,2002-2014 The Apache Software Foundation,Apache License 2.0
-Commons Net - commons-net:commons-net,3.3,http://commons.apache.org/net/,2001-2008 The Apache Software Foundation,Apache License 2.0
-css3pie,master-20140817,http://github.com/PepijnSenders/css3pie/,Copyright 2010 Jason Johnston,Apache License 2.0
-Derby aka Cloudscape,10.12.1.1,http://db.apache.org/derby/,2004-2015 The Apache Software Foundation,Apache License 2.0
-Glassfish :: Jasper API JSP 2.1,2.1.v20091210,http://repo1.maven.org/maven2/org/mortbay/jetty/jsp-api-2.1-glassfish/,"1997-2008 Sun Microsystems, Inc. All rights reserved",Common Development and Distribution License 1.0
-ibatis-sqlmap,2.3.4.726,http://repo1.maven.org/maven2/org/apache/ibatis/ibatis-sqlmap/,2004 Clinton Begin,Apache License 2.0
+Commons IO,2.2,http://commons.apache.org/proper/commons-io/,2002-2014 The Apache Software Foundation,Apache License 2.0
+Commons IO,2.0,http://commons.apache.org/proper/commons-io/,2002-2014 The Apache Software Foundation,Apache License 2.0
+Commons IO,1.3.2,http://commons.apache.org/proper/commons-io/,2002-2014 The Apache Software Foundation,Apache License 2.0
+Commons IO,Unspecified,http://commons.apache.org/proper/commons-io/,2002-2014 The Apache Software Foundation,Apache License 2.0
+Commons IO,2.4,http://commons.apache.org/proper/commons-io/,2002-2014 The Apache Software Foundation,Apache License 2.0
+Commons Logging - commons-logging:commons-logging,1.1,http://repo1.maven.org/maven2/commons-logging/commons-logging/,2003-2014 The Apache Software Foundation,Apache License 2.0
+Commons Logging - commons-logging:commons-logging,1.0.3,http://repo1.maven.org/maven2/commons-logging/commons-logging/,2003-2014 The Apache Software Foundation,Apache License 2.0
+Commons Logging - commons-logging:commons-logging,1.0.4,http://repo1.maven.org/maven2/commons-logging/commons-logging/,2003-2014 The Apache Software Foundation,Apache License 2.0
+Commons Math,3.1.1,http://commons.apache.org/math/,,Apache License 2.0
+Commons Net,3.1,http://mirrors.ibiblio.org/maven2/commons-net/commons-net/,2001-2008 The Apache Software Foundation,Apache License 2.0
+Commons Parent,16,http://repo1.maven.org/maven2/org/apache/commons/commons-parent/,,Apache License 2.0
+Commons Parent,23,https://repository.apache.org/content/repositories/releases/org/apache/commons/commons-parent/,,Apache License 2.0
+Commons Parent,24,https://repository.apache.org/content/repositories/releases/org/apache/commons/commons-parent/,,Apache License 2.0
+Commons Parent,15,http://repo1.maven.org/maven2/org/apache/commons/commons-parent/,,Apache License 2.0
+Commons Parent,12,http://repo1.maven.org/maven2/org/apache/commons/commons-parent/,,Apache License 2.0
+commons-collections,3.1,http://repo1.maven.org/maven2/commons-collections/commons-collections/,,Apache License 2.0
+commons-logging-api,1.1,http://repo1.maven.org/maven2/commons-logging/commons-logging-api/,,Apache License 2.0
+AspectJ weaver,1.8.5,http://repo.maven.apache.org/maven2//org/aspectj/aspectjweaver/,Andy Clement,Eclipse Public License 1.0
+AspectJ weaver,1.6.1,http://repo1.maven.org/maven2/org/aspectj/aspectjweaver/,Andy Clement,Eclipse Public License 1.0
+Hibernate JPA 2.1 API,1.0.0.Final,http://mvnrepository.com/artifact/org.hibernate.javax.persistence/hibernate-jpa-2.1-api,,Eclipse Public License 1.0
+JUnit,4.12,http://repo.maven.apache.org/maven2//junit/junit/,Java Hamcrest (http://hamcrest.org/JavaHamcrest/)・,Eclipse Public License 1.0
+org.eclipse.sisu.inject,0.0.0.M5,http://www.eclipse.org/sisu/org.eclipse.sisu.inject/,,Eclipse Public License 1.0
+org.eclipse.sisu.plexus,0.0.0.M5,http://www.eclipse.org/sisu/org.eclipse.sisu.plexus/,,Eclipse Public License 1.0
+Sisu Inject - org.eclipse.sisu:sisu-inject,0.0.0.M5,http://www.eclipse.org/sisu/,,Eclipse Public License 1.0
+Sisu Plexus,0.0.0.M5,http://www.eclipse.org/sisu/,,Eclipse Public License 1.0
+Neo4j - org.neo4j:parent,2.1.5,http://repo.maven.apache.org/maven2//org/neo4j/parent/,,GNU Affero General Public License v3.0
+Neo4j Community Cypher Build,2.1.5,http://repo.maven.apache.org/maven2//org/neo4j/cypher-parent/,,GNU Affero General Public License v3.0
+The Neo4j Graph Database Project - Grandparent,40,http://components.neo4j.org/grandparent/40,,GNU Affero General Public License v3.0
+Curator Client - org.apache.curator:curator-client,2.7.1,http://repo.maven.apache.org/maven2//org/apache/curator/curator-client/,,Apache License 2.0
+Curator Client - org.apache.curator:curator-client,2.6.0,http://repo.maven.apache.org/maven2//org/apache/curator/curator-client/,,Apache License 2.0
+Curator Framework,2.7.1,http://repo.maven.apache.org/maven2//org/apache/curator/curator-framework/,,Apache License 2.0
+Curator Framework,2.6.0,http://curator.apache.org/curator-framework,,Apache License 2.0
+Curator Recipes,2.7.1,http://repo.maven.apache.org/maven2//org/apache/curator/curator-recipes/,,Apache License 2.0
+Curator Recipes,2.6.0,http://curator.apache.org/curator-recipes,,Apache License 2.0
+DataNucleus Core,3.2.10,http://www.datanucleus.org,,Apache License 2.0
+DataNucleus JDO API plugin,3.2.6,http://www.datanucleus.org,,Apache License 2.0
+DataNucleus RDBMS,3.2.9,http://www.datanucleus.org,,Apache License 2.0
+DataTables,Unspecified,http://www.datatables.net/,"2008-2016, SpryMedia Ltd.",MIT License
+Default Plexus Container,1.0-alpha-9,http://mirror.netcologne.de/maven2/org/codehaus/plexus/plexus-container-default/,2001-2015 Codehaus Plexus.,Apache License 2.0
+Default Plexus Container,1.0-alpha-8,http://mirror.netcologne.de/maven2/org/codehaus/plexus/plexus-container-default/,2001-2015 Codehaus Plexus.,Apache License 2.0
+Derby aka Cloudscape,10.10.2.0,http://db.apache.org/derby/,,Apache License 2.0
+Derby aka Cloudscape,10.10.1.1,http://db.apache.org/derby/,,Apache License 2.0
+DOM4J - Flexible XML Framework for Java,1.5-rc1,http://dom4j.sourceforge.net,"2001-2005 (C) MetaStuff, Ltd. All Rights Reserved.",dom4j License (BSD 2.0 +)
+Doxia Sink API,1.0-alpha-7,http://repo1.maven.org/maven2/org/apache/maven/doxia/doxia-sink-api/,,Apache License 2.0
+easy-pie-chart,1.2.5,http://github.com/ckken/easy-pie-chart/,,MIT License
+easy-pie-chart,Unspecified,http://github.com/rendro/easy-pie-chart/,,MIT License
+Ehcache Core - net.sf.ehcache:ehcache-core,2.0.0,http://repo1.maven.org/maven2/net/sf/ehcache/ehcache-core/,,Apache License 2.0
+Ehcache Parent,2.1,http://repo1.maven.org/maven2/net/sf/ehcache/ehcache-parent/,,Apache License 2.0
+eigenbase-properties,Unspecified,http://github.com/julianhyde/eigenbase-properties/,,Apache License 2.0
+EL,1.0,http://repo1.maven.org/maven2/commons-el/commons-el/,,Apache License 2.0
+Exec Maven Plugin,1.2.1,http://mojo.codehaus.org/exec-maven-plugin,,Apache License 2.0
+FasterXML.com parent pom - com.fasterxml:oss-parent,16,http://github.com/FasterXML/,,Apache License 2.0
+The Neo4j Graph Database Project - Parent - org.neo4j.build:parent-central,40,http://components.neo4j.org/parent-central/40,,GNU Affero General Public License v3.0
+FindBugs-jsr305 - com.google.code.findbugs:jsr305,3.0.0,http://findbugs.sourceforge.net/,,Apache License 2.0
+flot,0.8.2,http://github.com/flot/flot/,,MIT License
+flot,Unspecified,http://www.flotcharts.org/,,MIT License
+flot-axislabels,Unspecified,http://github.com/markrcote/flot-axislabels/,,MIT License
+flot.tooltip,0.8.5,http://github.com/krzysu/flot.tooltip/,,MIT License
+Font-Awesome,Unspecified,http://github.com/FortAwesome/Font-Awesome/,,SIL Open Font License 1.1
+fuelux,Unspecified,http://github.com/ExactTarget/fuelux/,,MIT License
+fullcalendar,Unspecified,http://github.com/arshaw/fullcalendar/,,MIT License
+FuseSource POM,1.9,http://repo1.maven.org/maven2/org/fusesource/fusesource-pom/,,Apache License 2.0
+Genesis Configuration,1.2,http://repo1.maven.org/maven2/org/apache/geronimo/genesis/config/config/,,Apache License 2.0
+Genesis Configuration :: Project,1.2,http://repo1.maven.org/maven2/org/apache/geronimo/genesis/config/project-config/,,Apache License 2.0
+Genesis Flava :: Default,2.0,http://repo1.maven.org/maven2/org/apache/geronimo/genesis/genesis-default-flava/,,Apache License 2.0
+Genesis Flava :: Java 1.4,2.0,http://repo1.maven.org/maven2/org/apache/geronimo/genesis/genesis-java1.4-flava/,,Apache License 2.0
+Geronimo Specifications,1.4,http://repo1.maven.org/maven2/org/apache/geronimo/specs/specs/,,Apache License 2.0
+gibberish-aes,Unspecified,http://github.com/mdp/gibberish-aes/,,MIT License
+Google,5,http://repo1.maven.org/maven2/com/google/google/,,Apache License 2.0
+Google,1,http://repo1.maven.org/maven2/com/google/google/,,Apache License 2.0
+Google Collections Library,1.0,http://repo1.maven.org/maven2/com/google/collections/google-collections/,,Apache License 2.0
+Google Guice,2.0,http://repo1.maven.org/maven2/com/google/inject/guice-parent/,,Apache License 2.0
+Google Guice,3.0,http://repo1.maven.org/maven2/com/google/inject/guice-parent/,,Apache License 2.0
+Google Guice - Extensions,3.0,http://repo1.maven.org/maven2/com/google/inject/extensions/extensions-parent/,,Apache License 2.0
+Google Guice - Extensions - Servlet,3.0,http://repo1.maven.org/maven2/com/google/inject/extensions/guice-servlet/,,Apache License 2.0
+google-guice,3.0,http://code.google.com/p/google-guice/,,Apache License 2.0
+google-guice,Unspecified,http://code.google.com/p/google-guice/,,Apache License 2.0
+google-guice,2.0,http://code.google.com/p/google-guice/,,Apache License 2.0
+graphael-on-rails,Unspecified,http://rubygems.org/gems/graphael-on-rails,,Unspecified
+Groovy,2.1.6,http://groovy.codehaus.org/,,Apache License 2.0
+Groovy,2.3.11,http://repo.maven.apache.org/maven2//org/codehaus/groovy/groovy/,,Apache License 2.0
+Gson,2.3.1,http://repo.maven.apache.org/maven2//com/google/code/gson/gson/,2008 Google Inc.,Apache License 2.0
+Gson,2.2.4,http://code.google.com/p/google-gson/,2008 Google Inc.,Apache License 2.0
+Guava Maven Parent,18.0,http://repo.maven.apache.org/maven2//com/google/guava/guava-parent/,,Apache License 2.0
+Guava Maven Parent,14.0.1,http://code.google.com/p/guava-libraries,,Apache License 2.0
+Guava Maven Parent,10.0.1,http://repo1.maven.org/maven2/com/google/guava/guava-parent/,,Apache License 2.0
+Guava Maven Parent,16.0.1,http://code.google.com/p/guava-libraries,,Apache License 2.0
+Guava: Google Core Libraries for Java,16.0.1,http://code.google.com/p/guava-libraries/guava,,Apache License 2.0
+Guava: Google Core Libraries for Java,15.0,http://code.google.com/p/guava-libraries/guava,,Apache License 2.0
+Guava: Google Core Libraries for Java,10.0.1,http://repo1.maven.org/maven2/com/google/guava/guava/,,Apache License 2.0
+Guava: Google Core Libraries for Java,14.0.1,http://code.google.com/p/guava-libraries/guava,,Apache License 2.0
+Guava: Google Core Libraries for Java,11.0.2,http://code.google.com/p/guava-libraries/guava,,Apache License 2.0
+Guava: Google Core Libraries for Java,18.0,http://repo.maven.apache.org/maven2//com/google/guava/guava/,,Apache License 2.0
+Guice - Bean,1.4.2,http://repo1.maven.org/maven2/org/sonatype/sisu/inject/guice-bean/,,Apache License 2.0
+hadoop-common,Unspecified,http://github.com/apache/hadoop-common/,,Unspecified
+hadoop-mapreduce-client,2.7.1,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-mapreduce-client/,,Apache License 2.0
+hadoop-mapreduce-client-common,2.7.1,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-mapreduce-client-common/,,Apache License 2.0
+hadoop-mapreduce-client-core,2.7.1,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-mapreduce-client-core/,,Apache License 2.0
+hadoop-mapreduce-client-jobclient,2.7.1,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-mapreduce-client-jobclient/,,Apache License 2.0
+hadoop-mapreduce-client-shuffle,2.7.1,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-mapreduce-client-shuffle/,,Apache License 2.0
+hadoop-yarn,2.6.0,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-yarn/,,Apache License 2.0
+hadoop-yarn,2.7.1,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-yarn/,,Apache License 2.0
+hadoop-yarn-api,2.7.1,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-yarn-api/,,Apache License 2.0
+hadoop-yarn-api,2.6.0,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-yarn-api/,,Apache License 2.0
+hadoop-yarn-client,2.7.1,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-yarn-client/,,Apache License 2.0
+hadoop-yarn-common,2.7.1,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-yarn-common/,,Apache License 2.0
+hadoop-yarn-common,2.6.0,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-yarn-common/,,Apache License 2.0
+hadoop-yarn-server,2.6.0,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-yarn-server/,,Apache License 2.0
+hadoop-yarn-server,2.7.1,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-yarn-server/,,Apache License 2.0
+hadoop-yarn-server-applicationhistoryservice,2.6.0,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-yarn-server-applicationhistoryservice/,,Apache License 2.0
+hadoop-yarn-server-common,2.7.1,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-yarn-server-common/,,Apache License 2.0
+hadoop-yarn-server-common,2.6.0,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-yarn-server-common/,,Apache License 2.0
+hadoop-yarn-server-nodemanager,2.7.1,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-yarn-server-nodemanager/,,Apache License 2.0
+hadoop-yarn-server-resourcemanager,2.6.0,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-yarn-server-resourcemanager/,,Apache License 2.0
+hadoop-yarn-server-web-proxy,2.6.0,http://repo.maven.apache.org/maven2//org/apache/hadoop/hadoop-yarn-server-web-proxy/,,Apache License 2.0
+Hamcrest Core,1.3,https://github.com/hamcrest/JavaHamcrest/hamcrest-core,,"BSD 3-clause ""New"" or ""Revised"" License"
+Hamcrest library,1.3,https://github.com/hamcrest/JavaHamcrest/hamcrest-library,,"BSD 3-clause ""New"" or ""Revised"" License"
+jQuery-slimScroll,Unspecified,http://github.com/rochal/jQuery-slimScroll/,,MIT License
+MySQL Connector/J,5.1.6,http://www.mysql.com/products/connector/j/,,GNU General Public License v2.0 or later
+MySQL Connector/J,5.1.36,http://repo.maven.apache.org/maven2//mysql/mysql-connector-java/,,GNU General Public License v2.0 or later
+Hibernate Validator Aggregator,5.1.3.Final,http://repo.maven.apache.org/maven2//org/hibernate/hibernate-validator-parent/,,Apache License 2.0
+Hive Ant Utilities,0.13.0,http://hive.apache.org/hive-ant,,Apache License 2.0
+Hive Ant Utilities,1.2.1,http://repo.maven.apache.org/maven2//org/apache/hive/hive-ant/,,Apache License 2.0
+Hive CLI,0.13.0,http://hive.apache.org/hive-cli,,Apache License 2.0
+Hive Common,1.2.1,http://repo.maven.apache.org/maven2//org/apache/hive/hive-common/,,Apache License 2.0
+Hive JDBC,0.13.0,http://hive.apache.org/hive-jdbc,,Apache License 2.0
+Hive JDBC,1.2.1,http://repo.maven.apache.org/maven2//org/apache/hive/hive-jdbc/,,Apache License 2.0
+Hive Metastore,1.2.1,http://repo.maven.apache.org/maven2//org/apache/hive/hive-metastore/,,Apache License 2.0
+Hive Metastore,0.13.0,http://hive.apache.org/hive-metastore,,Apache License 2.0
+Hive Query Language,1.2.1,http://repo.maven.apache.org/maven2//org/apache/hive/hive-exec/,,Apache License 2.0
+Hive Query Language,0.13.0,http://hive.apache.org/hive-exec,,Apache License 2.0
+Hive Serde - org.apache.hive:hive-serde,1.2.1,http://repo.maven.apache.org/maven2//org/apache/hive/hive-serde/,,Apache License 2.0
+Hive Serde - org.apache.hive:hive-serde,0.13.0,http://hive.apache.org/hive-serde,,Apache License 2.0
+Hive Service,0.13.0,http://hive.apache.org/hive-service,,Apache License 2.0
+Hive Service,1.2.1,http://repo.maven.apache.org/maven2//org/apache/hive/hive-service/,,Apache License 2.0
+Hive Shims,1.2.1,http://repo.maven.apache.org/maven2//org/apache/hive/hive-shims/,,Apache License 2.0
+Hive Shims,0.13.0,http://hive.apache.org/hive-shims,,Apache License 2.0
+Hive Shims 0.20,0.13.0,http://hive.apache.org/hive-shims-0.20,,Apache License 2.0
+Hive Shims 0.20S,0.13.0,http://hive.apache.org/hive-shims-0.20S,,Apache License 2.0
+Hive Shims 0.20S,1.2.1,http://repo.maven.apache.org/maven2//org/apache/hive/shims/hive-shims-0.20S/,,Apache License 2.0
+Hive Shims 0.23,0.13.0,http://hive.apache.org/hive-shims-0.23,,Apache License 2.0
+Hive Shims 0.23,1.2.1,http://repo.maven.apache.org/maven2//org/apache/hive/shims/hive-shims-0.23/,,Apache License 2.0
+Hive Shims Common,1.2.1,http://repo.maven.apache.org/maven2//org/apache/hive/shims/hive-shims-common/,,Apache License 2.0
+Hive Shims Common,0.13.0,http://hive.apache.org/hive-shims-common,,Apache License 2.0
+Hive Shims Scheduler,1.2.1,http://repo.maven.apache.org/maven2//org/apache/hive/shims/hive-shims-scheduler/,,Apache License 2.0
+Hive Shims Secure Common,0.13.0,http://hive.apache.org/hive-shims-common-secure,,Apache License 2.0
+HornetQ Commons,2.4.7.Final,http://repo.maven.apache.org/maven2//org/hornetq/hornetq-commons/,,Apache License 2.0
+HornetQ JBoss AS Integration,2.4.7.Final,http://repo.maven.apache.org/maven2//org/hornetq/hornetq-jboss-as-integration/,,Apache License 2.0
+HornetQ JMS Client - org.hornetq:hornetq-jms-client,2.4.7.Final,http://repo.maven.apache.org/maven2//org/hornetq/hornetq-jms-client/,,Apache License 2.0
+HornetQ Journal,2.4.7.Final,http://repo.maven.apache.org/maven2//org/hornetq/hornetq-journal/,,Apache License 2.0
+HornetQ Native POM,2.4.7.Final,http://repo.maven.apache.org/maven2//org/hornetq/hornetq-native/,,Apache License 2.0
+HornetQ Parent,2.4.7.Final,http://repo.maven.apache.org/maven2//org/hornetq/hornetq-pom/,,Apache License 2.0
+HttpClient,4.2.5,http://hc.apache.org/httpcomponents-client,,Apache License 2.0
+HttpClient,4.2.3,http://hc.apache.org/httpcomponents-client,,Apache License 2.0
+HttpComponents,5,http://repo1.maven.org/maven2/org/apache/httpcomponents/project/,,Unspecified
+HttpComponents Client,4.2.3,http://hc.apache.org/httpcomponents-client,,Apache License 2.0
+HttpComponents Core,4.1.2,http://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-core/,,Apache License 2.0
+HttpComponents Core,4.1.3,http://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-core/,,Apache License 2.0
+HttpComponents Core,4.1.4,https://repository.apache.org/content/repositories/releases/org/apache/httpcomponents/httpcomponents-core/,,Apache License 2.0
+HttpCore,4.2.2,http://hc.apache.org/httpcomponents-core-ga,,Apache License 2.0
+HttpCore,4.2.4,http://hc.apache.org/httpcomponents-core-ga,,Apache License 2.0
+HyperSQL Database Engine (HSQLDB) - hsqldb,2.3.2,http://sourceforge.net/projects/hsqldb/,"2001-2016, The HSQL Development Group All rights reserved.",Hypersonic SQL License
+HyperSQL Database Engine (HSQLDB) - hsqldb,2.3.3,http://repo.maven.apache.org/maven2//org/hsqldb/hsqldb/,"2001-2016, The HSQL Development Group All rights reserved.",Hypersonic SQL License
+ibatis-sqlmap,2.3.0,http://repo1.maven.org/maven2/org/apache/ibatis/ibatis-sqlmap/,2004 Clinton Begin,Apache License 2.0
+Ivy,2.4.0,http://repo.maven.apache.org/maven2//org/apache/ivy/ivy/,,Apache License 2.0
+Neo4j - Cypher Compiler 2.1,2.1.5,http://repo.maven.apache.org/maven2//org/neo4j/neo4j-cypher-compiler-2.1/,,GNU General Public License v3.0 or later
+A Java library for reading/writing Excel,2.2.13,http://sourceforge.net/projects/jexcelapi/,,GNU Lesser General Public License v2.1 or later
+c3p0 - c3p0:c3p0,0.9.1.2,http://repo1.maven.org/maven2/c3p0/c3p0/,,GNU Lesser General Public License v2.1 or later
+c3p0:JDBC DataSources/Resource Pools,0.9.1.2,http://sourceforge.net/projects/c3p0/,,GNU Lesser General Public License v2.1 or later
+CRaSH CLI,Unspecified,http://www.crashub.org/crsh.cli/,,GNU Lesser General Public License v2.1 or later
+Jackson parent poms,2.4,http://github.com/FasterXML/,,Apache License 2.0
+Jackson-annotations,2.4.6,http://repo.maven.apache.org/maven2//com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/,2005-2016 The Apache Software Foundation,Apache License 2.0
+Jackson-annotations,2.3.0,http://wiki.fasterxml.com/JacksonHome/jackson-jaxrs-json-provider,2005-2016 The Apache Software Foundation,Apache License 2.0
+Jackson-core,2.4.6,http://repo.maven.apache.org/maven2//com/fasterxml/jackson/core/jackson-core/,2005-2016 The Apache Software Foundation,Apache License 2.0
+Jackson-core,2.3.0,http://wiki.fasterxml.com/JacksonHome,2005-2016 The Apache Software Foundation,Apache License 2.0
+jackson-databind,2.3.0,http://wiki.fasterxml.com/JacksonHome,2005-2016 The Apache Software Foundation,Apache License 2.0
+jackson-databind,2.4.6,http://repo.maven.apache.org/maven2//com/fasterxml/jackson/core/jackson-databind/,2005-2016 The Apache Software Foundation,Apache License 2.0
+Jakarta Commons-Logging,1.1.1,http://jakarta.apache.org/commons/logging/,2001-2014 The Apache Software Foundation,Apache License 2.0
+jandex,1.1.0.Final,http://github.com/wildfly/jandex/,,Apache License 2.0
+Janino,2.7.6,http://docs.codehaus.org/display/JANINO/Home,,Janino License
+Janino,2.6.1,http://docs.codehaus.org/display/JANINO/Home,,Janino License
+Janino Parent,2.6.1,http://mirrors.ibiblio.org/maven2/org/codehaus/janino/janino-parent/,,"BSD 3-clause ""New"" or ""Revised"" License"
+Janino Parent,2.7.6,http://repo.maven.apache.org/maven2//org/codehaus/janino/janino-parent/,,"BSD 3-clause ""New"" or ""Revised"" License"
+Java Authentication SPI for Containers,1.0,http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-jaspic_1.0_spec/,2003-2009 The Apache Software Foundation,Apache License 2.0
+Java Message Service (JMS),1.1,http://java.sun.com/products/jms/index.jsp,,Sun Java Message Service 1.1 License
+Java Native Access,3.3.0,http://repo1.maven.org/maven2/net/java/dev/jna/jna/,"2011 Timothy Wall, All Rights Reserved",Unspecified
+Java StringTemplate,3.2.1,http://www.stringtemplate.org/,2003-2008 Terence Parr,"BSD 3-clause ""New"" or ""Revised"" License"
+Java Transaction API,1.1,http://repo1.maven.org/maven2/javax/transaction/jta/,,Common Development and Distribution License 1.0
+Java(TM) Message Service (JMS) 2.0 API,1.0.0.Final,http://www.jboss.org/jboss-jms-api_2.0_spec,,Common Development and Distribution License 1.0
+java-classmate,1.0.0,http://github.com/cowtowncoder/java-classmate,Google group java-classmate-users@googlegroups.com is used for questions and discussion around usage and development of this library.,Apache License 2.0
+java-xmlbuilder,0.4,http://code.google.com/p/java-xmlbuilder/,,Apache License 2.0
+Java.net Parent,1,http://repo1.maven.org/maven2/net/java/jvnet-parent/,,Unspecified
 JavaBeans Activation Framework (JAF),1.1,http://java.sun.com/products/javabeans/glasgow/jaf.html,"1997-2005 Sun Microsystems, Inc.",Sun JavaBeans Activation Framework 1.1 License for non-redistributables
+JavaBeans Activation Framework (JAF),1.0.2,http://java.sun.com/products/javabeans/glasgow/jaf.html,"1997-2005 Sun Microsystems, Inc.",Sun JavaBeans Activation Framework 1.0.2 License
+JavaBeans Activation Framework (JAF),1.1,http://repo1.maven.org/maven2/javax/activation/activation/,"1997-2005 Sun Microsystems, Inc.",Common Development and Distribution License 1.0
+JavaMail,1.4-RI,http://java.sun.com/products/javamail/,,Sun JavaMail 1.4 License
+JavaMail API,1.4.1,http://repo1.maven.org/maven2/javax/mail/mail/,"1997-2007 Sun Microsystems, Inc.",Common Development and Distribution License 1.0
 JavaMail API,1.4,http://repo1.maven.org/maven2/javax/mail/mail/,"1997-2007 Sun Microsystems, Inc.",Common Development and Distribution License 1.0
+JavaMail API,1.3.2,http://repo1.maven.org/maven2/javax/mail/mail/,"1997-2007 Sun Microsystems, Inc.",Common Development and Distribution License 1.0
+JavaServlet Specification,2.3,http://repo1.maven.org/maven2/javax/servlet/servlet-api/,,Common Development and Distribution License 1.1
+JavaServlet Specification,2.5,http://repo1.maven.org/maven2/javax/servlet/servlet-api/,,Common Development and Distribution License 1.1
+CRaSH Connectors,1.3.1,http://repo.maven.apache.org/maven2//org/crashub/crash.connectors/,,GNU Lesser General Public License v2.1 or later
+Javassist - org.javassist:javassist,3.18.1-GA,http://www.javassist.org/,,Mozilla Public License 1.1
+Javassist - org.javassist:javassist,3.18.1-GA,http://jboss-javassist.github.io/javassist/,,Mozilla Public License 1.1
+javax.batch-api,1.0,http://java.net/projects/jbatch/javax.batch-api,,Apache License 2.0
+javax.inject,1,http://repo1.maven.org/maven2/javax/inject/javax.inject/,,Apache License 2.0
+CRaSH Connectors - SSH,1.3.1,http://repo.maven.apache.org/maven2//org/crashub/crash.connectors.ssh/,,GNU Lesser General Public License v2.1 or later
+CRaSH Embed,1.3.1,http://repo.maven.apache.org/maven2//org/crashub/crash.embed/,,GNU Lesser General Public License v2.1 or later
+CRaSH Embed Spring,1.3.1,http://repo.maven.apache.org/maven2//org/crashub/crash.embed.spring/,,GNU Lesser General Public License v2.1 or later
+CRaSH Parent,1.3.1,http://repo.maven.apache.org/maven2//org/crashub/crash.parent/,,GNU Lesser General Public License v2.1 or later
+CRaSH Plugin - Cron,1.3.1,http://repo.maven.apache.org/maven2//org/crashub/crash.plugins.cron/,,GNU Lesser General Public License v2.1 or later
+CRaSH Plugin - Mail plugin,1.3.1,http://repo.maven.apache.org/maven2//org/crashub/crash.plugins.mail/,,GNU Lesser General Public License v2.1 or later
+JBoss Logging 3,3.1.3.GA,http://www.jboss.org,"2014, Red Hat Middleware LLC, and individual contributors as indicated by the @author tags.",Apache License 2.0
+JBoss Logging I18n Annotations,1.2.0.Beta1,http://www.jboss.org,,Apache License 2.0
+JBoss Logging Tools Parent,1.2.0.Beta1,http://www.jboss.org/jboss-logging-tools-parent,,Public Domain
+JBoss Parent POM,7,http://repo1.maven.org/maven2/org/jboss/jboss-parent/,,Public Domain
+JBoss Parent POM,9,https://repository.jboss.org/nexus/content/groups/public-jboss/org/jboss/jboss-parent/,,Public Domain
+JBoss Parent POM,10,https://repository.jboss.org/nexus/content/repositories/releases//org/jboss/jboss-parent/,,Public Domain
+CRaSH Plugins,1.3.1,http://repo.maven.apache.org/maven2//org/crashub/crash.plugins/,,GNU Lesser General Public License v2.1 or later
+jcip-annotations,1.0,http://repository.jboss.org/maven2/net/jcip/jcip-annotations/1.0/,,Creative Commons Attribution 2.5
+JCL 1.1.1 implemented over SLF4J,1.7.6,http://www.slf4j.org,2001-2004 The Apache Software Foundation,Apache License 2.0
+JCL 1.1.1 implemented over SLF4J,1.6.0,http://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/,2001-2004 The Apache Software Foundation,Apache License 2.0
+JCL 1.1.1 implemented over SLF4J,1.7.12,http://repo.maven.apache.org/maven2//org/slf4j/jcl-over-slf4j/,2001-2004 The Apache Software Foundation,Apache License 2.0
+JCL 1.1.1 implemented over SLF4J,1.6.6,http://www.slf4j.org,2001-2004 The Apache Software Foundation,Apache License 2.0
+JCL 1.1.1 implemented over SLF4J,1.5.8,http://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/,2001-2004 The Apache Software Foundation,Apache License 2.0
+jdependency,0.9,http://github.com/tcurdt/jdependency,,Apache License 2.0
+jdependency,0.7,http://repo1.maven.org/maven2/org/vafer/jdependency/,,Apache License 2.0
+JDO API,3.0.1,http://db.apache.org/jdo,,Apache License 2.0
 JDOM,1.0,http://www.jdom.org,2000-2012 Jason Hunter & Brett McLaughlin,Jdom License
-Jetty - Java HTTP Servlet Server,Unspecified,http://jetty.mortbay.org,"Jetty Project.
-1995-2016 Mort Bay Consulting Pty. Ltd...",Jetty eclipse is open source and is dual licensed using the apache 2.0 and eclipse public license 1.0.   You may choose either license when distributing jetty. 
-Jetty - Java HTTP Servlet Server,3.1.1,http://jetty.mortbay.org,"Jetty Project.
-1995-2016 Mort Bay Consulting Pty. Ltd...",Jetty eclipse is open source and is dual licensed using the apache 2.0 and eclipse public license 1.0.   You may choose either license when distributing jetty. 
+JDOM,1.1,http://www.jdom.org,2000-2012 Jason Hunter & Brett McLaughlin,Jdom License
+JDOM,1.1,http://www.jdom.org/,2000-2012 Jason Hunter & Brett McLaughlin,Jdom License
+Jedis,2.7.2,http://repo.maven.apache.org/maven2//redis/clients/jedis/,,MIT License
+CRaSH Shell,1.3.1,http://repo.maven.apache.org/maven2//org/crashub/crash.shell/,,GNU Lesser General Public License v2.1 or later
+FasterXML.com parent pom - com.fasterxml:oss-parent,11,http://github.com/FasterXML/,,GNU Lesser General Public License v2.1 or later
+Hibernate,4.3.10.Final,http://www.hibernate.org/,,GNU Lesser General Public License v2.1 or later
+Hibernate Commons Annotations - org.hibernate.common:hibernate-commons-annotations,4.0.5.Final,http://hibernate.org,,GNU Lesser General Public License v2.1 or later
+Jackson,1.8.8,http://mirror.netcologne.de/maven2/org/codehaus/jackson/jackson-core-lgpl/,"2009 FasterXML, LLC",GNU Lesser General Public License v2.1 or later
+Jackson,1.9.13,http://jackson.codehaus.org,"2009 FasterXML, LLC",GNU Lesser General Public License v2.1 or later
+Jettison,1.1,http://jettison.codehaus.org/,2006 Envoi Solutions LLC,Apache License 2.0
+Jettison,1.2,http://jettison.codehaus.org/,2006 Envoi Solutions LLC,Apache License 2.0
+jetty,Unspecified,http://repo1.maven.org/maven2/jetty/jetty/,,Apache License 2.0
 Jetty - Java HTTP Servlet Server,6.1.26,http://www.eclipse.org/jetty/,"Jetty Project.
-1995-2016 Mort Bay Consulting Pty. Ltd...",Jetty eclipse is open source and is dual licensed using the apache 2.0 and eclipse public license 1.0.   You may choose either license when distributing jetty. 
+1995-2016 Mort Bay Consulting Pty. Ltd...",Apache License 2.0
+Jetty :: Administrative Parent,14,http://repo1.maven.org/maven2/org/eclipse/jetty/jetty-parent/,,Apache License 2.0
+Jetty :: Administrative Parent,19,http://repo1.maven.org/maven2/org/eclipse/jetty/jetty-parent/,,Apache License 2.0
+Jetty :: Aggregate :: All core Jetty,7.6.0.v20120127,http://www.eclipse.org/jetty/jetty-aggregate-project/jetty-all,,Apache License 2.0
+Jetty :: Aggregate Project,7.6.0.v20120127,http://mirror.netcologne.de/maven2/org/eclipse/jetty/aggregate/jetty-aggregate-project/,,Apache License 2.0
+Jetty :: Project,7.6.0.v20120127,http://mirror.netcologne.de/maven2/org/eclipse/jetty/jetty-project/,,Apache License 2.0
 Jetty :: Utilities,Unspecified,http://www.eclipse.org/jetty/jetty-util,"Jetty Project.
 1995-2016 Mort Bay Consulting Pty. Ltd...",Apache License 2.0
+Jackson,1.9.6,http://mirrors.ibiblio.org/maven2/org/codehaus/jackson/jackson-core-lgpl/,"2009 FasterXML, LLC",GNU Lesser General Public License v2.1 or later
+JGroups - A Toolkit for Reliable Multicast Communication,Unspecified,http://www.jgroups.org/javagroupsnew/docs/index.html,,Apache License 2.0
+JLine - jline:jline,2.12,http://nexus.sonatype.org/oss-repository-hosting.html/jline,,"BSD 3-clause ""New"" or ""Revised"" License"
+JMX 1.2.1 Reference Implementation,1.2.1,http://repo1.maven.org/maven2/com/sun/jdmk/jmxtools/,,Unspecified
+jmxri,1.2.1,http://repo1.maven.org/maven2/com/sun/jmx/jmxri/,,Unspecified
+Joda-Time,2.5,http://repo.maven.apache.org/maven2//joda-time/joda-time/,,Apache License 2.0
+JPam,1.1,http://repo1.maven.org/maven2/net/sf/jpam/jpam/,,Apache License 2.0
+jQuery ColorHelpers,Unspecified,http://mirrors.ibiblio.org/maven2/org/webjars/jquery-colorhelpers/,,MIT License
+jQuery JSONView - org.webjars:jquery-jsonview,1.2.2,http://repo.maven.apache.org/maven2//org/webjars/jquery-jsonview/,,MIT License
+JQuery Sparklines Library,2.1.2,http://repo.maven.apache.org/maven2//com/bytebybyte/gwt/jquery-sparklines-lib/,,"BSD 3-clause ""New"" or ""Revised"" License"
+jQuery UI - jquery/jquery-ui on GitHub,Unspecified,http://jqueryui.com,,MIT License
+jquery-aciTree,Unspecified,https://github.com/dragosu/jquery-aciTree,,MIT License
+jquery-cookie,Unspecified,http://github.com/carhartl/jquery-cookie/,2014 Klaus Hartl,MIT License
+jquery-cookie,1.4.1,http://github.com/carhartl/jquery-cookie/,2014 Klaus Hartl,MIT License
+jQuery-Knob,1.2.8,http://github.com/aterrien/jQuery-Knob/,,MIT License
+jQuery-Knob,Unspecified,http://github.com/aterrien/jQuery-Knob/,,MIT License
+jquery-migrate,1.2.1,http://github.com/appleboy/jquery-migrate/,,MIT License
+jquery-minicolors,Unspecified,http://github.com/claviska/jquery-minicolors/,,MIT License
+jquery-mousewheel,Unspecified,http://github.com/brandonaaron/jquery-mousewheel/,,MIT License
+jquery-mousewheel,3.0.6,http://github.com/brandonaaron/jquery-mousewheel/,,MIT License
+Jackson,1.8.5,http://mirror.netcologne.de/maven2/org/codehaus/jackson/jackson-core-lgpl/,"2009 FasterXML, LLC",GNU Lesser General Public License v2.1 or later
+jQuery-slimScroll,1.3.0,http://github.com/rochal/jQuery-slimScroll/,,MIT License
+jquery-treeview,Unspecified,http://github.com/jzaefferer/jquery-treeview/,,MIT License
+jquery-validation,1.13.1,http://github.com/jzaefferer/jquery-validation/,,MIT License
+jQuery.Fullcalendar,1.6.4,http://www.nuget.org/packages/jQuery.Fullcalendar,,MIT License
+jquery.hotkeys,Unspecified,http://github.com/xero-github/jquery.hotkeys/,,MIT License
+jqueryui,1.10.4,http://github.com/components/jqueryui/,"jQuery Foundation and other contributors, https://jquery.org/",MIT License
+JSch,0.1.42,http://sourceforge.net/projects/jsch/,"2002-2010 ymnk, JCraft,Inc. All rights reserved.",JSch License
+JSCH,Unspecified,http://www.jcraft.com/jsch/index.html,"2002-2010 ymnk, JCraft,Inc. All rights reserved.",JSch License
 JSch,0.1.44-1,http://repo1.maven.org/maven2/com/jcraft/jsch/,"2002-2010 ymnk, JCraft,Inc. All rights reserved.",JSch License
-Oracle JDBC Drivers,Unspecified,http://www.oracle.com/technology/software/tech/java/sqlj_jdbc/index.html,Oracle,Oracle Technology Network Development and Distribution 01-2009 License
-Quartz,1.6.0,http://www.quartz-scheduler.org/,"Terracotta, Inc., a wholly-owned subsidiary of Software AG USA, Inc. All rights reserved.",Apache License 2.0
-spring-framework,3.2.16.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/spring-context-support/,"2016 Pivotal Software, Inc.",Apache License 2.0
-Windows XP October 2002,SP1 Jan 2003,http://www.microsoft.com,Microsoft,[template] Basic Proprietary Commercial License
+JSON in Java,20090211,http://repo1.maven.org/maven2/com/unboundid/components/json/,2002 JSON.org,JSON License
+JSON-js,Unspecified,http://github.com/douglascrockford/JSON-js/,,Public Domain
+json-simple,1.1.1,http://code.google.com/p/json-simple/,,Apache License 2.0
+json-simple,Unspecified,http://code.google.com/p/json-simple/,,Apache License 2.0
+jsoup,1.7.1,http://mirrors.ibiblio.org/maven2/org/jsoup/jsoup/,,MIT License
+jsp-api,2.1,http://repo1.maven.org/maven2/javax/servlet/jsp/jsp-api/,,Apache License 2.0
+JSR-250 Common Annotations for the JavaTM Platform,1.0,http://jcp.org/aboutJava/communityprocess/final/jsr250/index.html,,Common Development and Distribution License 1.0
+JSTL - JavaServer Pages Standard Tag Library,1.2,http://java.sun.com/products/jsp/jstl/,,Common Development and Distribution License 1.0
+jstree,v.1.0rc,http://code.google.com/p/jstree/,,MIT License
+JTA 1.1,1.1.1,http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/,The Apache Software Foundation (http://www.apache.org/).,Apache License 2.0
+Jackson,1.8.3,http://mirror.netcologne.de/maven2/org/codehaus/jackson/jackson-core-lgpl/,"2009 FasterXML, LLC",GNU Lesser General Public License v2.1 or later
+JUL to SLF4J bridge,1.7.7,http://www.slf4j.org,2004-2008 QOS.ch,MIT License
+JUL to SLF4J bridge,1.7.12,http://repo.maven.apache.org/maven2//org/slf4j/jul-to-slf4j/,2004-2008 QOS.ch,MIT License
+Javassist,3.12.1.GA,http://repo1.maven.org/maven2/javassist/javassist/,,GNU Lesser General Public License v2.1 or later
+JBoss Logging 3,3.1.0.GA,https://repository.jboss.org/nexus/content/groups/public-jboss/org/jboss/logging/jboss-logging/,"2014, Red Hat Middleware LLC, and individual contributors as indicated by the @author tags.",GNU Lesser General Public License v2.1 or later
+JBoss Parent POM,5,http://repo1.maven.org/maven2/org/jboss/jboss-parent/,,GNU Lesser General Public License v2.1 or later
+JGroups,JGroups-3.3.4.Final,http://github.com/belaban/JGroups/,,GNU Lesser General Public License v2.1 or later
+jTDS - SQL Server and Sybase JDBC driver,1.2.5,http://sourceforge.net/projects/jtds/,,GNU Lesser General Public License v2.1 or later
+leveldbjni-all,1.8,http://leveldbjni.fusesource.org/leveldbjni-all,,"BSD 3-clause ""New"" or ""Revised"" License"
+leveldbjni-project,1.8,http://leveldbjni.fusesource.org,,"BSD 3-clause ""New"" or ""Revised"" License"
+Log4j Implemented Over SLF4J,1.7.12,http://repo.maven.apache.org/maven2//org/slf4j/log4j-over-slf4j/,,Apache License 2.0
+Log4j Implemented Over SLF4J,1.7.7,http://www.slf4j.org,,Apache License 2.0
+log4jdbc-remix,Unspecified,http://github.com/azzoti/log4jdbc-remix/,,Apache License 2.0
+Logback Classic Module,1.1.3,http://repo.maven.apache.org/maven2//ch/qos/logback/logback-classic/,"1999-2012, QOS.ch. All rights reserved.",GNU Lesser General Public License v2.1 or later
+Logback Classic Module,1.1.2,http://logback.qos.ch,"1999-2012, QOS.ch. All rights reserved.",GNU Lesser General Public License v2.1 or later
+Logback Core Module,1.1.3,http://repo.maven.apache.org/maven2//ch/qos/logback/logback-core/,"1999-2012, QOS.ch. All rights reserved.",GNU Lesser General Public License v2.1 or later
+Logback Core Module,1.1.2,http://logback.qos.ch,"1999-2012, QOS.ch. All rights reserved.",GNU Lesser General Public License v2.1 or later
+Logback-Parent,1.1.3,http://repo.maven.apache.org/maven2//ch/qos/logback/logback-parent/,,GNU Lesser General Public License v2.1 or later
+Logback-Parent,1.1.2,http://logback.qos.ch,,GNU Lesser General Public License v2.1 or later
+logkit,1.0.1,http://repo1.maven.org/maven2/logkit/logkit/,,Apache License 1.1
+mariadb-java-client,1.1.7,https://kb.askmonty.org/en/about-the-mariadb-java-client/,MariaDB Foundation 2016,GNU Lesser General Public License v2.1 or later
+Maven Aether Provider,3.2.1,http://maven.apache.org/ref/3.2.1/maven-aether-provider,,Apache License 2.0
+Maven Aether Provider,3.1.1,http://maven.apache.org/ref/3.1.1/maven-aether-provider,,Apache License 2.0
+Maven Archiver,2.5,http://mirrors.ibiblio.org/pub/mirrors/maven2/org/apache/maven/maven-archiver/,,Apache License 2.0
+Maven Artifact,3.1.1,http://maven.apache.org/ref/3.1.1/maven-artifact,2001-2012 The Apache Software Foundation.,Apache License 2.0
+Maven Artifact,2.2.0,http://repo1.maven.org/maven2/org/apache/maven/maven-artifact/,2001-2012 The Apache Software Foundation.,Apache License 2.0
+Maven Artifact,2.0.6,http://repo1.maven.org/maven2/org/apache/maven/maven-artifact/,2001-2012 The Apache Software Foundation.,Apache License 2.0
+Maven Artifact,Unspecified,http://maven.apache.org/ref/3.0.4//maven-artifact,2001-2012 The Apache Software Foundation.,Apache License 2.0
+Maven Artifact,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/maven-artifact/,2001-2012 The Apache Software Foundation.,Apache License 2.0
+Maven Artifact,2.0.9,http://repo1.maven.org/maven2/org/apache/maven/maven-artifact/,2001-2012 The Apache Software Foundation.,Apache License 2.0
+Maven Artifact Manager,2.0.8,http://repo1.maven.org/maven2/org/apache/maven/maven-artifact-manager/,2001-2012 The Apache Software Foundation.,Apache License 2.0
+Maven Artifact Manager,2.0.9,http://repo1.maven.org/maven2/org/apache/maven/maven-artifact-manager/,2001-2012 The Apache Software Foundation.,Apache License 2.0
+Maven Artifact Manager,2.0.6,http://repo1.maven.org/maven2/org/apache/maven/maven-artifact-manager/,2001-2012 The Apache Software Foundation.,Apache License 2.0
+Maven Artifact Manager,2.2.0,http://repo1.maven.org/maven2/org/apache/maven/maven-artifact-manager/,2001-2012 The Apache Software Foundation.,Apache License 2.0
+Maven Clean Plugin,2.5,http://maven.apache.org/plugins/maven-clean-plugin/,,Apache License 2.0
+Maven Common Artifact Filters,1.3,http://repo1.maven.org/maven2/org/apache/maven/shared/maven-common-artifact-filters/,,Apache License 2.0
+Maven Common Artifact Filters,1.4,https://repository.apache.org/content/repositories/releases/org/apache/maven/shared/maven-common-artifact-filters/,,Apache License 2.0
+Maven Compiler Plugin,2.5.1,http://maven.apache.org/plugins/maven-compiler-plugin/,,Apache License 2.0
+Maven Compiler Plugin,3.1,http://maven.apache.org/plugins/maven-compiler-plugin/,,Apache License 2.0
+Maven Core,2.0.6,http://repo1.maven.org/maven2/org/apache/maven/maven-core/,,Apache License 2.0
+Maven Core,2.0.9,http://repo1.maven.org/maven2/org/apache/maven/maven-core/,,Apache License 2.0
+Maven Core - org.apache.maven:maven-core,3.1.1,http://maven.apache.org/ref/3.1.1/maven-core,,Apache License 2.0
+Maven Dependency Tree,2.1,http://maven.apache.org/shared/maven-dependency-tree/,,Apache License 2.0
+Maven Dependency Tree,1.1,http://repo1.maven.org/maven2/org/apache/maven/shared/maven-dependency-tree/,,Apache License 2.0
+Maven Deploy Plugin,2.7,http://repo1.maven.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/,,Apache License 2.0
+Maven Eclipse Plugin,2.9,http://maven.apache.org/plugins/maven-eclipse-plugin/,,Apache License 2.0
+Maven Error Diagnostics,2.0.9,http://repo1.maven.org/maven2/org/apache/maven/maven-error-diagnostics/,,Apache License 2.0
+Maven Error Diagnostics,2.0.6,http://repo1.maven.org/maven2/org/apache/maven/maven-error-diagnostics/,,Apache License 2.0
+Maven Failsafe Plugin,2.18,http://repo.maven.apache.org/maven2//org/apache/maven/plugins/maven-failsafe-plugin/,,Apache License 2.0
+Maven Filtering,1.1,http://maven.apache.org/shared/maven-filtering/,,Apache License 2.0
+Maven Filtering,1.0-beta-2,http://repo1.maven.org/maven2/org/apache/maven/shared/maven-filtering/,,Apache License 2.0
+Maven Incremental Build support utilities,1.1,http://maven.apache.org/shared/maven-shared-incremental/,,Apache License 2.0
+Maven Install Plugin,2.4,http://maven.apache.org/plugins/maven-install-plugin/,,Apache License 2.0
+Maven Local Settings Model,2.2.0,http://repo1.maven.org/maven2/org/apache/maven/maven-settings/,2002-2015 The Apache Software Foundation,Apache License 2.0
+Maven Local Settings Model,2.0.9,http://repo1.maven.org/maven2/org/apache/maven/maven-settings/,2002-2015 The Apache Software Foundation,Apache License 2.0
+Maven Local Settings Model,2.0.6,http://repo1.maven.org/maven2/org/apache/maven/maven-settings/,2002-2015 The Apache Software Foundation,Apache License 2.0
+Maven Model,2.2.0,http://repo1.maven.org/maven2/org/apache/maven/maven-model/,2002-2015 The Apache Software Foundation,Apache License 2.0
+Maven Model,2.0.6,http://repo1.maven.org/maven2/org/apache/maven/maven-model/,2002-2015 The Apache Software Foundation,Apache License 2.0
+Maven Model,2.0.9,http://repo1.maven.org/maven2/org/apache/maven/maven-model/,2002-2015 The Apache Software Foundation,Apache License 2.0
+Maven Model,3.1.1,http://maven.apache.org/ref/3.1.1/maven-model,2002-2015 The Apache Software Foundation,Apache License 2.0
+Maven Model Builder,3.1.1,http://maven.apache.org/ref/3.1.1/maven-model-builder,,Apache License 2.0
+Maven Monitor,2.0.6,http://repo1.maven.org/maven2/org/apache/maven/maven-monitor/,,Apache License 2.0
+Maven Monitor,2.0.9,http://repo1.maven.org/maven2/org/apache/maven/maven-monitor/,,Apache License 2.0
+Maven Plugin API,2.0.6,http://repo1.maven.org/maven2/org/apache/maven/maven-plugin-api/,2001-2015 The Apache Software Foundation,Apache License 2.0
+Maven Plugin API,3.1.1,http://maven.apache.org/ref/3.1.1/maven-plugin-api,2001-2015 The Apache Software Foundation,Apache License 2.0
+Maven Plugin API,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/maven-plugin-api/,2001-2015 The Apache Software Foundation,Apache License 2.0
+Maven Plugin API,2.0.8,http://repo1.maven.org/maven2/org/apache/maven/maven-plugin-api/,2001-2015 The Apache Software Foundation,Apache License 2.0
+Maven Plugin API,2.0.9,http://repo1.maven.org/maven2/org/apache/maven/maven-plugin-api/,2001-2015 The Apache Software Foundation,Apache License 2.0
+Maven Plugin Descriptor Model,2.0.6,http://repo1.maven.org/maven2/org/apache/maven/maven-plugin-descriptor/,,Apache License 2.0
+Maven Plugin Descriptor Model,2.0.9,http://repo1.maven.org/maven2/org/apache/maven/maven-plugin-descriptor/,,Apache License 2.0
+Maven Plugin Java 5 Annotations,3.2,http://mirrors.ibiblio.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/,,Apache License 2.0
+Maven Plugin Parameter Documenter API,2.0.9,http://repo1.maven.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/,,Apache License 2.0
+Maven Plugin Parameter Documenter API,2.0.6,http://repo1.maven.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/,,Apache License 2.0
+Maven Plugin Registry Model,2.0.9,http://repo1.maven.org/maven2/org/apache/maven/maven-plugin-registry/,2001-2009 The Apache Software Foundation,Apache License 2.0
+Maven Plugin Registry Model,2.0.8,http://repo1.maven.org/maven2/org/apache/maven/maven-plugin-registry/,2001-2009 The Apache Software Foundation,Apache License 2.0
+Maven Plugin Registry Model,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/maven-plugin-registry/,2001-2009 The Apache Software Foundation,Apache License 2.0
+Maven Plugin Registry Model,2.0.6,http://repo1.maven.org/maven2/org/apache/maven/maven-plugin-registry/,2001-2009 The Apache Software Foundation,Apache License 2.0
+Maven Plugin Registry Model,2.2.0,http://repo1.maven.org/maven2/org/apache/maven/maven-plugin-registry/,2001-2009 The Apache Software Foundation,Apache License 2.0
+Maven Plugin Tools,3.2,http://maven.apache.org/plugin-tools/,,Apache License 2.0
+Maven Plugins,23,http://mirrors.ibiblio.org/maven2/org/apache/maven/plugins/maven-plugins/,,Apache License 2.0
+Maven Profile Model,2.2.0,http://repo1.maven.org/maven2/org/apache/maven/maven-profile/,2001-2010 The Apache Software Foundation,Apache License 2.0
+Maven Profile Model,2.2.1,http://repo1.maven.org/maven2/org/apache/maven/maven-profile/,2001-2010 The Apache Software Foundation,Apache License 2.0
+Maven Profile Model,2.0.8,http://repo1.maven.org/maven2/org/apache/maven/maven-profile/,2001-2010 The Apache Software Foundation,Apache License 2.0
+Maven Profile Model,2.0.9,http://repo1.maven.org/maven2/org/apache/maven/maven-profile/,2001-2010 The Apache Software Foundation,Apache License 2.0
+Maven Profile Model,2.0.6,http://repo1.maven.org/maven2/org/apache/maven/maven-profile/,2001-2010 The Apache Software Foundation,Apache License 2.0
+Maven Project Builder,2.0.8,http://repo1.maven.org/maven2/org/apache/maven/maven-project/,2001-2009 The Apache Software Foundation,Apache License 2.0
+Maven Project Builder,2.2.0,http://repo1.maven.org/maven2/org/apache/maven/maven-project/,2001-2009 The Apache Software Foundation,Apache License 2.0
+Maven Project Builder,2.0.9,http://repo1.maven.org/maven2/org/apache/maven/maven-project/,2001-2009 The Apache Software Foundation,Apache License 2.0
+Maven Project Builder,2.0.6,http://repo1.maven.org/maven2/org/apache/maven/maven-project/,2001-2009 The Apache Software Foundation,Apache License 2.0
+Maven Reporting,2.0.9,http://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting/,,Apache License 2.0
+Maven Reporting API,2.0.6,http://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/,2002-2010 The Apache Software Foundation,Apache License 2.0
+Maven Reporting API,2.0.9,http://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/,2002-2010 The Apache Software Foundation,Apache License 2.0
+Maven Repository Metadata Model,2.0.9,http://repo1.maven.org/maven2/org/apache/maven/maven-repository-metadata/,2001-2015 The Apache Software Foundation,Apache License 2.0
+Maven Repository Metadata Model,2.2.0,http://repo1.maven.org/maven2/org/apache/maven/maven-repository-metadata/,2001-2015 The Apache Software Foundation,Apache License 2.0
+Maven Repository Metadata Model,3.1.1,http://maven.apache.org/ref/3.1.1/maven-repository-metadata,2001-2015 The Apache Software Foundation,Apache License 2.0
+Maven Repository Metadata Model,2.0.6,http://repo1.maven.org/maven2/org/apache/maven/maven-repository-metadata/,2001-2015 The Apache Software Foundation,Apache License 2.0
+Maven Resources Plugin,2.6,http://maven.apache.org/plugins/maven-resources-plugin/,,Apache License 2.0
+Maven Settings,3.1.1,http://maven.apache.org/ref/3.1.1/maven-settings,,Apache License 2.0
+Maven Settings Builder,3.1.1,http://maven.apache.org/ref/3.1.1/maven-settings-builder,,Apache License 2.0
+Maven Shade Plugin,1.3.1,http://repo1.maven.org/maven2/org/apache/maven/plugins/maven-shade-plugin/,,Apache License 2.0
+Maven Shared Components,12,http://repo1.maven.org/maven2/org/apache/maven/shared/maven-shared-components/,,Apache License 2.0
+Maven Shared Components,10,http://repo1.maven.org/maven2/org/apache/maven/shared/maven-shared-components/,,Apache License 2.0
+Maven Shared Components,18,http://mirrors.ibiblio.org/maven2/org/apache/maven/shared/maven-shared-components/,,Apache License 2.0
+Maven Shared Components,8,http://repo1.maven.org/maven2/org/apache/maven/shared/maven-shared-components/,,Apache License 2.0
+Maven Shared Components,19,http://maven.apache.org/shared/,,Apache License 2.0
+Maven Shared Utils,0.4,http://maven.apache.org/shared/maven-shared-utils/,,Apache License 2.0
+Maven Shared Utils,0.1,https://repository.apache.org/content/repositories/releases/org/apache/maven/shared/maven-shared-utils/,,Apache License 2.0
+Maven Surefire Common,2.8.1,http://repo1.maven.org/maven2/org/apache/maven/surefire/maven-surefire-common/,,Apache License 2.0
+Maven Surefire Common,2.17,http://maven.apache.org/surefire/maven-surefire-common,,Apache License 2.0
+Maven Surefire Plugin,2.12.4,http://mirrors.ibiblio.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/,,Apache License 2.0
+Maven Surefire Plugin,2.17,http://maven.apache.org/surefire/maven-surefire-plugin,,Apache License 2.0
+Maven Surefire Plugin,2.8.1,http://repo1.maven.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/,,Apache License 2.0
+Maven Toolchains,2.0.9,http://repo1.maven.org/maven2/org/apache/maven/maven-toolchain/,,Apache License 2.0
+Maven Toolchains,1.0,http://repo1.maven.org/maven2/org/apache/maven/maven-toolchain/,,Apache License 2.0
+Maven2 Site Plugin,3.3,http://maven.apache.org/plugins/maven-site-plugin/,,Apache License 2.0
+mockito,1.9.0,http://code.google.com/p/mockito/,,MIT License
+Mockito,1.10.19,http://repo.maven.apache.org/maven2//org/mockito/mockito-all/,,MIT License
+morris.js,0.4.3,http://github.com/oesmith/morris.js/,,"BSD 2-clause ""Simplified"" License"
+MXP1: Xml Pull Parser 3rd Edition (XPP3),1.1.4c,http://repo1.maven.org/maven2/xpp3/xpp3_min/,,Public Domain
+mybatis,3.0.5,http://code.google.com/p/mybatis/,2010-2013 The MyBatis Team (http://www.mybatis.org/).,Apache License 2.0
+mybatis,Unspecified,http://code.google.com/p/mybatis/,2010-2013 The MyBatis Team (http://www.mybatis.org/).,Apache License 2.0
+mybatis,3.1.1,http://code.google.com/p/mybatis/,2010-2013 The MyBatis Team (http://www.mybatis.org/).,Apache License 2.0
+mybatis,3.0.6,http://code.google.com/p/mybatis/,2010-2013 The MyBatis Team (http://www.mybatis.org/).,Apache License 2.0
+mybatis,3.3.0,http://repo.maven.apache.org/maven2//org/mybatis/mybatis/,2010-2013 The MyBatis Team (http://www.mybatis.org/).,Apache License 2.0
+MyBatis Caches :: Ehcache,1.0.0,http://www.mybatis.org/mybatis-ehcache/,,Apache License 2.0
+MyBatis parent POM,15,http://mirrors.ibiblio.org/maven2/org/mybatis/mybatis-parent/,,Apache License 2.0
+mybatis-parent,24,http://repo.maven.apache.org/maven2//org/mybatis/mybatis-parent/,,Apache License 2.0
+mybatis-spring,1.2.3,http://repo.maven.apache.org/maven2//org/mybatis/mybatis-spring/,2010-2013 The MyBatis Team (http://www.mybatis.org/).,Apache License 2.0
+Xml Compatibility extensions for Jackson,1.8.3,http://wiki.fasterxml.com/JacksonHome,,GNU Lesser General Public License v2.1 or later
+Xml Compatibility extensions for Jackson,1.8.5,http://wiki.fasterxml.com/JacksonHome,,GNU Lesser General Public License v2.1 or later
+nanumfont-rails,Unspecified,http://rubygems.org/gems/nanumfont-rails,,MIT License
+Neko HTML,Unspecified,http://repo1.maven.org/maven2/nekohtml/nekohtml/,,Apache License 2.0
+Xml Compatibility extensions for Jackson,1.8.8,http://wiki.fasterxml.com/JacksonHome,,GNU Lesser General Public License v2.1 or later
+Xml Compatibility extensions for Jackson,1.9.13,http://wiki.fasterxml.com/JacksonHome,,GNU Lesser General Public License v2.1 or later
+Xml Compatibility extensions for Jackson,1.9.6,http://wiki.fasterxml.com/JacksonHome,,GNU Lesser General Public License v2.1 or later
+Netty/All-in-One,4.0.13.Final,http://netty.io/,,Apache License 2.0
+ng-grid,Unspecified,http://github.com/timothyswt/ng-grid/,,MIT License
+ng-toaster-rails,Unspecified,http://rubygems.org/gems/ng-toaster-rails,,MIT License
+ng-toaster-rails,0.4.10.0,http://rubygems.org/gems/ng-toaster-rails,,MIT License
+ngDialog,Unspecified,http://github.com/likeastore/ngDialog/,,MIT License
+ngDialog,0.4.0,http://github.com/likeastore/ngDialog/,,MIT License
+ngStorage,Unspecified,http://github.com/gsklee/ngStorage/,,MIT License
+ngTagsInput,Unspecified,http://github.com/mbenford/ngTagsInput/,,MIT License
+ngTagsInput-bower,2.1.1,http://github.com/mbenford/ngTagsInput-bower/,,MIT License
+noUiSlider,Unspecified,http://github.com/leongersen/noUiSlider/,,Do What The F*ck You Want To Public License
+noUiSlider,5.0.0,http://github.com/leongersen/noUiSlider/,,Do What The F*ck You Want To Public License
+ocLazyLoad,0.5.2,http://github.com/ocombe/ocLazyLoad/,,MIT License
+okhttp,Unspecified,http://code.google.com/p/okhttp/,,Apache License 2.0
+opencsv,2.3,http://sourceforge.net/projects/opencsv/,,Apache License 2.0
+OpenID4Java no dependencies,0.9.6,http://repo1.maven.org/maven2/org/openid4java/openid4java-nodeps/,,Apache License 2.0
+OpenID4Java Parent,0.9.6,http://repo1.maven.org/maven2/org/openid4java/openid4java-parent/,,Apache License 2.0
+Oracle JDBC Drivers,11.1.0.7.0,http://www.oracle.com/technology/software/tech/java/sqlj_jdbc/index.html,Oracle,Oracle Technology Network Development and Distribution 01-2008 License
+Contributions to Jersey - com.sun.jersey.contribs:jersey-contribs,1.9,http://repo1.maven.org/maven2/com/sun/jersey/contribs/jersey-contribs/,,Sun GPL With Classpath Exception v2.0
+javax.transaction API,1.2,http://jta-spec.java.net,,Sun GPL With Classpath Exception v2.0
+org.tinygroup.jquery-nestable,Unspecified,http://repo.maven.apache.org/maven2//org/tinygroup/org.tinygroup.jquery-nestable/,,MIT License
+Original_General_Use,Unspecified,,0,Unspecified
+Original_Not_Source_Code-Image,Unspecified,,,Unspecified
+ParaNamer Core,2.3,http://repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/,,"BSD 3-clause ""New"" or ""Revised"" License"
+ParaNamer Parent,2.3,http://repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer-parent/,,"BSD 3-clause ""New"" or ""Revised"" License"
+parboiled-core,1.1.6,http://parboiled.org,,Apache License 2.0
+parboiled-scala,1.1.6,http://github.com/sirthias/parboiled/,,Apache License 2.0
+Pentaho Aggregate Designer Algorithm,5.1.5-jhyde,,,Apache License 2.0
+Plexus,1.0.12,http://repo1.maven.org/maven2/org/codehaus/plexus/plexus/,,Apache License 2.0
+Plexus,3.3,http://mirrors.ibiblio.org/maven2/org/codehaus/plexus/plexus/,,Apache License 2.0
+Plexus :: Component Annotations,1.5.5,http://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/,,Apache License 2.0
+Plexus :: Default Container,Unspecified,http://plexus.codehaus.org/plexus-containers/plexus-container-default/,,Apache License 2.0
+Plexus :: Default Container,1.5.5,http://plexus.codehaus.org/plexus-containers/plexus-container-default/,,Apache License 2.0
+Plexus Archiver Component,2.4.4,http://plexus.codehaus.org/plexus-components/plexus-archiver,,Apache License 2.0
+Plexus Archiver Component,2.1,http://mirror.netcologne.de/maven2/org/codehaus/plexus/plexus-archiver/,,Apache License 2.0
+Plexus Archiver Component,2.8.1,http://repo.maven.apache.org/maven2//org/codehaus/plexus/plexus-archiver/,,Apache License 2.0
+Plexus Cipher: encryption/decryption Component,1.4,http://repo1.maven.org/maven2/org/sonatype/plexus/plexus-cipher/,,Apache License 2.0
+Plexus Classworlds,2.5.1,http://plexus.codehaus.org/plexus-classworlds/,,Apache License 2.0
+Plexus Classworlds,2.2.2,http://plexus.codehaus.org/plexus-classworlds/,,Apache License 2.0
+Plexus Classworlds,2.2.3,http://plexus.codehaus.org/plexus-classworlds/,,Apache License 2.0
+Plexus Common Utilities,3.0.20,http://repo.maven.apache.org/maven2//org/codehaus/plexus/plexus-utils/,,Apache License 2.0
+Plexus Common Utilities,3.0.17,http://plexus.codehaus.org/plexus-utils,,Apache License 2.0
+Plexus Compiler,1.9.1,http://plexus.codehaus.org/plexus-components/plexus-compiler,,Apache License 2.0
+Plexus Compiler Api,2.2,http://plexus.codehaus.org/plexus-components/plexus-compiler/plexus-compiler-api,,Apache License 2.0
+Plexus Compiler Api,1.9.1,http://plexus.codehaus.org/plexus-components/plexus-compiler/plexus-compiler-api,,Apache License 2.0
+Plexus Compiler Manager,2.2,http://plexus.codehaus.org/plexus-components/plexus-compiler/plexus-compiler-manager,,Apache License 2.0
+Plexus Compiler Manager,1.9.1,http://plexus.codehaus.org/plexus-components/plexus-compiler/plexus-compiler-manager,,Apache License 2.0
+Plexus Compilers,1.9.1,http://plexus.codehaus.org/plexus-components/plexus-compiler/plexus-compilers,,Apache License 2.0
+Plexus Compilers,2.2,http://plexus.codehaus.org/plexus-components/plexus-compiler/plexus-compilers,,Apache License 2.0
+Plexus Components - org.codehaus.plexus:plexus-components,1.3,http://mirrors.ibiblio.org/maven2/org/codehaus/plexus/plexus-components/,,Apache License 2.0
+Plexus Components Parent Project,1.1.7,http://repo1.maven.org/maven2/org/codehaus/plexus/plexus-components/,,Unspecified
+Plexus Digest / Hashcode Components,1.0,http://mirror.netcologne.de/maven2/org/codehaus/plexus/plexus-digest/,,Unspecified
+Plexus Interactivity Handler Component,1.0-alpha-4,http://repo1.maven.org/maven2/org/codehaus/plexus/plexus-interactivity/,,Apache License 2.0
+Plexus Interpolation API,1.6,http://mirror.netcologne.de/maven2/org/codehaus/plexus/plexus-interpolation/,2001-2015 Codehaus Plexus.,Apache License 2.0
+Plexus Interpolation API,1.13,http://repo1.maven.org/maven2/org/codehaus/plexus/plexus-interpolation/,2001-2015 Codehaus Plexus.,Apache License 2.0
+Plexus Interpolation API,1.14,http://plexus.codehaus.org/plexus-components/plexus-interpolation,2001-2015 Codehaus Plexus.,Apache License 2.0
+Plexus Interpolation API,1.15,http://mirror.netcologne.de/maven2/org/codehaus/plexus/plexus-interpolation/,2001-2015 Codehaus Plexus.,Apache License 2.0
+Plexus Interpolation API,1.21,http://repo.maven.apache.org/maven2//org/codehaus/plexus/plexus-interpolation/,2001-2015 Codehaus Plexus.,Apache License 2.0
+Plexus IO Components,2.3.2,http://repo.maven.apache.org/maven2//org/codehaus/plexus/plexus-io/,,Apache License 2.0
+Plexus IO Components,2.0.2,http://mirror.netcologne.de/maven2/org/codehaus/plexus/plexus-io/,,Apache License 2.0
+Plexus IO Components,2.0.10,http://plexus.codehaus.org/plexus-components/plexus-io,,Apache License 2.0
+Plexus Javac Component - org.codehaus.plexus:plexus-compiler-javac,2.2,http://plexus.codehaus.org/plexus-components/plexus-compiler/plexus-compilers/plexus-compiler-javac,,Apache License 2.0
+Plexus Javac Component - org.codehaus.plexus:plexus-compiler-javac,1.9.1,http://plexus.codehaus.org/plexus-components/plexus-compiler/plexus-compilers/plexus-compiler-javac,,Apache License 2.0
+Plexus Project,1.0-alpha9-stable1,http://plexus.codehaus.org/,,Apache License 2.0
+Plexus Project - Plexus Utils,3.0.15,http://plexus.codehaus.org/plexus-utils/,2001-2015 Codehaus Plexus.,Apache License 2.0
+Plexus Project - Plexus Utils,1.5.5,http://plexus.codehaus.org/plexus-utils/,2001-2015 Codehaus Plexus.,Apache License 2.0
+Plexus Project - Plexus Utils,2.0.5,http://plexus.codehaus.org/plexus-utils/,2001-2015 Codehaus Plexus.,Apache License 2.0
+Plexus Project - Plexus Utils,3.0.8,http://plexus.codehaus.org/plexus-utils/,2001-2015 Codehaus Plexus.,Apache License 2.0
+Plexus Project - Plexus Utils,1.5.1,http://plexus.codehaus.org/plexus-utils/,2001-2015 Codehaus Plexus.,Apache License 2.0
+Plexus Project - Plexus Utils,1.5.6,http://plexus.codehaus.org/plexus-utils/,2001-2015 Codehaus Plexus.,Apache License 2.0
+Plexus Project - Plexus Utils,1.4.2,http://plexus.codehaus.org/plexus-utils/,2001-2015 Codehaus Plexus.,Apache License 2.0
+Plexus Project - Plexus Utils,2.0.7,http://plexus.codehaus.org/plexus-utils/,2001-2015 Codehaus Plexus.,Apache License 2.0
+Plexus Project - Plexus Utils,3.0,http://plexus.codehaus.org/plexus-utils/,2001-2015 Codehaus Plexus.,Apache License 2.0
+Plexus Project - Plexus Utils,3.0.5,http://plexus.codehaus.org/plexus-utils/,2001-2015 Codehaus Plexus.,Apache License 2.0
+Plexus Security Dispatcher Component,1.3,http://repo1.maven.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/,,Apache License 2.0
+plexus-build-api,0.0.4,http://repo1.maven.org/maven2/org/sonatype/plexus/plexus-build-api/,,Apache License 2.0
+plexus-interpolation,Unspecified,http://github.com/sonatype/plexus-interpolation/,2001-2015 Codehaus Plexus.,Apache License 2.0
+Project Lombok,0.11.6,http://mirrors.ibiblio.org/maven2/org/projectlombok/lombok/,,MIT License
+Protocol Buffer Java API,2.5.0,http://code.google.com/p/protobuf,,"BSD 3-clause ""New"" or ""Revised"" License"
+Quartz,1.6.3,https://quartz.dev.java.net,"Terracotta, Inc., a wholly-owned subsidiary of Software AG USA, Inc. All rights reserved.",Apache License 2.0
+RRD4J,2.2,http://code.google.com/p/rrd4j/,,Apache License 2.0
+SAP Java Connector,Unspecified,,,Alternative Commercial License Available
+Scala Library - org.scala-lang:scala-library,2.10.4,http://www.scala-lang.org/,,"BSD 3-clause ""New"" or ""Revised"" License"
+select2,3.4.5,http://github.com/ivaynberg/select2/,,MIT License
+ShrinkWrap Bill of Materials,1.0.1,http://mirrors.ibiblio.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/,,Apache License 2.0
+ShrinkWrap Descriptors Bill of Materials,2.0.0-alpha-3,https://repository.jboss.org/nexus/content/groups/public-jboss/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/,,Apache License 2.0
+ShrinkWrap Resolver Bill of Materials,1.0.0-beta-7,https://repository.jboss.org/nexus/content/groups/public-jboss/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/,,Apache License 2.0
+Sisu - Guice - org.sonatype.sisu:sisu-guice,2.1.7,http://repo1.maven.org/maven2/org/sonatype/sisu/sisu-guice/,,Apache License 2.0
+Sisu Guice,3.1.0,http://repo1.maven.org/maven2/org/sonatype/sisu/inject/guice-parent/,,Apache License 2.0
+Sisu Guice - Core Library,3.1.0,http://repo1.maven.org/maven2/org/sonatype/sisu/sisu-guice/,,Apache License 2.0
+javax.transaction API v.1.1 - org.glassfish:javax.transaction,Unspecified,http://repo1.maven.org/maven2/org/glassfish/javax.transaction/,,Sun GPL With Classpath Exception v2.0
+JAXB 2.0 Project,2.2.3-u1,https://jaxb.java.net/,,Sun GPL With Classpath Exception v2.0
+SLF4J,1.6.1,http://repo1.maven.org/maven2/org/slf4j/slf4j-parent/,,MIT License
+SLF4J,1.6.0,http://repo1.maven.org/maven2/org/slf4j/slf4j-parent/,,MIT License
+SLF4J,1.6.6,http://mirrors.ibiblio.org/maven2/org/slf4j/slf4j-parent/,,MIT License
+SLF4J,1.6.4,http://repo1.maven.org/maven2/org/slf4j/slf4j-parent/,,MIT License
+SLF4J,1.5.8,http://repo1.maven.org/maven2/org/slf4j/slf4j-parent/,,Unspecified
+SLF4J,1.5.6,http://repo1.maven.org/maven2/org/slf4j/slf4j-parent/,,Unspecified
+SLF4J - org.slf4j:slf4j-parent,1.7.6,http://www.slf4j.org,,MIT License
+SLF4J - org.slf4j:slf4j-parent,1.7.10,http://repo.maven.apache.org/maven2//org/slf4j/slf4j-parent/,,MIT License
+SLF4J - org.slf4j:slf4j-parent,1.7.12,http://repo.maven.apache.org/maven2//org/slf4j/slf4j-parent/,,MIT License
+SLF4J API Module,1.6.0,http://repo1.maven.org/maven2/org/slf4j/slf4j-api/,2004-2013 QOS.ch,MIT License
+SLF4J API Module,1.6.6,http://www.slf4j.org,2004-2013 QOS.ch,MIT License
+SLF4J API Module,1.7.12,http://repo.maven.apache.org/maven2//org/slf4j/slf4j-api/,2004-2013 QOS.ch,MIT License
+SLF4J API Module,1.5.8,http://repo1.maven.org/maven2/org/slf4j/slf4j-api/,2004-2013 QOS.ch,MIT License
+SLF4J API Module,1.6.4,http://repo1.maven.org/maven2/org/slf4j/slf4j-api/,2004-2013 QOS.ch,MIT License
+SLF4J API Module,1.7.6,http://www.slf4j.org,2004-2013 QOS.ch,MIT License
+SLF4J LOG4J-12 Binding,1.6.6,http://www.slf4j.org,2004-2013 QOS.ch,MIT License
+SLF4J LOG4J-12 Binding,1.6.1,http://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/,2004-2013 QOS.ch,MIT License
+SLF4J LOG4J-12 Binding,1.7.5,http://www.slf4j.org,2004-2013 QOS.ch,MIT License
+SLF4J LOG4J-12 Binding,1.7.12,http://repo.maven.apache.org/maven2//org/slf4j/slf4j-log4j12/,2004-2013 QOS.ch,MIT License
+SLF4J LOG4J-12 Binding,1.7.6,http://www.slf4j.org,2004-2013 QOS.ch,MIT License
+SLF4J LOG4J-12 Binding,1.6.0,http://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/,2004-2013 QOS.ch,MIT License
+SLF4J LOG4J-12 Binding,1.7.10,http://repo.maven.apache.org/maven2//org/slf4j/slf4j-log4j12/,2004-2013 QOS.ch,MIT License
+slim_scroll,0.0.1,http://rubygems.org/gems/slim_scroll,,MIT License
+SnakeYAML,1.14,http://repo.maven.apache.org/maven2//org/yaml/snakeyaml/,,Apache License 2.0
+SnakeYAML,1.13,http://www.snakeyaml.org,,Apache License 2.0
+snappy-java,snappy-java-1.0.4.1,http://github.com/xerial/snappy-java/,,Apache License 2.0
+Sonatype OSS Parent,6,http://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/,,Unspecified
+Sonatype OSS Parent,3,http://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/,,Unspecified
+Spring Boot,1.1.4.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/boot/spring-boot/,,Apache License 2.0
+Spring Boot AMPQ Starter,1.2.5.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/boot/spring-boot-starter-amqp/,,Apache License 2.0
+Spring Boot Atomikos JTA Starter,1.2.5.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/boot/spring-boot-starter-jta-atomikos/,,Apache License 2.0
+Spring Boot Configuration Processor,1.2.5.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/boot/spring-boot-configuration-processor/,,Apache License 2.0
+Spring Boot Spring Cloud Connectors Starter,1.2.5.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/boot/spring-boot-starter-cloud-connectors/,,Apache License 2.0
+Spring Cloud local-configuration connector,1.1.1.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/cloud/spring-cloud-localconfig-connector/,,Apache License 2.0
+Spring Data Build,1.3.1.RELEASE,https://github.com/SpringData/spring-data-build,,Apache License 2.0
+Spring Data Build,1.5.3.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/data/build/spring-data-build/,,Apache License 2.0
+Spring Data Build,1.4.1.RELEASE,https://github.com/SpringData/spring-data-build,,Apache License 2.0
+Spring Data Build - General parent module,1.3.1.RELEASE,http://www.springsource.org/spring-data,,Apache License 2.0
+Spring Data Build - General parent module,1.5.3.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/data/build/spring-data-parent/,,Apache License 2.0
+Spring Data Core,1.9.3.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/data/spring-data-commons/,,Apache License 2.0
+Spring Data Core,1.7.1.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/data/spring-data-commons/,,Apache License 2.0
+Spring Data Redis,1.5.0,http://repo.spring.io/release//org/springframework/data/spring-data-redis/,,Apache License 2.0
+Spring Data Release Train - BOM,Dijkstra-SR1,https://github.com/SpringData/spring-data-build,,Apache License 2.0
+Spring Data Release Train - BOM,Evans-SR3,http://repo.maven.apache.org/maven2//org/springframework/data/spring-data-releasetrain/,,Apache License 2.0
+Spring Framework - spring-security,Unspecified,http://www.springsource.com,,Apache License 2.0
+Spring Messaging,4.1.7.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/spring-messaging/,,Apache License 2.0
+spring-batch,3.0.1.RELEASE,http://github.com/spring-projects/spring-batch/,,Apache License 2.0
+spring-boot,Unspecified,http://github.com/SpringSource/spring-boot/,,Apache License 2.0
+Spring-Cloud Core,1.1.1.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/cloud/spring-cloud-core/,,Apache License 2.0
+spring-data-jpa,1.7.3.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/data/spring-data-jpa/,,Apache License 2.0
+spring-framework,4.0.5.RELEASE,https://github.com/spring-projects/spring-framework,"2016 Pivotal Software, Inc.",Apache License 2.0
+spring-framework,4.1.6.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/,"2016 Pivotal Software, Inc.",Apache License 2.0
+spring-framework,v3.0.5.RELEASE,http://github.com/SpringSource/spring-framework/,"2016 Pivotal Software, Inc.",Apache License 2.0
+spring-framework,4.0.9.RELEASE,http://repo.spring.io/release//org/springframework/,"2016 Pivotal Software, Inc.",Apache License 2.0
+spring-framework,4.0.6.RELEASE,https://github.com/spring-projects/spring-framework,"2016 Pivotal Software, Inc.",Apache License 2.0
+spring-framework,v3.1.1.RELEASE,http://github.com/SpringSource/spring-framework/,"2016 Pivotal Software, Inc.",Apache License 2.0
+spring-framework,v3.2.8.RELEASE,http://github.com/spring-projects/spring-framework/,"2016 Pivotal Software, Inc.",Apache License 2.0
+spring-framework,4.1.7.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/spring-aop/,"2016 Pivotal Software, Inc.",Apache License 2.0
+spring-framework,Unspecified,http://github.com/SpringSource/spring-framework/,"2016 Pivotal Software, Inc.",Apache License 2.0
+spring-framework,v4.0.3.RELEASE,http://github.com/spring-projects/spring-framework/,"2016 Pivotal Software, Inc.",Apache License 2.0
+spring-oxm,3.1.1.RELEASE,http://mirrors.ibiblio.org/maven2/org/springframework/spring-oxm/,,Apache License 2.0
+spring-retry,1.1.0.RELEASE,http://github.com/spring-projects/spring-retry/,,Apache License 2.0
+spring-security-acl,3.2.4.RELEASE,http://spring.io/spring-security,"2016 Pivotal Software, Inc.",Apache License 2.0
+spring-security-acl,3.2.7,http://repo.maven.apache.org/maven2//org/springframework/security/spring-security-acl/,"2016 Pivotal Software, Inc.",Apache License 2.0
+spring-security-acl,4.0.3.RELEASE,http://repo.maven.apache.org/maven2//org/springframework/security/spring-security-acl/,"2016 Pivotal Software, Inc.",Apache License 2.0
+spring-security-samples-messages-jc,4.0.2.RELEASE,http://repo.spring.io/release//org/springframework/security/spring-security-samples-messages-jc/,,Apache License 2.0
+standard,1.1.2,http://repo1.maven.org/maven2/taglibs/standard/,,Apache License 2.0
+StAX API,1.0.1,http://repo1.maven.org/maven2/stax/stax-api/,,Apache License 2.0
+Streaming API for XML (StAX) - JSR-173,1.0-2,http://stax.codehaus.org/,"BEA SYSTEMS, INC・",Apache License 2.0
+Streaming API for XML (StAX) - JSR-173,1.0-2bin,http://stax.codehaus.org/,"BEA SYSTEMS, INC・",Apache License 2.0
+Streaming API for XML (StAX) - JSR-173,1.0.1,http://stax.codehaus.org/Home,"BEA SYSTEMS, INC・",Apache License 2.0
+stringify,Unspecified,http://github.com/dfilatov/stringify/,,Unspecified
+summernote,Unspecified,http://github.com/HackerWins/summernote/,,MIT License
+summernote,0.5.1,http://github.com/HackerWins/summernote/,,MIT License
+SureFire,2.12.4,http://mirrors.ibiblio.org/maven2/org/apache/maven/surefire/surefire/,,Apache License 2.0
+SureFire,2.8.1,http://repo1.maven.org/maven2/org/apache/maven/surefire/surefire/,,Apache License 2.0
+SureFire API,2.8.1,http://repo1.maven.org/maven2/org/apache/maven/surefire/surefire-api/,,Apache License 2.0
+SureFire API,2.17,http://maven.apache.org/surefire/surefire-api,,Apache License 2.0
+SureFire Booter,2.8.1,http://repo1.maven.org/maven2/org/apache/maven/surefire/surefire-booter/,,Apache License 2.0
+SureFire Booter,2.17,http://maven.apache.org/surefire/surefire-booter,,Apache License 2.0
+SureFire JUnit4 Runner,2.17,http://maven.apache.org/surefire/surefire-providers/surefire-junit4,,Apache License 2.0
+SureFire Providers,2.17,http://maven.apache.org/surefire/surefire-providers,,Apache License 2.0
+TableTools,Unspecified,http://github.com/DataTables/TableTools/,,MIT License
+TableTools,2.2.3,http://github.com/DataTables/TableTools/,,MIT License
+textAngular,Unspecified,http://github.com/fraywing/textAngular/,,MIT License
+The Apache Software Foundation,14,http://www.apache.org/,,Apache License 2.0
+The Apache Software Foundation,11,http://mirrors.ibiblio.org/maven2/org/apache/apache/,,Apache License 2.0
+The Apache Software Foundation,15,http://repo.maven.apache.org/maven2//org/apache/apache/,,Apache License 2.0
+The Apache Software Foundation,12,https://repository.apache.org/content/repositories/releases/org/apache/apache/,,Apache License 2.0
+The Apache Software Foundation,16,http://repo.maven.apache.org/maven2//org/apache/apache/,,Apache License 2.0
+The Legion of the Bouncy Castle,1.51,http://www.bouncycastle.org/index.html,,MIT License
+JAXB API bundle for GlassFish V3,2.2.2-promoted-b95,https://jaxb.dev.java.net/,,Sun GPL With Classpath Exception v2.0
+JAXB API bundle for GlassFish V3,2.2.2,https://jaxb.dev.java.net/,,Sun GPL With Classpath Exception v2.0
+The Netty Project,3.7.0.Final,http://netty.io/,,Apache License 2.0
+The Netty Project,4.0.23.Final,http://repo.maven.apache.org/maven2//io/netty/netty/,,Apache License 2.0
+The Netty Project,3.6.2.Final,http://netty.io/,,Apache License 2.0
+The Netty Project,3.2.2.Final,http://www.jboss.org/netty/,,Apache License 2.0
+thrift,0.9.0,http://github.com/apache/thrift/,,Apache License 2.0
+Tiles - API,2.2.2,http://repo1.maven.org/maven2/org/apache/tiles/tiles-api/,,Apache License 2.0
+Tiles - Core Library,2.2.2,http://repo1.maven.org/maven2/org/apache/tiles/tiles-core/,,Apache License 2.0
+Tiles - JSP support,2.2.2,http://repo1.maven.org/maven2/org/apache/tiles/tiles-jsp/,,Apache License 2.0
+Tiles - Servlet support,2.2.2,http://repo1.maven.org/maven2/org/apache/tiles/tiles-servlet/,,Apache License 2.0
+Tiles - Template Technologies Support,2.2.2,http://repo1.maven.org/maven2/org/apache/tiles/tiles-template/,,Apache License 2.0
+Tiles 2,2.2.2,http://repo1.maven.org/maven2/org/apache/tiles/tiles-parent/,,Apache License 2.0
+toastr,Unspecified,http://github.com/CodeSeven/toastr/,"2012-2015 John Papa, Tim Ferrell, Hans Fj?llemark",MIT License
+Tomcat Maven Plugin,1.1,http://mojo.codehaus.org/tomcat-maven-plugin,,Apache License 2.0
+tomcat-embed-core,8.0.23,http://repo.maven.apache.org/maven2//org/apache/tomcat/embed/tomcat-embed-core/,,Apache License 2.0
+tomcat-embed-el,8.0.23,http://repo.maven.apache.org/maven2//org/apache/tomcat/embed/tomcat-embed-el/,,Apache License 2.0
+tomcat-embed-jasper,8.0.23,http://repo.maven.apache.org/maven2//org/apache/tomcat/embed/tomcat-embed-jasper/,,Apache License 2.0
+tomcat-embed-logging-juli,8.0.23,http://repo.maven.apache.org/maven2//org/apache/tomcat/embed/tomcat-embed-logging-juli/,,Apache License 2.0
+tomcat-embed-websocket,8.0.23,http://repo.maven.apache.org/maven2//org/apache/tomcat/embed/tomcat-embed-websocket/,,Apache License 2.0
+Transactions API,Unspecified,http://repo1.maven.org/maven2/com/atomikos/transactions-api/,,Apache License 2.0
+Transactions API,3.8.0,http://www.atomikos.com/ate/transactions-api/,,Apache License 2.0
+Transactions JDBC,Unspecified,http://repo1.maven.org/maven2/com/atomikos/transactions-jdbc/,,Apache License 2.0
+Transactions JDBC Deprecated,3.8.0,http://www.atomikos.com/ate/transactions-jdbc-deprecated/,,Apache License 2.0
+Transactions JTA,Unspecified,http://repo1.maven.org/maven2/com/atomikos/transactions-jta/,,Apache License 2.0
+Transactions JTA,3.8.0,http://www.atomikos.com/ate/transactions-jta/,,Apache License 2.0
+TransactionsEssentials,3.8.0,http://www.atomikos.com/Main/TransactionsEssentials,,Apache License 2.0
+TransactionsEssentials,Unspecified,http://www.atomikos.com/Main/TransactionsEssentials,,Apache License 2.0
+typicons.font,Unspecified,http://github.com/stephenhutchings/typicons.font/,,SIL Open Font License 1.1
+ui-select,0.10.0,http://github.com/angular-ui/ui-select/,,MIT License
+wagon-provider-api,Unspecified,http://repo1.maven.org/maven2/maven/wagon-provider-api/,,Apache License 2.0
+weather-icons,Unspecified,http://github.com/erikflowers/weather-icons/,,MIT License
+Weld and CDI APIs BOM,1.0,http://repo1.maven.org/maven2/org/jboss/weld/weld-api-bom/,,Apache License 2.0
+Weld and CDI APIs Parent,1.0,http://repo1.maven.org/maven2/org/jboss/weld/weld-api-parent/,,Apache License 2.0
+Weld Parent,6,http://repo1.maven.org/maven2/org/jboss/weld/weld-parent/,,Apache License 2.0
+wetty,Unspecified,http://github.com/krishnasrinivas/wetty/,,MIT License
+wftp,Unspecified,http://github.com/seogi1004/wftp/,,MIT License
+jersey-client,1.9,http://repo1.maven.org/maven2/com/sun/jersey/jersey-client/,,Sun GPL With Classpath Exception v2.0
+Xerces2 Java Parser,2.9.1,http://repo1.maven.org/maven2/xerces/xercesImpl/,1999-2007 The Apache Software Foundation,Apache License 2.0
+Xerces2-j,2.10.0,http://repo1.maven.org/maven2/xerces/xercesImpl/,,Apache License 2.0
+jersey-core,1.9,http://repo1.maven.org/maven2/com/sun/jersey/jersey-core/,,Sun GPL With Classpath Exception v2.0
+jersey-guice,1.9,http://repo1.maven.org/maven2/com/sun/jersey/contribs/jersey-guice/,,Sun GPL With Classpath Exception v2.0
+jersey-json,1.9,http://repo1.maven.org/maven2/com/sun/jersey/jersey-json/,,Sun GPL With Classpath Exception v2.0
+jersey-project,1.9,http://repo1.maven.org/maven2/com/sun/jersey/jersey-project/,,Sun GPL With Classpath Exception v2.0
+jersey-server,1.9,http://repo1.maven.org/maven2/com/sun/jersey/jersey-server/,,Sun GPL With Classpath Exception v2.0
+XML Pull Parsing API,1.1.3.1,http://repo1.maven.org/maven2/xmlpull/xmlpull/,,Public Domain
+XmlBeans,2.6.0,http://xmlbeans.apache.org,2009-2016 The Apache Software Foundation,Apache License 2.0
+xmlenc,0.52,http://sourceforge.net/projects/xmlenc/,,"BSD 3-clause ""New"" or ""Revised"" License"
+XPP - XML Pull Parser,3-1.1.4c,http://www.extreme.indiana.edu/xgws/xsoap/xpp/,2002 The Trustees of Indiana University,Indiana University Extreme! Lab Software License
+XStream Library,1.4.7,http://xstream.codehaus.org/,"Copyright (c) 2003-2006 Joe Walnes
+Copyright (c) 2006-2015 XStream Committers","BSD 3-clause ""New"" or ""Revised"" License"
+XStream Library,1.3.1,http://xstream.codehaus.org/,"Copyright (c) 2003-2006 Joe Walnes
+Copyright (c) 2006-2015 XStream Committers","BSD 3-clause ""New"" or ""Revised"" License"
+XStream Parent,1.3.1,http://repo1.maven.org/maven2/com/thoughtworks/xstream/xstream-parent/,,"BSD 3-clause ""New"" or ""Revised"" License"
+XStream Parent,1.4.7,http://codehaus.org/xstream-parent/,,"BSD 3-clause ""New"" or ""Revised"" License"
+XZ for Java,1.0,http://repo1.maven.org/maven2/org/tukaani/xz/,,Public Domain
+XZ for Java - org.tukaani:xz,1.2,http://tukaani.org/xz/java.html,,Public Domain
+zookeeper,3.4.5,https://zookeeper.apache.org/,,Apache License 2.0
+zookeeper,3.4.6,https://zookeeper.apache.org/,,Apache License 2.0
