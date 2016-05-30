@@ -320,5 +320,6 @@
     "Jaxen License" : "Jaxen",
     "Jdom License" : "Jdom",
     "JTidy License" : "JTidy",
-    "Microsoft JDBC Driver 4.0 for SQL Server CTP Pre-Release License" : "MS_JDBC_4.0"
+    "Microsoft JDBC Driver 4.0 for SQL Server CTP Pre-Release License" : "MS_JDBC_4.0",
+    "Open Symphony 1.1 License" : "Opensymphony1.1"
 }
