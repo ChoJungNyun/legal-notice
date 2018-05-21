@@ -1,0 +1,196 @@
+oss,component,url,copyright,license
+@amcharts/amcharts3-angular,2.0.0,https://www.npmjs.org/package/@amcharts/amcharts3-angular,,Apache License 2.0
+@at-scale/mock-react-redux-connected-components,Unspecified,https://www.npmjs.org/package/@at-scale/mock-react-redux-connected-components,,MIT License
+@gulp-sourcemaps/identity-map,Unspecified,https://www.npmjs.org/package/@gulp-sourcemaps/identity-map,,MIT License
+@gulp-sourcemaps/map-sources,1.0.0,https://www.npmjs.org/package/@gulp-sourcemaps/map-sources,,MIT License
+@hoisel/ionic-calendar,Unspecified,https://www.npmjs.org/package/@hoisel/ionic-calendar,,MIT License
+@ionic/cli-plugin-package,Unspecified,http://github.com/driftyco/ionic-cli/,,MIT License
+@mercateo/ws,Unspecified,https://www.npmjs.org/package/@mercateo/ws,,Apache License 2.0
+@sailshq/qs,Unspecified,https://www.npmjs.org/package/@sailshq/qs,,"BSD 3-clause ""New"" or ""Revised"" License"
+@screeps/launcher,Unspecified,https://www.npmjs.org/package/@screeps/launcher,,ISC License
+@zkochan/pnpm,Unspecified,http://github.com/pnpm/pnpm/,,MIT License
+acorn - marijnh/acorn,Unspecified,http://github.com/marijnh/acorn/,,MIT License
+acorn-qml,Unspecified,https://www.npmjs.org/package/acorn-qml,,Eclipse Public License 1.0
+android-versions,Unspecified,https://www.npmjs.org/package/android-versions,,MIT License
+angular-bind-html-compile,Unspecified,http://github.com/incuna/angular-bind-html-compile/,,MIT License
+angular-elastic,Unspecified,http://github.com/monospaced/angular-elastic/,,MIT License
+angular-img-http-src,1.0.1,https://www.npmjs.org/package/angular-img-http-src,,MIT License
+angular-masonry,Unspecified,http://github.com/passy/angular-masonry/,,MIT License
+angular-material,Unspecified,http://repo.maven.apache.org/maven2/org/webjars/angular-material/,,MIT License
+angular-material-admin,1.2.0,https://www.npmjs.org/package/angular-material-admin,,MIT License
+angular-material-icons,0.7.1,http://github.com/klarsys/angular-material-icons/,,MIT License
+angular-material-icons,Unspecified,https://www.npmjs.org/package/angular-material-icons,,MIT License
+angular-moment,Unspecified,http://github.com/urish/angular-moment/,,MIT License
+angular-slideables,Unspecified,https://www.npmjs.org/package/angular-slideables,,MIT License
+angular-translate-test-publish,Unspecified,http://github.com/PascalPrecht/angular-translate/,,MIT License
+angular.js,1.5.8,https://www.npmjs.org/package/angular-parse-ext,,MIT License
+AngularJS Aria,1.5.8,http://www.nuget.org/packages/AngularJS.Aria,,MIT License
+AngularJS-ResponsiveCalendar,Unspecified,http://github.com/twinssbc/AngularJS-ResponsiveCalendar/,,MIT License
+ansi-cyan,Unspecified,http://github.com/jonschlinkert/ansi-cyan/,,MIT License
+ansi-red,Unspecified,http://github.com/jonschlinkert/ansi-red/,,MIT License
+arr-diff,4.0.0,https://www.npmjs.org/package/arr-diff,,MIT License
+arr-union,3.1.0,https://www.npmjs.org/package/arr-union,,MIT License
+array-each,Unspecified,http://github.com/jonschlinkert/array-each/,,MIT License
+array-slice,Unspecified,http://github.com/jonschlinkert/array-slice/,,MIT License
+array-uniq,Unspecified,https://www.npmjs.org/package/array-uniq,,MIT License
+assign-symbols,Unspecified,https://www.npmjs.org/package/assign-symbols,,MIT License
+async-waterfall,Unspecified,http://github.com/es128/async-waterfall/,,MIT License
+atob,Unspecified,https://www.npmjs.org/package/atob,,Apache License 2.0
+babel-plugin-add-header-comment,Unspecified,https://www.npmjs.org/package/babel-plugin-add-header-comment,,MIT License
+blueimp-md5,Unspecified,https://www.npmjs.org/package/blueimp-md5,,MIT License
+body-parser,Unspecified,https://www.npmjs.org/package/body-parser,,MIT License
+braces - jonschlinkert/braces,Unspecified,http://github.com/jonschlinkert/braces/,,MIT License
+buildmail,Unspecified,https://www.npmjs.org/package/buildmail,,MIT License
+cache-manager,Unspecified,https://www.npmjs.org/package/cache-manager,,MIT License
+cache-manager-fs-binary,Unspecified,https://www.npmjs.org/package/cache-manager-fs-binary,,MIT License
+Chromium Source,Unspecified,https://www.chromium.org/Home,,"BSD 3-clause ""New"" or ""Revised"" License"
+ColaScript,Unspecified,http://github.com/TrigenSoftware/ColaScript/,,"BSD 2-clause ""Simplified"" License"
+com.commontime.cordova.file-transfer,1.7.0,https://www.npmjs.org/package/cordova-plugin-file-transfer,,Apache License 2.0
+com.commontime.cordova.file-transfer,Unspecified,https://www.npmjs.org/package/cordova-plugin-file-transfer,,Apache License 2.0
+com.taxiapps.cordova-plugin-inappbrowser,Unspecified,https://www.npmjs.org/package/cordova-plugin-inappbrowser,,Apache License 2.0
+compare-versions,Unspecified,https://www.npmjs.org/package/compare-versions,,MIT License
+cookie-parser,Unspecified,https://www.npmjs.org/package/cookie-parser,,MIT License
+Cordova,Unspecified,http://github.com/brianleroux/Cordova/,,Apache License 2.0
+cordova-android - apache/incubator-cordova-android,Unspecified,http://github.com/apache/cordova-android/,,Apache License 2.0
+cordova-check-plugins,Unspecified,https://www.npmjs.org/package/cordova-check-plugins,,MIT License
+cordova-ios,Unspecified,https://www.npmjs.org/package/cordova-ios,,Apache License 2.0
+cordova-ios - apache/cordova-ios,Unspecified,http://github.com/apache/cordova-ios/,,Apache License 2.0
+cordova-platform-test,6.2.0-dev,https://www.npmjs.org/package/cordova-platform-test,,Apache License 2.0
+cordova-plugin-badge,Unspecified,http://github.com/katzer/cordova-plugin-badge/,,Apache License 2.0
+cordova-plugin-camera-fork,Unspecified,https://www.npmjs.org/package/cordova-plugin-camera-fork,,Apache License 2.0
+cordova-plugin-compat,Unspecified,https://www.npmjs.org/package/cordova-plugin-compat,,Apache License 2.0
+cordova-plugin-crosswalk-webview,Unspecified,https://www.npmjs.org/package/cordova-plugin-crosswalk-webview,,Apache License 2.0
+cordova-plugin-device,Unspecified,http://github.com/apache/cordova-plugin-device/,,Apache License 2.0
+cordova-plugin-file-onflapp,Unspecified,https://www.npmjs.org/package/cordova-plugin-file,,Apache License 2.0
+cordova-plugin-file-opener2,Unspecified,https://www.npmjs.org/package/cordova-plugin-file-opener2,,MIT License
+cordova-plugin-file-transfer - in JavaScript,Unspecified,http://plugins.cordova.io/#/package/org.apache.cordova.file-transfer,,Apache License 2.0
+cordova-plugin-file-transfer2,Unspecified,https://www.npmjs.org/package/cordova-plugin-file-transfer2,,MIT License
+cordova-plugin-ionic-keyboard,Unspecified,https://www.npmjs.org/package/cordova-plugin-ionic-keyboard,,Apache License 2.0
+cordova-plugin-splashscreen-iphonex-support,Unspecified,https://www.npmjs.org/package/cordova-plugin-splashscreen-iphonex-support,,Apache License 2.0
+cordova-plugin-statusbar,Unspecified,https://www.npmjs.org/package/cordova-plugin-statusbar,,Apache License 2.0
+cordova-plugin-whitelist,Unspecified,https://www.npmjs.org/package/cordova-plugin-whitelist,,Apache License 2.0
+cordova-plugin-wizpurchase,Unspecified,https://www.npmjs.org/package/cordova-plugin-wizpurchase,,MIT License
+cordova-plugin-zip,Unspecified,https://www.npmjs.org/package/cordova-plugin-zip,,"BSD 3-clause ""New"" or ""Revised"" License"
+cordova-splashscreen,Unspecified,http://github.com/apache/cordova-plugin-splashscreen/,,Apache License 2.0
+cross-spawn,Unspecified,https://www.npmjs.org/package/cross-spawn,,MIT License
+debug-fabulous,Unspecified,https://www.npmjs.org/package/debug-fabulous,,MIT License
+deep-replace-in-object,Unspecified,https://www.npmjs.org/package/deep-replace-in-object,,Apache License 2.0
+DefinitelyTyped,7.2.0,https://www.npmjs.org/package/@types/react-smooth-scrollbar,,MIT License
+doctrine,Unspecified,https://www.npmjs.org/package/doctrine,,Apache License 2.0
+eeschiavo-cordova-plugin-app-version,Unspecified,https://www.npmjs.org/package/eeschiavo-cordova-plugin-app-version,,MIT License
+ElementTree,Unspecified,http://effbot.org/zone/element-index.htm,,"BSD 3-clause ""New"" or ""Revised"" License"
+ember-decorators,1.2.2,https://www.npmjs.org/package/ember-decorators,,MIT License
+ember-pouch,Unspecified,http://github.com/nolanlawson/ember-pouch/,,Apache License 2.0
+ember-qunit-nested-module-blueprints-polyfill,Unspecified,https://www.npmjs.org/package/ember-qunit-nested-module-blueprints-polyfill,,MIT License
+ember-sinon,1.0.0,https://www.npmjs.org/package/ember-sinon,,MIT License
+ember-vertical-timeline,Unspecified,https://www.npmjs.org/package/ember-vertical-timeline,,MIT License
+es6-promise,Unspecified,http://github.com/components/es6-promise/,,MIT License
+ES6-Promises,Unspecified,http://github.com/jakearchibald/ES6-Promises/,,MIT License
+eslint-config-angular,Unspecified,https://www.npmjs.org/package/eslint-config-angular,,MIT License
+eslint-plugin-angular,Unspecified,https://www.npmjs.org/package/eslint-plugin-angular,,MIT License
+eslint-rails,1.3.0,http://rubygems.org/gems/eslint-rails,,MIT License
+fcm-node,Unspecified,https://www.npmjs.org/package/fcm-node,,MIT License
+firebase,Unspecified,https://www.npmjs.org/package/firebase,,Apache License 2.0
+firebase-admin,4.2.1,https://www.npmjs.org/package/firebase-admin,,Apache License 2.0
+fs-tpp-api,0.0.25-42,https://www.npmjs.org/package/fs-tpp-api,,Apache License 2.0
+Gladman AES,12-09-11,http://www.gladman.me.uk/AES,,Brian Gladman AES License
+grown,0.18.1,https://www.npmjs.org/package/grown,,MIT License
+grunt-mutation-testing,Unspecified,https://www.npmjs.org/package/grunt-mutation-testing,,MIT License
+guid,Unspecified,https://www.npmjs.org/package/guid,,MIT License
+gulp-angular-templatecache,Unspecified,https://www.npmjs.org/package/gulp-angular-templatecache,,MIT License
+gulp-autoprefixer,Unspecified,https://www.npmjs.org/package/gulp-autoprefixer,,MIT License
+gulp-flatmap,1.0.0,https://www.npmjs.org/package/gulp-flatmap,,MIT License
+gulp-flatmap,Unspecified,https://www.npmjs.org/package/gulp-flatmap,,MIT License
+gulp-fn,0.0.0,https://www.npmjs.org/package/gulp-fn,,ISC License
+gulp-header - godaddy/gulp-header,Unspecified,https://www.npmjs.org/package/gulp-header,,MIT License
+gulp-htmlmin,Unspecified,https://www.npmjs.org/package/gulp-htmlmin,,MIT License
+gulp-metal,Unspecified,https://www.npmjs.org/package/gulp-metal,,"BSD 2-clause ""Simplified"" License"
+gulp-ng-annotate,Unspecified,https://www.npmjs.org/package/gulp-ng-annotate,,Creative Commons Zero v1.0 Universal
+gulp-ng-config,Unspecified,https://www.npmjs.org/package/gulp-ng-config,,MIT License
+gulp-sequence,Unspecified,https://www.npmjs.org/package/gulp-sequence,,MIT License
+gulp-shell,Unspecified,https://www.npmjs.org/package/gulp-shell,,MIT License
+gulp-sourcemaps,Unspecified,https://www.npmjs.org/package/gulp-sourcemaps,,ISC License
+gulp-uglify,Unspecified,https://www.npmjs.org/package/gulp-uglify,,MIT License
+gulp-zip,Unspecified,https://www.npmjs.org/package/gulp-zip,,MIT License
+harbor-ui,Unspecified,https://www.npmjs.org/package/harbor-ui,,Apache License 2.0
+hull-repl,Unspecified,https://www.npmjs.org/package/hull-repl,,MIT License
+install,Unspecified,https://www.npmjs.org/package/install,,MIT License
+ionic-datepicker-fork-ionic1,Unspecified,https://www.npmjs.org/package/ionic-datepicker-fork-ionic1,,MIT License
+ionic-np-dbprovider,Unspecified,https://www.npmjs.org/package/ionic-np-dbprovider,,ISC License
+ionic2-calendar,Unspecified,https://www.npmjs.org/package/ionic2-calendar,,MIT License
+ipware,Unspecified,https://www.npmjs.org/package/ipware,,"BSD 3-clause ""New"" or ""Revised"" License"
+is - enricomarino/is,Unspecified,https://www.npmjs.org/package/is,,MIT License
+is-extendable,1.0.1,https://www.npmjs.org/package/is-extendable,,MIT License
+is-extendable,Unspecified,https://www.npmjs.org/package/is-extendable,,MIT License
+is-number,4.0.0,https://www.npmjs.org/package/is-number,,MIT License
+libmime,Unspecified,https://www.npmjs.org/package/libmime,,MIT License
+lodash,Unspecified,http://github.com/lodash/lodash/,,MIT License
+mailcomposer,Unspecified,http://github.com/andris9/mailcomposer/,,MIT License
+marked,Unspecified,http://github.com/chjj/marked/,,MIT License
+memoizee,Unspecified,https://www.npmjs.org/package/memoizee,,MIT License
+messageformat.js,Unspecified,http://github.com/SlexAxton/messageformat.js/,,MIT License
+Minizip,Unspecified,http://www.winimage.com/zLibDll/minizip.html,,zlib License
+mocha,Unspecified,http://github.com/visionmedia/mocha/,,MIT License
+modify-types,Unspecified,https://www.npmjs.org/package/modify-types,,ISC License
+moment,Unspecified,http://github.com/timrwood/moment/,,MIT License
+moment-range,Unspecified,http://github.com/gf3/moment-range/,,Public Domain
+moment-timezone,Unspecified,http://github.com/timrwood/moment-timezone/,,MIT License
+Moment.js - org.webjars:momentjs,2.15.1,http://repo.maven.apache.org/maven2/org/webjars/momentjs/,,MIT License
+Movable-Type Scripts,Unspecified,http://www.movable-type.co.uk/scripts/sha1.html,,MIT License
+moweex-ionic,Unspecified,https://www.npmjs.org/package/moweex-ionic,,MIT License
+ng-annotate,Unspecified,https://www.npmjs.org/package/ng-annotate,,MIT License
+ng-easy,0.0.3,http://github.com/tiagovdberg/ng-easy/,,GNU Lesser General Public License v3.0 only
+node negotiator,Unspecified,https://www.npmjs.org/package/negotiator,,MIT License
+node querystring,Unspecified,https://www.npmjs.org/package/querystring,,MIT License
+node-dateformat,Unspecified,http://github.com/felixge/node-dateformat/,,MIT License
+node-emoji,Unspecified,https://www.npmjs.org/package/node-emoji,,MIT License
+node-httpreq,Unspecified,http://github.com/SamDecrock/node-httpreq/,,MIT License
+node-mime,Unspecified,http://github.com/broofa/node-mime/,,MIT License
+node-nix,0.0.3,http://github.com/felixge/node-nix/,,MIT License
+node-optimist,Unspecified,http://github.com/substack/node-optimist/,,MIT License
+node-pend,Unspecified,http://github.com/andrewrk/node-pend/,,MIT License
+node-resolve,Unspecified,http://github.com/substack/node-resolve/,,MIT License
+node-stack-trace,Unspecified,http://github.com/felixge/node-stack-trace/,,MIT License
+node-webshot,0.18.0,https://www.npmjs.org/package/webshot,,MIT License
+Node.js,Unspecified,http://github.com/joyent/node/,,MIT License
+node_redis,Unspecified,http://github.com/mranney/node_redis/,,MIT License
+npm-msys2,Unspecified,http://github.com/npm/npm/,,Artistic License 2.0
+object.defaults,Unspecified,https://www.npmjs.org/package/object.defaults,,MIT License
+on-finished,Unspecified,https://www.npmjs.org/package/on-finished,,MIT License
+path-parse,Unspecified,https://www.npmjs.org/package/path-parse,,MIT License
+path-to-regexp - component/path-to-regexp,Unspecified,http://github.com/component/path-to-regexp/,,MIT License
+phantomjs,Unspecified,http://github.com/ariya/phantomjs/,,"BSD 3-clause ""New"" or ""Revised"" License"
+phantomjs-bin,2.1.1,http://github.com/eugeneware/phantomjs-bin/,,"BSD 3-clause ""New"" or ""Revised"" License"
+phonegap-plugin-image-capture,Unspecified,https://www.npmjs.org/package/phonegap-plugin-image-capture,,Apache License 2.0
+phonegap-plugin-push,Unspecified,https://www.npmjs.org/package/phonegap-plugin-push,,MIT License
+pikatore-cordova-plugin-camera,Unspecified,https://www.npmjs.org/package/cordova-plugin-camera,,Apache License 2.0
+process-nextick-args,2.0.0,https://www.npmjs.org/package/process-nextick-args,,MIT License
+proxy-addr,Unspecified,https://www.npmjs.org/package/proxy-addr,,MIT License
+range-parser,Unspecified,http://github.com/jshttp/range-parser/,,MIT License
+react-firebase-file-uploader,2.1.2,https://www.npmjs.org/package/react-firebase-file-uploader,,MIT License
+relay-compiler-plus,1.6.5,https://www.npmjs.org/package/relay-compiler-plus,,MIT License
+request-progress,Unspecified,https://www.npmjs.org/package/request-progress,,MIT License
+set-value,Unspecified,https://www.npmjs.org/package/set-value,,MIT License
+setprototypeof,Unspecified,http://github.com/wesleytodd/setprototypeof/,,ISC License
+sshpk,Unspecified,https://www.npmjs.org/package/sshpk,,MIT License
+static-extend,0.1.2,https://www.npmjs.org/package/static-extend,,MIT License
+streamifier,Unspecified,https://www.npmjs.org/package/streamifier,,MIT License
+SVG-Morpheus,Unspecified,http://github.com/alexk111/SVG-Morpheus/,,MIT License
+test-dmg,0.1.0,https://www.npmjs.org/package/test-dmg,,ISC License
+throttleit,Unspecified,https://www.npmjs.org/package/throttleit,,MIT License
+thunks,Unspecified,http://github.com/teambition/thunks/,,MIT License
+timers-ext,Unspecified,http://github.com/medikoo/timers-ext/,,MIT License
+transformers,Unspecified,https://www.npmjs.org/package/transformers,,MIT License
+tsp-cli,Unspecified,https://www.npmjs.org/package/tsp-cli,,ISC License
+type-is,Unspecified,http://github.com/jshttp/type-is/,,MIT License
+ubase-vue,Unspecified,https://www.npmjs.org/package/ubase-vue,,ISC License
+uglify-js2,Unspecified,http://github.com/mishoo/UglifyJS2/,,"BSD 2-clause ""Simplified"" License"
+uglify-to-browserify,Unspecified,http://github.com/ForbesLindesay/uglify-to-browserify/,,MIT License
+union-value,Unspecified,https://www.npmjs.org/package/union-value,,MIT License
+url-join,Unspecified,https://www.npmjs.org/package/url-join,,MIT License
+utils-merge,Unspecified,https://www.npmjs.org/package/utils-merge,,MIT License
+vary,Unspecified,https://www.npmjs.org/package/vary,,MIT License
+vue-uuid,1.0.0,https://www.npmjs.org/package/vue-uuid,,MIT License
+winston,Unspecified,http://github.com/flatiron/winston/,,MIT License
+winston-daily-rotate-file,Unspecified,https://www.npmjs.org/package/winston-daily-rotate-file,,MIT License
+zlib,Unspecified,http://www.zlib.net,,zlib License
