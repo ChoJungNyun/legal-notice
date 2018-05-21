@@ -1,0 +1,93 @@
+oss,component,url,copyright,license
+abcinfo,trunk-20121015-svn,http://code.google.com/p/abcinfo/,,MIT License
+AntiXSS,4.3.0,http://www.nuget.org/packages/AntiXSS,,Microsoft Public License
+apracjs,Unspecified,https://www.npmjs.org/package/apracjs,,MIT License
+Bootstrap,2.3.1,http://getbootstrap.com,,Apache License 2.0
+bootstrap-daterangepicker-ext,Unspecified,https://www.npmjs.org/package/bootstrap-daterangepicker-ext,,MIT License
+bootstrap-paginator,Unspecified,http://github.com/lyonlai/bootstrap-paginator/,,Apache License 2.0
+bootstrap-ui,2.3.3,https://www.npmjs.org/package/bootstrap-ui,,MIT License
+cartodb-deep-insights.js,0.0.1,https://www.npmjs.org/package/cartodb-deep-insights.js,,"BSD 3-clause ""New"" or ""Revised"" License"
+Castle Project,Unspecified,http://sourceforge.net/projects/castleproject/,,Apache License 2.0
+Chart.js,Unspecified,https://github.com/nnnick/Chart.js,,MIT License
+ckeditor-dev,Unspecified,http://github.com/ckeditor/ckeditor-dev/,,GNU Lesser General Public License v2.1 or later
+ckeditor-releases,Unspecified,http://github.com/ckeditor/ckeditor-releases/,,Mozilla Public License 1.1
+clipboard.js,Unspecified,http://github.com/zenorocha/clipboard.js/,,MIT License
+CodeDOM Providers for .NET Compiler Platform (,Unspecified,http://www.nuget.org/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform,,Microsoft .NET Library License
+"CodeDOM Providers for .NET Compiler Platform (""Roslyn"")",1.0.1,http://www.nuget.org/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform,,Microsoft .NET Library License
+com.oreilly.servlet,26Dec2008,http://servlets.com/cos/,,com.oreilly.servlet License
+cornerstone,trunk-20110310-svn,http://code.google.com/p/cornerstone/,,MIT License
+cpik-website,trunk-20120914-svn,http://code.google.com/p/cpik-website/,,Mozilla Public License 1.1
+croppie,Unspecified,https://www.npmjs.org/package/croppie,,MIT License
+dapper-dot-net,Unspecified,http://github.com/SamSaffron/dapper-dot-net/,,Apache License 2.0
+datetimepicker,Unspecified,http://github.com/xdan/datetimepicker/,,MIT License
+DNN-JavaScript-Libraries,Unspecified,http://github.com/EngageSoftware/DNN-JavaScript-Libraries/,,MIT License
+ElyCharts,Unspecified,http://github.com/voidlabs/ElyCharts/,,MIT License
+FCKeditor - CKEditor,Unspecified,http://www.ckeditor.com,,Mozilla Public License 1.1
+fineuploader-dist,Unspecified,http://github.com/feryardiant/fineuploader-dist/,,MIT License
+fullcalendar - arshaw/fullcalendar,Unspecified,http://github.com/arshaw/fullcalendar/,,MIT License
+gibberish-aes,Unspecified,http://github.com/mdp/gibberish-aes/,,MIT License
+gridster.js,Unspecified,http://github.com/ducksboard/gridster.js/,,MIT License
+html5-history-api,4.2.7,https://www.npmjs.org/package/html5-history-api,,MIT License
+HtmlAgilityPack,Unspecified,http://www.nuget.org/packages/HtmlAgilityPack,,MIT License
+HtmlAgilityPack,1.4.9.5,http://www.nuget.org/packages/HtmlAgilityPack,,Microsoft Public License
+interact.js,Unspecified,http://github.com/taye/interact.js/,,MIT License
+JavaScript MD5,Unspecified,http://pajhome.org.uk/crypt/md5/,,"BSD 2-clause ""Simplified"" License"
+jcarousel-lite,Unspecified,http://github.com/cheald/jcarousel-lite/,,MIT License
+jquery - jquery/jquery,Unspecified,http://github.com/jquery/jquery/,,MIT License
+jquery - jquery/jquery,1.11.2,https://www.npmjs.org/package/jquery,,MIT License
+JQuery File Upload Plugin,Unspecified,http://www.nuget.org/packages/JQuery_File_Upload_Plugin,,MIT License
+jQuery paging plugin,Unspecified,http://www.xarg.org/2011/09/jquery-pagination-revised/,,MIT License
+jQuery Timepicker,Unspecified,http://github.com/wvega/timepicker,,MIT License
+jQuery UI - jquery/jquery-ui on GitHub,Unspecified,http://jqueryui.com,,MIT License
+jQuery-Autocomplete,Unspecified,http://github.com/devbridge/jQuery-Autocomplete/,,MIT License
+jquery-cookie,Unspecified,http://github.com/carhartl/jquery-cookie/,,MIT License
+jquery-fileupload-rails,Unspecified,http://github.com/tors/jquery-fileupload-rails/,,MIT License
+jquery-mousewheel,Unspecified,http://github.com/brandonaaron/jquery-mousewheel/,,MIT License
+jQuery-Storage-API,1.8.1,http://github.com/julien-maurel/jQuery-Storage-API/,,MIT License
+jquery-validation,Unspecified,http://www.nuget.org/packages/jQuery.Validation,,MIT License
+jquery.appear,Unspecified,http://github.com/morr/jquery.appear/,,MIT License
+jQuery.BlockUI,Unspecified,http://www.nuget.org/packages/jQuery.BlockUI,,MIT License
+jquery.datetimepicker.full,Unspecified,http://plugins.krajee.com,,Unknown License
+jquery.enhsplitter,Unspecified,https://www.npmjs.org/package/jquery.enhsplitter,,GNU Lesser General Public License v3.0 only
+jQuery.Form,Unspecified,http://github.com/malsup/form/,,MIT License
+jQuery.Fullcalendar,2.4.0,http://www.nuget.org/packages/jQuery.Fullcalendar,,MIT License
+jquery_jeditable,Unspecified,http://github.com/tuupola/jquery_jeditable/,,MIT License
+jsbn,Unspecified,http://github.com/jasondavies/jsbn/,,"BSD 3-clause ""New"" or ""Revised"" License"
+jstree,3.3.3,http://github.com/vakata/jstree/,,MIT License
+jsTree,Unspecified,http://jstree.com,,MIT License
+jwplayer,Unspecified,http://github.com/sathyapulse/jwplayer/,,기업에서는 상용
+LinqPad-mongo-driver,0.9,http://github.com/gburgett/LinqPad-mongo-driver/,,Apache License 2.0
+listbox.js,Unspecified,http://github.com/ikalnitsky/listbox.js/,,"BSD 3-clause ""New"" or ""Revised"" License"
+Lodash,Unspecified,http://lodash.com,,MIT License
+lodash,Unspecified,http://github.com/lodash/lodash/,,MIT License
+Microsoft Exchange WebServices 1.2,2.2.0,http://www.nuget.org/packages/Microsoft.Exchange.WebServices,,MIT License
+Microsoft.Net.Compilers,Unspecified,http://www.nuget.org/packages/Microsoft.Net.Compilers,,Microsoft .NET Library License
+MILPA,code and automation code for 1.1,http://milpa.codeplex.com/,,Microsoft Public License
+Mozilla Firefox,Unspecified,http://www.mozilla.com/en-US/firefox/,,Mozilla Public License 2.0
+mychildapp,Unspecified,http://code.google.com/p/mychildapp/,,Apache License 2.0
+nanoScrollerJS,Unspecified,http://github.com/jamesflorentino/nanoScrollerJS/,,MIT License
+owl.carousel2.thumbs,Unspecified,https://www.npmjs.org/package/owl.carousel2.thumbs,,MIT License
+OwlCarousel2 - OwlFonk/OwlCarousel2,Unspecified,http://github.com/OwlFonk/OwlCarousel2/,,MIT License
+patterns&practices: Enterprise Library Contrib,EntLibContrib 6.0 - Oracle ODP.NET for DAAB,http://entlibcontrib.codeplex.com/,,Microsoft Permissive License (Ms-PL)
+pdf.js,Unspecified,http://github.com/mozilla/pdf.js/,,Apache License 2.0
+pdfjs-dist,Unspecified,http://github.com/mozilla/pdfjs-dist/,,Apache License 2.0
+ProjeQtOr - Project Management Tool,Unspecified,http://sourceforge.net/projects/projectorria/,,GNU Lesser General Public License v3.0 or later
+purl,Unspecified,http://github.com/allmarkedup/purl/,,MIT License
+qTip2,2.2.0,http://github.com/qTip2/qTip2/,,MIT License
+rangy,Unspecified,http://code.google.com/p/rangy/,,MIT License
+Rebus,Unspecified,http://github.com/mookid8000/Rebus/,,Apache License 2.0
+rsqfullcalendar,Unspecified,https://www.npmjs.org/package/rsqfullcalendar,,MIT License
+saiku,Unspecified,http://github.com/OSBI/saiku/,,Apache License 2.0
+shaka-player,Unspecified,https://www.npmjs.org/package/shaka-player,,Apache License 2.0
+spm-handlebars,4.0.5,https://www.npmjs.org/package/handlebars,,MIT License
+SqlTableDependency,4.8.2,http://www.nuget.org/packages/SqlTableDependency,,MIT License
+StackExchange.Redis,Unspecified,http://www.nuget.org/packages/StackExchange.Redis,,MIT License
+svg.js - wout/svg.js,2.3.4,https://www.npmjs.org/package/svg.js,,MIT License
+swfupload,Unspecified,http://code.google.com/p/swfupload/,,MIT License
+thinktecture-relayserver,1.0.4,https://www.npmjs.org/package/thinktecture-relayserver,,"BSD 3-clause ""New"" or ""Revised"" License"
+timePicker,master-20111208,http://github.com/perifer/timePicker/,,MIT License
+visionstudio,trunk-20120927-svn,http://code.google.com/p/visionstudio/,,Mozilla Public License 1.1
+Visual Studio Autogenerated Code,Unspecified,http://www.visualstudio.com/,,Microsoft Enterprise Library License
+Visual Studio Autogenerated Code,2015,http://www.blackducksoftware.com,,Microsoft Enterprise Library License
+waypoints-mrd,4.0.0,http://github.com/xinxinran0221010/waypoints-mrd/,,MIT License
+ym-echarts,3.6.2,http://github.com/ecomfe/echarts/,,Apache License 2.0
