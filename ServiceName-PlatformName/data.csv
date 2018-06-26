@@ -1,0 +1,27 @@
+oss,component,url,copyright,license
+Apache Drill,1.5.0,http://drill.apache.org/,2012-2014 The Apache Software Foundation,Apache License 2.0
+Apache HttpClient,4.3.6,http://hc.apache.org/httpcomponents-client-ga/,The Apache Software Foundation,Apache License 2.0
+Apache Log4j - log4j:log4j,1.2.5 (2),http://logging.apache.org/log4j/1.2/,1999-2012 Apache Software Foundation,Apache License 2.0
+Apache Spark,Unspecified,https://spark.apache.org/,2018 The Apache Software Foundation,Apache License 2.0
+Apache Tomcat,6.0.36,http://jakarta.apache.org/tomcat/index.html,"1999-2018, The Apache Software Foundation",Apache License 2.0
+ASM,Unspecified,http://repo.maven.apache.org/maven2/org/ow2/asm/asm/,"2000-2011 INRIA, France Telecom","BSD 3-clause ""New"" or ""Revised"" License"
+cmu-mse-analysis-team3,trunk-20121009-svn,http://code.google.com/p/cmu-mse-analysis-team3/,,Artistic License 1.0
+crypto-js,Unspecified,http://code.google.com/p/crypto-js/,"2009-2013 Jeff Mott, 2013-2016 Evan Vosberg","BSD 3-clause ""New"" or ""Revised"" License"
+Eclipse Project,Unspecified,http://www.eclipse.org/eclipse/index.php,Eclipse Foundation ,Eclipse Public License 1.0
+Hibernate,3.3.2.GA,http://www.hibernate.org/,RedHat,GNU Lesser General Public License v2.1 or later
+java-buildpack-metric-writer,Unspecified,http://github.com/cloudfoundry/java-buildpack-metric-writer/,"2016-Present CloudFoundry.org Foundation, Inc.",Apache License 2.0
+Javassist,Unspecified,https://github.com/jboss-javassist/javassist,1999-2018 by Shigeru Chiba,Mozilla Public License 1.1
+JBoss Community - Javassist - org.jboss:javassist,Unspecified,http://jboss.com/products/javassist,1999-2018 by Shigeru Chiba,Apache License 2.0
+Jetty - Java HTTP Servlet Server,Unspecified,https://github.com/eclipse/jetty.project,1995-2018 Mort Bay Consulting Pty Ltd,Apache License 2.0
+Jetty :: Project,Unspecified,http://www.eclipse.org/jetty,1995-2018 Mort Bay Consulting Pty Ltd,Eclipse Public License 1.0
+jquery - jquery/jquery,Unspecified,http://github.com/jquery/jquery/,"JS Foundation and other contributors, https://js.foundation/",MIT License
+json-simple,1.1.1,http://code.google.com/p/json-simple/,"Yidong Fang, Chris Nokleberg, Dave Hughes",Apache License 2.0
+Maven Wrapper,Unspecified,https://github.com/rimerosolutions/maven-wrapper/,2007 the original author or authors,Apache License 2.0
+ribbon-loadbalancer,2.0.0,http://repo.maven.apache.org/maven2/com/netflix/ribbon/ribbon-loadbalancer/,"2013 Netflix, Inc",Apache License 2.0
+Scouter,Unspecified,https://github.com/scouter-project/scouter,"2006 Hyperic, Inc. 2010 VMware, Inc.",Apache License 2.0
+scouter.webapp,Unspecified,http://repo.maven.apache.org/maven2/io/github/scouter-project/scouter-webapp/,"2006 Hyperic, Inc. 2010 VMware, Inc.",Apache License 2.0
+sigar,Unspecified,http://github.com/hyperic/sigar/,"2004-2011 VMware, Inc.",Apache License 2.0
+spring-boot-admin,1.5.0,http://github.com/codecentric/spring-boot-admin/,"Pivotal Software, Inc. ",Apache License 2.0
+spring-boot-admin-sample-discovery,Unspecified,http://repo.maven.apache.org/maven2/de/codecentric/spring-boot-admin-sample-discovery/,"Pivotal Software, Inc. ",Apache License 2.0
+swt-xy-graph,Unspecified,http://code.google.com/p/swt-xy-graph/,Eclipse Nebula ,Eclipse Public License 1.0
+TadpoleForDBTools,Unspecified,http://github.com/hangum/TadpoleForDBTools/,"nilriri (jeongjaehong@gmail.com), hangum (hangum@gmail.com), BillyGoo (sangmo.gu@gmail.com)",GNU Lesser General Public License v2.1 or later
