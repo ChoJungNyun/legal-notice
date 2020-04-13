@@ -1,0 +1,13 @@
+oss,component,url,copyright,license
+Apache Beam,,https://github.com/apache/beam,,Apache License 2.0
+Apache Camel,,http://github.com/apache/camel/,,Apache License 2.0
+Apache Commons Lang,,http://commons.apache.org/proper/commons-lang/,,Apache License 2.0
+Apache Commons Lang,,http://jakarta.apache.org/commons/lang/index.html,,Apache License 2.0
+Apache MyFaces JSF-2.0 Core Module,,http://mirrors.ibiblio.org/maven2/org/apache/myfaces/core/myfaces-core-module/,,Apache License 2.0
+Commons IO,,https://maven.repository.redhat.com/ga/commons-io/commons-io/,,Apache License 2.0
+jetty.project,,http://github.com/eclipse/jetty.project/,,Apache License 2.0
+Log4J Core,,http://logging.apache.org/log4j/2.x/log4j-core/,,Apache License 2.0
+MiGBase64,2.2,http://sourceforge.net/projects/migbase64/,,"BSD 3-clause ""New"" or ""Revised"" License"
+mybatis,,http://code.google.com/p/mybatis/,,Apache License 2.0
+mybatis2,2.3.6,http://repo.maven.apache.org/maven2/org/mybatis/mybatis2/,,Apache License 2.0
+spring-framework,,http://github.com/spring-projects/spring-framework/,,Apache License 2.0
