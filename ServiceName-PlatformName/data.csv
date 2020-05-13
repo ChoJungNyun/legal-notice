@@ -1,0 +1,249 @@
+oss,component,url,copyright,license
+akka-actor,2.3.11,http://repo.maven.apache.org/maven2/com/typesafe/akka/akka-actor_2.10/,,Apache License 2.0
+Apache Commons JCS :: Core,,http://repo.maven.apache.org/maven2/org/apache/commons/commons-jcs-core/,,Apache License 2.0
+Apache HttpClient,,https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/,,Apache License 2.0
+Apache Kafka - org.apache.kafka:kafka-clients,,http://repo.maven.apache.org/maven2/org/apache/kafka/kafka-clients/,,Apache License 2.0
+Apache Oozie,,http://github.com/apache/oozie/,,Apache License 2.0
+ASM - org.ow2.asm:asm-parent,,http://asm.objectweb.org/,,"BSD 3-clause ""New"" or ""Revised"" License"
+Bootstrap,,http://github.com/twbs/bootstrap/,,MIT License
+config - com.typesafe:config,1.2.1,https://github.com/typesafehub/config,,Apache License 2.0
+crypto-js,,http://github.com/brix/crypto-js/,,MIT License
+grunt-karma - karma-runner/grunt-karma,,https://www.npmjs.org/package/grunt-karma,,MIT License
+jquery - jquery/jquery,,http://github.com/jquery/jquery/,,MIT License
+Kryo,2.21,http://code.google.com/p/kryo/,,"BSD 3-clause ""New"" or ""Revised"" License"
+mariadb-java-client,2.2.3,http://repo.maven.apache.org/maven2/org/mariadb/jdbc/mariadb-java-client/,,GNU Lesser General Public License v2.1 or later
+minlog,,http://code.google.com/p/minlog/,,"BSD 3-clause ""New"" or ""Revised"" License"
+mysql/mysql-connector-j,,https://github.com/mysql/mysql-connector-j,,GNU General Public License v2.0 or later
+objenesis,,http://objenesis.googlecode.com/svn/docs/index.html,,Apache License 2.0
+Oracle Database JDBC Drivers,12.2.0.1,http://www.oracle.com/technetwork/database/features/jdbc/index-091264.html,,Oracle Technology Network Development and Distribution 11/2016 License
+Oracle JDBC Drivers,12.1.0.1,http://www.oracle.com/technology/software/tech/java/sqlj_jdbc/index.html,,Oracle Technology Network Development and Distribution 01-2009 License
+Oracle JDBC Drivers,12.2.0.1,http://www.oracle.com/technology/software/tech/java/sqlj_jdbc/index.html,,Oracle Technology Network Development and Distribution 01-2009 License
+Original_General_Use,,,,
+Original_General_Use,,,,
+Original_Miss_Match-Define,,,,
+Original_Not_Source_Code-Auto,,,,
+Original_Not_Source_Code-Setup,No Label,,,
+Postgresql JDBC Driver,,http://jdbc.postgresql.org/,,"BSD 2-clause ""Simplified"" License"
+Redshift JDBC42 NO AWSSDK,,,,
+reflectasm,,http://github.com/EsotericSoftware/reflectasm/,,"BSD 3-clause ""New"" or ""Revised"" License"
+spray JSON,,http://github.com/spray/spray-json/,,Apache License 2.0
+zcourts-angular-master,,http://github.com/angular/angular.js/,,MIT License
+AmCharts,,http://github.com/amcharts/amcharts3/,,AmCharts Linkware License
+amcharts/amcharts4,,https://github.com/amcharts/amcharts4,,AmCharts Linkware License
+Apache License 2.0,2,http://www.apache.org,,Apache License 2.0
+Bootstrap,,http://github.com/twbs/bootstrap/,,MIT License
+fizyr/keras-retinanet,,https://github.com/fizyr/keras-retinanet,,Apache License 2.0
+Font-Awesome,,http://github.com/FortAwesome/Font-Awesome/,,MIT License
+GoJS for HTML5 Canvas,,http://www.nuget.org/packages/Northwoods.GoJS,,
+handlebars.js - components/handlebars.js,4.0.10,https://www.npmjs.org/package/handlebars,,MIT License
+highlightjs,,http://github.com/components/highlightjs/,,"BSD 3-clause ""New"" or ""Revised"" License"
+highlightjs/highlight.js,,https://github.com/highlightjs/highlight.js,,"BSD 3-clause ""New"" or ""Revised"" License"
+karma-runner karma,,https://www.npmjs.org/package/karma,,MIT License
+kazana,,https://www.npmjs.org/package/kazana,,Apache License 2.0
+lanpa/tensorboardX,,https://github.com/lanpa/tensorboardX,,MIT License
+mustache.js,2.3.0,http://github.com/janl/mustache.js/,,MIT License
+Original_General_Use,,,,
+Original_General_Use,,,,
+Original_Not_Source_Code-Auto,,,,
+Original_Not_Source_Code-Font,,,,
+Original_Not_Source_Code-Setup,No Label,,,
+Original_Not_Source_Code-Text,No Label,,,
+sockjs-client - sockjs/sockjs-client,v1.1.4,http://github.com/sockjs/sockjs-client/,,MIT License
+specs2,SPECS2-3.0-M4-20150227014550-82f068c,http://github.com/etorreborre/specs2/,,MIT License
+specs2,SPECS2-4.3.0,http://github.com/etorreborre/specs2/,,MIT License
+spm-handlebars,4.0.10,https://www.npmjs.org/package/handlebars,,MIT License
+tensorflow,,http://github.com/tensorflow/tensorflow/,,Apache License 2.0
+vertx-spring-boot-starter,,http://repo.maven.apache.org/maven2/com/dinstone/vertx/vertx-spring-boot-starter/,,Apache License 2.0
+vertx-web,3.4.2.redhat-006,https://maven.repository.redhat.com/ga/io/vertx/vertx-web/,,Apache License 2.0
+zcourts-angular-master,,http://github.com/angular/angular.js/,,MIT License
+akka-actor,2.3.9,http://repo.maven.apache.org/maven2/com/typesafe/akka/akka-actor_2.10/,,Apache License 2.0
+akka-testkit,2.3.9,http://repo.maven.apache.org/maven2/com/typesafe/akka/akka-testkit_2.10/,,Apache License 2.0
+AmCharts,,http://github.com/amcharts/amcharts3/,,AmCharts Linkware License
+amcharts/amcharts4,,https://github.com/amcharts/amcharts4,,
+Apache Ant,1.9.9,http://ant.apache.org/,,Apache License 2.0
+Apache Avro,1.7.4,https://github.com/apache/avro,,Apache License 2.0
+Apache Avro,,https://github.com/apache/avro,,Apache License 2.0
+Apache Commons Collections,,http://commons.apache.org/collections/,,Apache License 2.0
+Apache Commons Collections,3.2.2,http://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/,,Apache License 2.0
+Apache Commons Daemon,1.0.13,http://commons.apache.org/daemon/,,Apache License 2.0
+Apache Commons Lang,2.6 (1),http://commons.apache.org/proper/commons-lang/,,Apache License 2.0
+Apache Commons Lang,3.4 (1),http://commons.apache.org/proper/commons-lang/,,Apache License 2.0
+Apache Commons Lang,,http://commons.apache.org/proper/commons-lang/,,Apache License 2.0
+Apache Commons Logging,1.1.3,http://commons.apache.org/proper/commons-logging/,,Apache License 2.0
+Apache Commons Net,,http://commons.apache.org/proper/commons-net/,,Apache License 2.0
+Apache Curator,2.7.1,http://repo.maven.apache.org/maven2/org/apache/curator/apache-curator/,,Apache License 2.0
+Apache Directory API ASN.1 API,1.0.0-M20,http://directory.apache.org/api-parent/api-asn1-parent/api-asn1-api/,,Apache License 2.0
+Apache Directory API ASN.1 Parent,1.0.0-M20,http://directory.apache.org/api-parent/api-asn1-parent/,,Apache License 2.0
+Apache Directory LDAP API,1.0.0-M20,http://directory.apache.org/api-parent/,,Apache License 2.0
+Apache Directory LDAP API Utilities,1.0.0-M20,http://directory.apache.org/api-parent/api-util/,,Apache License 2.0
+Apache Directory Project - org.apache.directory.project:project,31,http://directory.apache.org/,,Apache License 2.0
+Apache Hadoop,,http://github.com/apache/hadoop/,,Apache License 2.0
+Apache Hadoop Amazon Web Services support,2.7.1,http://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-aws/,,Apache License 2.0
+Apache Hadoop Annotations,2.7.2,http://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-annotations/,,Apache License 2.0
+Apache Hadoop Auth,2.7.2,http://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-auth/,,Apache License 2.0
+Apache Hadoop Common - org.apache.hadoop:hadoop-common,2.7.2,http://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-common/,,Apache License 2.0
+Apache Hadoop HDFS,2.7.2,http://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-hdfs/,,Apache License 2.0
+Apache HttpClient,,https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/,,Apache License 2.0
+Apache HttpComponents Core,,http://hc.apache.org/httpcomponents-core/,,Apache License 2.0
+Apache Jakarta Commons BeanUtils,,http://jakarta.apache.org/commons/beanutils/index.html,,Apache License 2.0
+Apache Jakarta Commons BeanUtils,1.7.0,http://jakarta.apache.org/commons/beanutils/index.html,,Apache License 2.0
+Apache Jakarta Commons Codec,,http://jakarta.apache.org/commons/codec/,,Apache License 2.0
+Apache Jakarta Commons Compress,1.4.1,http://jakarta.apache.org/commons/sandbox/compress/index.html,,Apache License 2.0
+Apache Jakarta Commons Configuration,1.6,http://jakarta.apache.org/commons/configuration/,,Apache License 2.0
+Apache Jakarta Commons Digester,1.8,http://jakarta.apache.org/commons/digester/index.html,,Apache License 2.0
+Apache Jakarta HTTP Client,3.1,http://jakarta.apache.org/commons/httpclient/,,Apache License 2.0
+Apache Kafka - org.apache.kafka:kafka-clients,,http://repo.maven.apache.org/maven2/org/apache/kafka/kafka-clients/,,Apache License 2.0
+Apache Kafka - org.apache.kafka:kafka-clients,0.9.0.1,http://repo.maven.apache.org/maven2/org/apache/kafka/kafka-clients/,,Apache License 2.0
+Apache Log4j - log4j:log4j,,http://logging.apache.org/log4j/2.x/,,Apache License 2.0
+Apache Maven,,http://github.com/apache/maven/,,Apache License 2.0
+Apache Spark,,http://github.com/apache/spark/,,Apache License 2.0
+Apache ZooKeeper,release-3.4.6,http://github.com/apache/zookeeper/,,Apache License 2.0
+Apache-Jakarta Codec,1.4,http://jakarta.apache.org/commons/codec/,,Apache License 2.0
+Apache-XML Xerces Java 2 - in Java,2.9.0,http://xml.apache.org/xerces2-j/index.html,,Apache License 2.0
+Apache-XML Xerces Java 2 - in Java,2.9.1,http://xml.apache.org/xerces2-j/index.html,,Apache License 2.0
+ApacheDS - org.apache.directory.server:apacheds-parent,2.0.0-M15,http://directory.apache.org/apacheds/1.5,,Apache License 2.0
+ApacheDS I18n,2.0.0-M15,http://directory.apache.org/apacheds/1.5/apacheds-i18n,,Apache License 2.0
+ApacheDS Protocol Kerberos Codec,2.0.0-M15,http://directory.apache.org/apacheds/1.5/apacheds-kerberos-codec,,Apache License 2.0
+ASM,,http://repo.maven.apache.org/maven2/org/ow2/asm/asm/,,"BSD 3-clause ""New"" or ""Revised"" License"
+ASM - org.ow2.asm:asm-parent,,http://asm.objectweb.org/,,"BSD 3-clause ""New"" or ""Revised"" License"
+ASM Commons,,http://repo1.maven.org/maven2/asm/asm-commons/,,"BSD 3-clause ""New"" or ""Revised"" License"
+ASM Tree,,http://repo1.maven.org/maven2/asm/asm-tree/,,"BSD 3-clause ""New"" or ""Revised"" License"
+AWS SDK For Java,1.7.4,http://github.com/aws/aws-sdk-java/,,Apache License 2.0
+"BSD 3-clause ""New"" or ""Revised"" License",,http://www.opensource.org/licenses/bsd-license.php,,"BSD 3-clause ""New"" or ""Revised"" License"
+CDI APIs,,https://repository.jboss.org/nexus/content/groups/public-jboss/javax/enterprise/cdi-api/,,Apache License 2.0
+Common Annotations - JSR-250,,http://jsr250.dev.java.net/,,Common Development and Distribution License 1.0
+Common Annotations - JSR-250,1,http://jsr250.dev.java.net/,,Common Development and Distribution License 1.0
+Commons BeanUtils Core,,http://repo1.maven.org/maven2/commons-beanutils/commons-beanutils-core/,,Apache License 2.0
+Commons BeanUtils Core,1.8.0,http://repo1.maven.org/maven2/commons-beanutils/commons-beanutils-core/,,Apache License 2.0
+Commons CLI,1.2,http://repo1.maven.org/maven2/commons-cli/commons-cli/,,Apache License 2.0
+Commons IO,2.4,http://jakarta.apache.org/commons/io/,,Apache License 2.0
+Commons Math,3.1.1,http://commons.apache.org/math/,,Apache License 2.0
+commons-cli,,http://github.com/vikiyou/commons-cli/,,Apache License 2.0
+config - com.typesafe:config,1.2.1,https://github.com/typesafehub/config,,Apache License 2.0
+Curator Client - org.apache.curator:curator-client,2.7.1,http://repo.maven.apache.org/maven2/org/apache/curator/curator-client/,,Apache License 2.0
+Curator Framework,2.7.1,http://repo.maven.apache.org/maven2/org/apache/curator/curator-framework/,,Apache License 2.0
+Curator Recipes,2.7.1,http://repo.maven.apache.org/maven2/org/apache/curator/curator-recipes/,,Apache License 2.0
+Drools,,https://github.com/kiegroup/drools,,Apache License 2.0
+FasterXML.com parent pom - com.fasterxml:oss-parent,11,http://github.com/FasterXML/,,GNU Lesser General Public License v2.1 or later
+FindBugs-jsr305 - com.google.code.findbugs:jsr305,,http://findbugs.sourceforge.net/,,Apache License 2.0
+FuseSource POM,1.9,http://repo1.maven.org/maven2/org/fusesource/fusesource-pom/,,Apache License 2.0
+GoJS for HTML5 Canvas,,http://www.nuget.org/packages/Northwoods.GoJS,,
+Gson,2.2.4,http://code.google.com/p/google-gson/,,Apache License 2.0
+Guava (Google Common Libraries),11.0.2,http://code.google.com/p/guava-libraries/guava,,Apache License 2.0
+Guava: Google Core Libraries for Java,11.0.2,http://repo.maven.apache.org/maven2/com/google/guava/guava-gwt/,,Apache License 2.0
+htrace-core,3.1.0-incubating,http://repo.maven.apache.org/maven2/org/htrace/htrace-core/,,Apache License 2.0
+Jackson-annotations,2.2.3,http://wiki.fasterxml.com/JacksonHome/jackson-jaxrs-json-provider,,Apache License 2.0
+Jackson-annotations,,http://wiki.fasterxml.com/JacksonHome,,Apache License 2.0
+Jackson-core,2.2.3 (2),http://wiki.fasterxml.com/JacksonHome,,Apache License 2.0
+jackson-core,,http://wiki.fasterxml.com/JacksonHome,,Apache License 2.0
+jackson-databind,2.2.3,http://wiki.fasterxml.com/JacksonHome,,Apache License 2.0
+jansi,1.4,http://repo1.maven.org/maven2/org/fusesource/jansi/jansi/,,Apache License 2.0
+Java Architecture for XML Binding - javax.xml.bind:jaxb-api,,http://jaxb.java.net/,,Sun GPL With Classpath Exception v2.0
+Java Grok,0.1.9,http://repo.maven.apache.org/maven2/io/krakens/java-grok/,,Apache License 2.0
+Java Message Service (JMS),1.1,http://java.sun.com/products/jms/index.jsp,,Sun Java Message Service 1.1 License
+Java Servlet API,,https://maven.repository.redhat.com/ga/javax/servlet/javax.servlet-api/,,Sun GPL With Classpath Exception v2.0
+java-xmlbuilder,,http://code.google.com/p/java-xmlbuilder/,,Apache License 2.0
+JavaBeans Activation Framework (JAF),1.1,http://java.sun.com/products/javabeans/glasgow/jaf.html,,Sun JavaBeans Activation Framework 1.1 License for non-redistributables
+JavaBeans Activation Framework (JAF),,http://java.sun.com/products/javabeans/glasgow/jaf.html,,Sun JavaBeans Activation Framework 1.1.1 License for non-redistributables
+javax.inject,,http://repo1.maven.org/maven2/javax/inject/javax.inject/,,Apache License 2.0
+jaxb-impl (repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-ri),,http://jaxb.java.net/jaxb-runtime-parent/jaxb-runtime,,Sun GPL With Classpath Exception v2.0
+jersey-core,1.9,http://repo1.maven.org/maven2/com/sun/jersey/jersey-core/,,Sun GPL With Classpath Exception v2.0
+jersey-json,1.9,http://repo1.maven.org/maven2/com/sun/jersey/jersey-json/,,Sun GPL With Classpath Exception v2.0
+jersey-project,1.9,http://repo1.maven.org/maven2/com/sun/jersey/jersey-project/,,Sun GPL With Classpath Exception v2.0
+jersey-server,1.9,http://repo1.maven.org/maven2/com/sun/jersey/jersey-server/,,Sun GPL With Classpath Exception v2.0
+JetS3t,,http://jets3t.s3.amazonaws.com/index.html,,Apache License 2.0
+Jettison,1.1,http://jettison.codehaus.org/,,Apache License 2.0
+jetty - org.mortbay.jetty,10,http://repo1.maven.org/maven2/org/mortbay/jetty/jetty-parent/,,Apache License 2.0
+Jetty :: Administrative Parent,14,http://repo1.maven.org/maven2/org/eclipse/jetty/jetty-parent/,,Apache License 2.0
+Jetty :: Utilities,,http://www.eclipse.org/jetty/jetty-util,,Apache License 2.0
+"Jetty: Java based HTTP, Servlet, SPDY, WebSocket Server",6.1.26,http://www.eclipse.org/jetty/,,Apache License 2.0
+JIRA Service Desk,3.0.5,https://www.atlassian.com/software/jira/service-desk,,Atlassian 3.0 End User License Agreement
+JLine - jline:jline,,http://nexus.sonatype.org/oss-repository-hosting.html/jline,,"BSD 3-clause ""New"" or ""Revised"" License"
+jline - org.scala-lang:jline,,http://www.scala-lang.org/,,"BSD 3-clause ""New"" or ""Revised"" License"
+joda-time,2.2,http://joda-time.sourceforge.net,,Apache License 2.0
+JOpt Simple,,http://pholser.github.io/jopt-simple/,,MIT License
+JSCH,,http://www.jcraft.com/jsch/index.html,,JSch License
+JSch,0.1.42,http://sourceforge.net/projects/jsch/,,JSch License
+json4s-ast,,https://github.com/json4s/json4s,,Apache License 2.0
+json4s-core,,https://github.com/json4s/json4s,,Apache License 2.0
+json4s-native,3.3.0,http://repo.maven.apache.org/maven2/org/json4s/json4s-native_2.10/,,Apache License 2.0
+json4s-scalap,3.3.0,http://repo.maven.apache.org/maven2/org/json4s/json4s-scalap_2.11/,,Apache License 2.0
+jsp-api,2.1,http://repo1.maven.org/maven2/javax/servlet/jsp/jsp-api/,,Common Development and Distribution License 1.0
+JUnit,3.8.1,http://junit.org,,Common Public License 1.0
+karma-runner karma,,https://www.npmjs.org/package/karma,,MIT License
+Launcher Interface,1.0.1,http://repo.maven.apache.org/maven2/org/scala-sbt/launcher-interface/,,"BSD 3-clause ""New"" or ""Revised"" License"
+leveldbjni,leveldbjni-1.8,http://github.com/fusesource/leveldbjni/,,"BSD 3-clause ""New"" or ""Revised"" License"
+leveldbjni-all,1.8,http://leveldbjni.fusesource.org/leveldbjni-all,,"BSD 3-clause ""New"" or ""Revised"" License"
+lz4-java,1.2.0,http://github.com/jpountz/lz4-java/,,Apache License 2.0
+Maven Artifact,,http://maven.apache.org/ref/3.0.4/maven-artifact,,Apache License 2.0
+Maven Model,,http://repo1.maven.org/maven2/maven/maven-model/,,Apache License 2.0
+Maven Plugin API,3.3.9,https://maven.repository.redhat.com/ga/org/apache/maven/maven-plugin-api/,,Apache License 2.0
+Metrics Core Library,2.2.0,http://metrics.codahale.com/metrics-core/,,Apache License 2.0
+Metrics Parent,2.2.0,http://metrics.codahale.com/,,Apache License 2.0
+MIME streaming extension,1.9.5,http://repo.maven.apache.org/maven2/org/jvnet/mimepull/mimepull/,,Sun GPL With Classpath Exception v2.0
+MySQL Connector/J,5.1.38,http://www.mysql.com/products/connector/j/,,GNU General Public License v2.0 or later
+Netty Project,,http://netty.io/,,Apache License 2.0
+org.eclipse.sisu.inject,0.3.2,http://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/,,Eclipse Public License 1.0
+org.eclipse.sisu.plexus,0.3.2,http://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/,,Eclipse Public License 1.0
+Original_General_Use,,,,
+Original_Not_Source_Code-Auto,,,,
+Original_Not_Source_Code-Font,,,,
+Original_Not_Source_Code-Text,No Label,,,
+ParaNamer,,http://paranamer.codehaus.org/,,Public Domain
+ParaNamer Core,2.6,http://paranamer.codehaus.org/paranamer,,"BSD 3-clause ""New"" or ""Revised"" License"
+ParaNamer Core,2.8,http://repo.maven.apache.org/maven2/com/thoughtworks/paranamer/paranamer/,,"BSD 3-clause ""New"" or ""Revised"" License"
+ParaNamer Parent,,http://mirrors.ibiblio.org/pub/mirrors/maven2/com/thoughtworks/paranamer/paranamer-parent/,,"BSD 3-clause ""New"" or ""Revised"" License"
+parboiled,1.1.7,http://github.com/sirthias/parboiled/,,Apache License 2.0
+parboiled-core,1.1.7,http://repo.maven.apache.org/maven2/org/parboiled/parboiled-core/,,Apache License 2.0
+parser (repo.maven.apache.org/maven2/org/spire-math/jawn-parser_2.10),0.6.0,http://repo.maven.apache.org/maven2/org/spire-math/jawn-parser_2.11/,,MIT License
+Plexus,plexus-2.0.7,http://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/,,
+Plexus,,http://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/,,
+Plexus,plexus-containers-1.5.5,http://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/,,Apache License 2.0
+Plexus :: Component Annotations,,http://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/,,Apache License 2.0
+Plexus Classworlds,2.5.2,http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/,,Apache License 2.0
+Protocol Buffers [Core],,http://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/,,"BSD 3-clause ""New"" or ""Revised"" License"
+quasiquotes,2.0.1,http://repo.maven.apache.org/maven2/org/scalamacros/quasiquotes_2.10/,,"BSD 3-clause ""New"" or ""Revised"" License"
+reactive-streams,,http://github.com/reactive-streams/reactive-streams-jvm/,,Creative Commons Zero v1.0 Universal
+sbt-launch,,http://repo1.maven.org/maven2/org/scala-tools/sbt/sbt-launch/,,Apache License 2.0
+Scala Compiler - org.scala-lang:scala-reflect,,http://repo.maven.apache.org/maven2/org/scala-lang/scala-reflect/,,"BSD 3-clause ""New"" or ""Revised"" License"
+Scala Kafka,0.1.0.0,http://repo.maven.apache.org/maven2/ly/stealth/scala-kafka/,,Apache License 2.0
+scala-compiler,,http://github.com/rjolly/scala-compiler/,,"BSD 3-clause ""New"" or ""Revised"" License"
+scala-library,,http://repo1.maven.org/maven2/org/scala-lang/scala-library/,,"BSD 3-clause ""New"" or ""Revised"" License"
+scala-parser-combinators,,http://www.scala-lang.org/,,"BSD 3-clause ""New"" or ""Revised"" License"
+scala/scala-xml,,http://github.com/scala/scala-xml/,,"BSD 3-clause ""New"" or ""Revised"" License"
+scalactic,3.0.1,http://repo.maven.apache.org/maven2/org/scalactic/scalactic_2.11/,,Apache License 2.0
+scalaz-concurrent,7.0.6,http://scalaz.org,,"BSD 3-clause ""New"" or ""Revised"" License"
+scalaz-core,7.0.6,http://scalaz.org,,"BSD 3-clause ""New"" or ""Revised"" License"
+scalaz-effect,7.0.6,http://scalaz.org,,"BSD 3-clause ""New"" or ""Revised"" License"
+shapeless,,http://github.com/milessabin/shapeless/,,Apache License 2.0
+Simple Logging Facade for Java (SLF4J),,http://github.com/qos-ch/slf4j/,,MIT License
+Simple Logging Facade for Java (SLF4J),1.7.10 (2),http://github.com/qos-ch/slf4j/,,MIT License
+Simple Logging Facade for Java (SLF4J),1.6.4 (2),http://github.com/qos-ch/slf4j/,,MIT License
+Sisu Inject - org.eclipse.sisu:sisu-inject,0.3.2,http://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-inject/,,Eclipse Public License 1.0
+Sisu Plexus,0.3.2,http://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-plexus/,,Eclipse Public License 1.0
+SLF4J API Module,1.7.10,http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/,,MIT License
+SLF4J LOG4J-12 Binding,1.7.10,http://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/,,MIT License
+SLF4J NOP Binding,1.6.4,http://repo1.maven.org/maven2/org/slf4j/slf4j-nop/,,MIT License
+slick - slick/slick,3.1.1,http://github.com/slick/slick/,,"BSD 2-clause ""Simplified"" License"
+Slick-CodeGen,3.1.1,http://repo.maven.apache.org/maven2/com/typesafe/slick/slick-codegen_2.11/,,"BSD 2-clause ""Simplified"" License"
+snappy-java,1.1.1.7,http://repo.maven.apache.org/maven2/org/xerial/snappy/snappy-java/,,Apache License 2.0
+specs2-common,2.3.11,http://specs2.org/,,MIT License
+specs2-core,2.3.11,http://specs2.org/,,MIT License
+specs2-matcher,2.3.11,http://specs2.org/,,MIT License
+spray-client,1.3.4,http://repo.maven.apache.org/maven2/io/spray/spray-client_2.11/,,Apache License 2.0
+spray-http,1.3.4,http://repo.maven.apache.org/maven2/io/spray/spray-http_2.11/,,Apache License 2.0
+spray-httpx,1.3.4,http://repo.maven.apache.org/maven2/io/spray/spray-httpx_2.11/,,Apache License 2.0
+spray-io,1.3.4,http://repo.maven.apache.org/maven2/io/spray/spray-io_2.11/,,Apache License 2.0
+spray-routing,1.3.4,http://repo.maven.apache.org/maven2/io/spray/spray-routing_2.11/,,Apache License 2.0
+spray-testkit,1.3.4,http://repo.maven.apache.org/maven2/io/spray/spray-testkit_2.11/,,Apache License 2.0
+spray-util,1.3.4,http://repo.maven.apache.org/maven2/io/spray/spray-util_2.11/,,Apache License 2.0
+Streaming API for XML (StAX) - JSR-173,,https://mvnrepository.com/artifact/stax/stax,,Apache License 2.0
+The Netty Project,3.7.0.Final,http://netty.io/,,Apache License 2.0
+The Netty Project,4.0.23.Final,http://repo.maven.apache.org/maven2/io/netty/netty/,,Apache License 2.0
+Xerces2 Java Parser,2.9.1,http://repo1.maven.org/maven2/xerces/xercesImpl/,,Apache License 2.0
+Xml Compatibility extensions for Jackson,,https://mvnrepository.com/artifact/org.codehaus.jackson/jackson-mapper-asl,,GNU Lesser General Public License v2.1 or later
+xmlenc,0.52,http://sourceforge.net/projects/xmlenc/,,"BSD 3-clause ""New"" or ""Revised"" License"
+XZ for Java,1,http://repo1.maven.org/maven2/org/tukaani/xz/,,Public Domain
+zcourts-angular-master,,http://github.com/angular/angular.js/,,MIT License
+ZkClient,0.7,http://repo.maven.apache.org/maven2/com/101tec/zkclient/,,Apache License 2.0
+ZT Zip,,http://github.com/zeroturnaround/zt-zip/,,Apache License 2.0
